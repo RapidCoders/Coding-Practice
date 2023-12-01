@@ -1,5 +1,4 @@
-Q1. 
-Write a program which accept number from the user and check whether it contains zero in it or not.
+Q1. Write a program which accept number from the user and check whether it contains zero in it or not.
 
 Input : 2395
 Output : There is no zero.
