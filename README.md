@@ -26,4 +26,4 @@ Output: True.
 Input: 2013\
 Output: False.
 
-**Author: S G**
+**Author: Shreyash**
