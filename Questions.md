@@ -1,9 +1,6 @@
-# Q1. Write a program which accept number from the user and check whether it is prime or not.
+# My Awesome Document
 
-Input: 31\
-Output: Is is a prime number.
+Author: John Doe
 
-Input: 20\
-Output: It is not a prime number.
+...
 
-**Author: Vaibhav**
