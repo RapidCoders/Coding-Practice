@@ -8,7 +8,6 @@
 # Author: Vaibhav
 
 # Code
-
 input_num = int(input("Enter the Number :"))
 flag = 0
 for i in range(2,input_num):
@@ -16,14 +15,12 @@ for i in range(2,input_num):
     flag = 1
     break
 if flag == 1:
-  print(f"{input_num} Not Prime")
+  print(f"{input_num} is Not Prime")
 else:
-  print(f"{input_num} Prime")
-
+  print(f"{input_num} is Prime")
 
 
 # Function Code
-input_num = int(input("Enter the Number :"))
 def prn(input_num):
     flag = 0
     for i in range(2,input_num):
@@ -35,4 +32,7 @@ def prn(input_num):
     else:
          print(f"{input_num} Prime")
 
-prn(input_num)
+
+if __name__ == "__main__":
+    input_num = int(input("Enter the Number :"))
+    prn(input_num)
