@@ -6,4 +6,4 @@ Output : Is is a prime number.
 Input : 20\
 Output : It is not a prime number.
 
-Author: Vaibhav
+**Author: Vaibhav**
