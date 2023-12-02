@@ -19,3 +19,20 @@ if flag == 1:
   print(f"{input_num} Not Prime")
 else:
   print(f"{input_num} Prime")
+
+
+
+# Function Code
+input_num = int(input("Enter the Number :"))
+def prn(input_num):
+    flag = 0
+    for i in range(2,input_num):
+        if input_num%i==0:
+            flag = 1
+            break
+    if flag == 1:
+        print(f"{input_num} Not Prime")
+    else:
+         print(f"{input_num} Prime")
+
+prn(input_num)
