@@ -1,3 +1,4 @@
+[Day 1](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_1)
 # Q1. Write a program which accept number from the user and check whether it is prime or not.
 
 Input: 31\
