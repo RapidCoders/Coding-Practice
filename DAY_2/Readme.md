@@ -18,12 +18,12 @@ Output: Number of digits are 3.
 
 **Author: Suyash**
 
-# Q3. Write a program which takes a year as input and check whether it is leap year or not.
+# Q3. Write a function that reverses a string..
 
-Input: 2000\
-Output: True.
+Input: SHREYASH\
+Output: HSAYERHS
 
-Input: 2013\
-Output: False.
+Input: COOL\
+Output: LOOC.
 
 **Author: Shreyash**
