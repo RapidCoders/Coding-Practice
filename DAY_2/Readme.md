@@ -9,13 +9,13 @@ Output: 7
 **Author: Vaibhav**
 
 # Q2. Write a program to print given pattern
-
+~~~
 *
 * *
 * * *
 * * * *
 * * * * *
-
+~~~
 **Author: Suyash**
 
 # Q3. Write a function that reverses a string..
