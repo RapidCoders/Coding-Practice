@@ -9,7 +9,7 @@ Output:
 * * * *
 * * * * *
 
-Author: Vaibhav
+Author: Suyash
 */
 
 #include <iostream>
