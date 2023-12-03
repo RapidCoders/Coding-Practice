@@ -1,3 +1,10 @@
+// Q3. Write a function that reverses a string..
+// Input: SHREYASH
+// Output: HSAYERHS
+
+// Input: COOL
+// Output: LOOC
+// Author: Shreyash
 
 // CODE
 
