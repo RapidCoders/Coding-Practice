@@ -11,10 +11,10 @@ Output: 7
 # Q2. Write a program to print given pattern
 ~~~
 *
-* *
-* * *
-* * * *
-* * * * *
+*  *
+*  *  *
+*  *  *  *
+*  *  *  *  *
 ~~~
 **Author: Suyash**
 
