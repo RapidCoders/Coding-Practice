@@ -8,13 +8,13 @@ Output: 7
 
 **Author: Vaibhav**
 
-# Q2. Write a program to count number of digits in given number.
+# Q2. Write a program to print given pattern
 
-Input: 4365\
-Output: Number of digits are 4.
-
-Input: 125\
-Output: Number of digits are 3.
+*
+* *
+* * *
+* * * *
+* * * * *
 
 **Author: Suyash**
 
