@@ -1,10 +1,10 @@
-# Q1. Write a program which accept number from the user and check whether it is prime or not.
+# Q1. Write a program which accept number from the user and return the addition of all it's digits.
 
-Input: 31\
-Output: Is is a prime number.
+Input: 3458\
+Output: 20
 
-Input: 20\
-Output: It is not a prime number.
+Input: 52\
+Output: 7
 
 **Author: Vaibhav**
 
