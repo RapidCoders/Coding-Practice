@@ -1,9 +1,9 @@
 # Q1. Write a program which accept number from the user and return the addition digits.
 ~~~
-Input: 3458\
+Input: 3458
 Output: 20
 
-Input: 52\
+Input: 52
 Output: 7
 ~~~
 **Author: Vaibhav**
@@ -20,10 +20,10 @@ Output: 7
 
 # Q3. Write a function that reverses a string..
 ~~~
-Input: SHREYASH\
+Input: SHREYASH
 Output: HSAYERHS
 
-Input: COOL\
-Output: LOOC.
+Input: COOL
+Output: LOOC
 ~~~
 **Author: Shreyash**
