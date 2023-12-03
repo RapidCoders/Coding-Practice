@@ -1,4 +1,4 @@
-# Q1. Write a program which accept number from the user and return the addition of all it's digits.
+# Q1. Write a program which accept number from the user and return the addition digits.
 
 Input: 3458\
 Output: 20
