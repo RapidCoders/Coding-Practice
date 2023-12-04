@@ -10,14 +10,11 @@ Output: 53
 ~~~
 **Author: Vaibhav**
 
-# Q2. Write a Program to find the maximum number of handshakes.
-```
-Input: 8
-Output: 28
-
-Input: 6
-Output: 36
-```
+# Q2. Write a program which accept one number from user and print that number of even numbers on screen.
+~~~
+Input : 7
+Output: 2 4 6 8 10 12 14
+~~~
 **Author: Suyash**
 
 # Q3. Write a program to find factorial of input number.
