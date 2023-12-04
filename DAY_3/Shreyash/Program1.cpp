@@ -1,3 +1,7 @@
+Q1. Write a program which accept N number from the user and return the average.
+Input: 5
+Input: 10 20 30 40 50
+Output: 30
 
 // Code
 
