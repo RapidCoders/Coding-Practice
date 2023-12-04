@@ -9,7 +9,6 @@ Output: 24
 */
 
 #include <iostream>
-#include <vector>
 using std::cin;
 using std::cout;
 using std::endl;
