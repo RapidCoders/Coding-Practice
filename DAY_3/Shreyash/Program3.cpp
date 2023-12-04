@@ -1,3 +1,10 @@
+// Q3. Write a program to find factorial of input number.
+// Input: 5
+// Output: 120
+
+// Input: 4
+// Output: 24
+// Author: Shreyash
 // Code
 
 #include<iostream>
