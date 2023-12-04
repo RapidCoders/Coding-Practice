@@ -11,12 +11,13 @@ Output: 53
 **Author: Vaibhav**
 
 # Q2. Write a Program to find the maximum number of handshakes.
+```
 Input: 8
 Output: 28
 
 Input: 6
 Output: 36
-
+```
 **Author: Suyash**
 
 # Q3. Write a program to find factorial of input number.
