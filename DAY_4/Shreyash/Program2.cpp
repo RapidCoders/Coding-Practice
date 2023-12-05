@@ -1,3 +1,17 @@
+// Q3. Write a program which accept range from user and return addition of all even
+// numbers in between that range. (Range should contains positive numbers only)
+
+// Input : 23 30
+// Output : 108
+
+// Input : -10 2
+// Output : Invalid range
+
+// Input : 90 18
+// Output : Invalid range
+// Author: Suyash
+
+
 #include<iostream>
 using namespace std;
 
