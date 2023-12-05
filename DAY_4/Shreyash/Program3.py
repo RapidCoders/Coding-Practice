@@ -1,3 +1,14 @@
+
+# Q3. Write a program which accept N number from the user and return smallest number from it.
+# Input: 5
+# Input: 10 20 30 40 50
+# Output: 10
+
+# Input: 6
+# Input: 85 69 21 45 73 25
+# Output: 21
+# Author: Shreyash
+
 def min_input():
         arr = []
         inputt = int(input("How many number you to input :"))
