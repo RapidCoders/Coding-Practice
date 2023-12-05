@@ -8,7 +8,7 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q3. Write a program which accept range from user and return addition of all even
+# Q2. Write a program which accept range from user and return addition of all even
 numbers in between that range. (Range should contains positive numbers only)
 ~~~
 Input : 23 30
