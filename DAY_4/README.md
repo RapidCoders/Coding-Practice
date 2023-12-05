@@ -8,10 +8,17 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q2. Write a program which accept one number from user and print that number of even numbers on screen.
+# Q3. Write a program which accept range from user and return addition of all even
+numbers in between that range. (Range should contains positive numbers only)
 ~~~
-Input : 7
-Output: 2 4 6 8 10 12 14
+Input : 23 30
+Output : 108
+
+Input : -10 2
+Output : Invalid range
+
+Input : 90 18
+Output : Invalid range
 ~~~
 **Author: Suyash**
 
