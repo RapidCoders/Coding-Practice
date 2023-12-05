@@ -5,7 +5,9 @@ Input: 5
 Output: 120
 
 Input: 4
-Output: 24
+Output: 24'
+
+Author: Shreyash
 */
 
 #include <iostream>
