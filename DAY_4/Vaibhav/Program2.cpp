@@ -1,5 +1,5 @@
 /*
-Write a program which accept range from user and return addition of all even numbers in between that range. (Range should contains positive numbers only)
+Q2. Write a program which accept range from user and return addition of all even numbers in between that range. (Range should contains positive numbers only)
 
 Input : 23 30
 Output : 108
