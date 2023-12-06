@@ -10,17 +10,19 @@ Output: 17 23 14 5 12 5 11
 ~~~
 **Author: Vaibhav**
 
-# Q2. Write a program which accept range from user and return addition of all even
-numbers in between that range. (Range should contains positive numbers only)
+# Q2. Program tgo find frequency of each element in array.(Take array elements from user)
 ~~~
-Input : 23 30
-Output : 108
+Input:
 
-Input : -10 2
-Output : Invalid range
+arr = [1, 2, 8, 3, 2, 2, 2, 5, 1]  
+Output:
 
-Input : 90 18
-Output : Invalid range
+Element | Frequency
+     1  |  2
+     2  |  4
+     8  |  1
+     3  |  1
+     5  |  1
 ~~~
 **Author: Suyash**
 
