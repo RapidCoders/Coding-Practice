@@ -1,7 +1,7 @@
 # Q1. Write a program which accept N numbers from user and display addition of digits of each element.
 ~~~
-Input : 85 36 98 125 225
-Output : 13 9 17 8 9
+Input: 85 36 98 125 225
+Output: 13 9 17 8 9
 ~~~
 **Author: Vaibhav**
 
