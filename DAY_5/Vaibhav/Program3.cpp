@@ -11,13 +11,13 @@ Author: Shreyash
 */
 
 #include <iostream>
+#define EQUAL 0
+#define GREATER 1
+#define SMALLER 2
 using std::cin;
 using std::cout;
 using std::endl;
 typedef int status;
-#define EQUAL 0
-#define GREATER 1
-#define SMALLER 2
 
 template <class T>
 status relationship(T a, T b)
@@ -39,7 +39,7 @@ int main(void)
 
     ret = relationship(x, y);
 
-    if (ret  == GREATER)
+    if (ret == GREATER)
         cout << x << " is greater than " << y << endl;
     else if (ret == SMALLER)
         cout << x << " is smaller than " << y << endl;
