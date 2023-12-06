@@ -24,15 +24,13 @@ Output : Invalid range
 ~~~
 **Author: Suyash**
 
-# Q3. Write a program which accept N number from the user and return smallest number from it.
+# Q3. Write a program which accept two numbers and give their relationship.
 ~~~
-Input: 5
-Input: 10 20 30 40 50
-Output: 10
+Input: 5 -5
+Output: 5 is greater than -5
 
-Input: 6
-Input: 85 69 21 45 73 25
-Output: 21
+Input: 42 42
+Output: Numbers are same
 ~~~
 **Author: Shreyash**
  
