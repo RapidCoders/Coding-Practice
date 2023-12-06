@@ -32,8 +32,9 @@ void display_frequency(vector<int> nums)
     for (i = 0; i < nums.size(); i++)
         freq_map[nums[i]]++;
 
+    cout << "\nElement  |  Frequency\n";
     for (auto &entry: freq_map)
-        cout << "\nFrequency of " << entry.first << " is " << entry.second;
+        cout << "    " <<entry.first << "    |    " << entry.second << endl;
 }
 
 int main(void)
