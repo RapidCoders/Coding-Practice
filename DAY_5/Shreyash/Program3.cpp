@@ -1,5 +1,18 @@
+// # Q3. Write a program which accept two numbers and give their relationship.
+// ~~~
+// Input: 5 -5
+// Output: 5 is greater than -5
 
 
+// Input: 6 6.5
+// Output: 6.5 is greater than 6
+
+// Input: 42 42
+// Output: Numbers are same
+// ~~~
+// **Author: Shreyash**
+
+// Code
 
 #include<iostream>
 using namespace std;
