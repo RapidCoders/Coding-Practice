@@ -26,17 +26,14 @@ Element | Frequency
 ~~~
 **Author: Suyash**
 
-# Q3. Write a program which accept two numbers and give their relationship.
+# Q3. Write a program which accept number and Replace All 0’s With 1 .
 ~~~
-Input: 5 -5
-Output: 5 is greater than -5
+Input: 900120678
+Output:911121678
 
+Input: 84850060
+Output:84851161
 
-Input: 6 6.5
-Output: 6.5 is greater than 6
-
-Input: 42 42
-Output: Numbers are same
 ~~~
 **Author: Shreyash**
  
