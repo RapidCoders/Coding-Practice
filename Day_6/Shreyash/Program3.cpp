@@ -11,7 +11,8 @@ void replacer(long int num){
         num_str[i]='1';
         }
     } 
-    cout<<num_str<<endl;
+    int number = stoi(num_str);
+    cout<<number<<endl;
 }
 
 int main()
