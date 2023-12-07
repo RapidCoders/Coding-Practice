@@ -1,12 +1,13 @@
-# Q1. Write a program which accept N numbers from user and display addition of digits of each element.
+# Q.1 Write a program which accept rows and numbers of column from user and display below pattern.
 ~~~
-Input: 5
-Input: 85 36 98 125 225
-Output: 13 9 17 8 9
-
-Input: 7
-Input: 854 698 236 14 75 32 65
-Output: 17 23 14 5 12 5 11
+Input : row = 6, col = 6
+Output :
+*   *   *   *   *   *   
+*   *               *
+*       *           *
+*           *       *
+*               *   *
+*   *   *   *   *   *
 ~~~
 **Author: Vaibhav**
 
