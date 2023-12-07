@@ -6,7 +6,7 @@ Input: char str [] = "Good Morning! Mr. James Potter. Had your breakfast?"
 
 Output: Total number of punctuation characters exists in string: 4
 
-Author: Suyash
+Author: Suyash A
 */
 
 #include <iostream>
