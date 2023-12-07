@@ -11,7 +11,7 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q2. Program tgo find frequency of each element in array.(Take array elements from user)
+# Q2. Program to find frequency of each element in array.(Take array elements from user)
 ~~~
 Input:
 
