@@ -11,19 +11,12 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q2. Program to find frequency of each element in array.(Take array elements from user)
+# Q.2 Program to count the total number of punctuation characters exists in a string
 ~~~
-Input:
+Input: char str [] = "Good Morning! Mr. James Potter. Had your breakfast?"  
+(If any character in the string is matched with ('!', "," ,"\'" ,";" ,"\"", ".", "-" ,"?"), increment the count by 1.)
 
-arr = [1, 2, 8, 3, 2, 2, 2, 5, 1]  
-Output:
-
-Element | Frequency
-     1  |  2
-     2  |  4
-     8  |  1
-     3  |  1
-     5  |  1
+Output: Total number of punctuation characters exists in string: 4
 ~~~
 **Author: Suyash**
 
