@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 void patt(int row,int col){
     if(row <= 0||col <=0){
