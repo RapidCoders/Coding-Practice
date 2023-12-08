@@ -3,10 +3,10 @@
 Input : row = 6, col = 6
 Output :
 *   *   *   *   *   *   
-*   *               *
-*       *           *
-*           *       *
 *               *   *
+*           *       *
+*       *           *
+*   *               *
 *   *   *   *   *   *
 ~~~
 **Author: Vaibhav**
