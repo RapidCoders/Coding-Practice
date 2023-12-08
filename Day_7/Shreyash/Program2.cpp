@@ -1,3 +1,13 @@
+
+Q.2 Program to print the elements of an array in reverse order
+Input:
+arr = [1, 2, 3, 4, 5]  
+
+Output:
+Original array: 1 2 3 4 5
+Array in reverse order: 5 4 3 2 1
+Author: Suyash
+
 // Code
 #include<iostream>
 #include <vector>
