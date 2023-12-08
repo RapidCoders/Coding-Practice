@@ -11,12 +11,14 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q.2 Program to count the total number of punctuation characters exists in a string
+# Q.2 Program to print the elements of an array in reverse order
 ~~~
-Input: char str [] = "Good Morning! Mr. James Potter. Had your breakfast?"  
-(If any character in the string is matched with ('!', "," ,"\'" ,";" ,"\"", ".", "-" ,"?"), increment the count by 1.)
+Input:
+arr = [1, 2, 3, 4, 5]  
 
-Output: Total number of punctuation characters exists in string: 4
+Output:
+Original array: 1 2 3 4 5
+Array in reverse order: 5 4 3 2 1
 ~~~
 **Author: Suyash**
 
