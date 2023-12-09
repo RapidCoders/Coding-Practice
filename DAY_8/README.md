@@ -21,14 +21,36 @@ Output: Total number of punctuation characters exists in string: 4
 ~~~
 **Author: Suyash**
 
-# Q3. Write a program which accept number and Replace All 0’s With 1 .
+# Q.1 Write a program which accept rows and numbers of column from user and display below pattern.
 ~~~
-Input: 900120678
-Output:911121678
-
-Input: 84850060
-Output:84851161
-
+Input : row = 4, col = 4
+Output :
+*  *  *  *  
+*  #  #  *  
+*  #  #  *  
+*  *  *  *  
+~~~
+~~~
+Input : row = 6, col = 6
+Output :
+*  *  *  *  *  *  
+*  #  #  #  #  *  
+*  #  +  +  #  *  
+*  #  +  +  #  *  
+*  #  #  #  #  *  
+*  *  *  *  *  * 
+~~~
+~~~
+Input : row = 8, col = 8
+Output :
+*  *  *  *  *  *  *  *  
+*  #  #  #  #  #  #  *  
+*  #  +  +  +  +  #  *  
+*  #  +        +  #  *  
+*  #  +        +  #  *  
+*  #  +  +  +  +  #  *  
+*  #  #  #  #  #  #  *  
+*  *  *  *  *  *  *  *  
 ~~~
 **Author: Shreyash**
  
