@@ -16,7 +16,7 @@ Output :
 ~~~
 Input: arr = [1, 2, 3, 4, 5]  
 
-Output: Elements of given array present on even position: 2 4
+Output: Elements of given array present on even position: 1 3 5 
 ~~~
 **Author: Suyash**
 
