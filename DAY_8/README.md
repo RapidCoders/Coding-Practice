@@ -12,16 +12,15 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q.2 Program to count the total number of punctuation characters exists in a string
+Q.2 Program to print the elements of an array present on even position
 ~~~
-Input: char str [] = "Good Morning! Mr. James Potter. Had your breakfast?"  
-(If any character in the string is matched with ('!', "," ,"\'" ,";" ,"\"", ".", "-" ,"?"), increment the count by 1.)
+Input: arr = [1, 2, 3, 4, 5]  
 
-Output: Total number of punctuation characters exists in string: 4
+Output: Elements of given array present on even position: 2 4
 ~~~
 **Author: Suyash**
 
-# Q.1 Write a program which accept rows and numbers of column from user and display below pattern.
+# Q.3 Write a program which accept rows and numbers of column from user and display below pattern.
 ~~~
 Input : row = 4, col = 4
 Output :
@@ -53,5 +52,3 @@ Output :
 *  *  *  *  *  *  *  *  
 ~~~
 **Author: Shreyash**
- 
-
