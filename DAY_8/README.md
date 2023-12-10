@@ -1,13 +1,14 @@
 # Q.1 Write a program which accept rows and numbers of column from user and display below pattern.
+
 ~~~
 Input : row = 7, col = 7
 Output :
-                  *
-               *  *
-            *  *  *
-         *  *  *  *
-      *  *  *  *  *
-   *  *  *  *  *  *
+         *
+        *  *
+      *  *  *
+     *  *  *  *
+   *  *  *  *  *
+  *  *  *  *  *  *
 *  *  *  *  *  *  *
 ~~~
 **Author: Vaibhav**
