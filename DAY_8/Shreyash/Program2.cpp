@@ -12,7 +12,7 @@ using namespace std;
 void even_index(vector<int>arr)
 {
     for(int j = 0;j<=arr.size();j++){
-        if(j%2==1){
+        if(j%2==0){
             cout<<arr[j]<<" ";
         }
     }
@@ -36,5 +36,3 @@ int main()
 
   return 0;
 }
- 
-
