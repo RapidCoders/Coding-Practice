@@ -4,7 +4,6 @@ void patt(int rows,int cols)
 {
     if(rows != cols){
         cout<<"invalid input! Enter numbers of rows and columns same.";
-
     }
     else{
         for(int i =1;i<=rows;i++){
@@ -13,11 +12,11 @@ void patt(int rows,int cols)
             
             if(j == i){
                 for(int k = 1;k<=j;k++){
-                    cout<<" *  ";
+                    cout<<"* ";
                 }
             }
             else{
-                cout<<"  ";
+                cout<<" ";
             }
            
 
