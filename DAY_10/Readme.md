@@ -26,13 +26,17 @@ Output: 2 3 5 7 11
 ~~~
 **Author: Suyash**
 
-# Q.3 Write a program which accept numbers and display factors of numbers.
+# Q.3 Write a program which accept n numbers and display factors of numbers.
 ~~~
-Input : 15
+Input :
+n = 1
+15
 Output : 1 3 5 15
 ~~~
 ~~~
-Input : 10 12
+Input :
+n = 2
+10 12
 Output :
 1 2 5 10
 1 2 4 6 12
