@@ -26,15 +26,16 @@ Output: Elements of given array present on odd position: 2 4
 ~~~
 **Author: Suyash**
 
-# Q.3 Write a program which accept one number and display factors of that number.
+# Q.3 Write a program which accept numbers and display factors of numbers.
 ~~~
 Input : 15
 Output : 1 3 5 15
 ~~~
 ~~~
-Input : 10
-Output : 1 2 5 10
-
+Input : 10 12
+Output :
+1 2 5 10
+1 2 4 6 12
 ~~~
 **Author: Shreyash**
 
