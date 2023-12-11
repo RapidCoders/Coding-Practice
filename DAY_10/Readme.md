@@ -1,4 +1,4 @@
-# Q.1 Write a program which accept rows and numbers of column from user and display below pattern.
+# Q.1 Write a program which accept number of rows and numbers of column from user and display below pattern.
 
 ~~~
 Input : 5  5
