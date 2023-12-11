@@ -18,11 +18,11 @@ Output :
 ~~~
 **Author: Vaibhav**
 
-# Q.2 Program to print the elements of an array present on odd position.
+# Q.2 Program to display all prime numbers from 1 to n
 ~~~
-Input: arr = [1, 2, 3, 4, 5]  
+Input: n = 11
 
-Output: Elements of given array present on odd position: 2 4  
+Output: 2 3 5 7 11
 ~~~
 **Author: Suyash**
 
