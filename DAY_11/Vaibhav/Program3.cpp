@@ -20,17 +20,12 @@ using std::string;
 int dec_to_bin(int num)
 {
     string bin;
-    string digit;
 
     while (num != 0)
     {
-        digit = std::to_string(num % 2);
-        bin += digit;
+        bin = std::to_string(num % 2) + bin;
         num /= 2;
     }
-
-    std::reverse(bin.begin(), bin.end());
-
     return stoi(bin);
 }
 
