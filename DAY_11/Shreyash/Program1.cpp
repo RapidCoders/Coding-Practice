@@ -1,3 +1,15 @@
+// Q.1 Write a program which accepts one string from user and checks the string is palindrome or not.
+// Input: "level"
+// Output: True
+
+// Input: "A man, a plan, a canal, Panama!"
+// Output: True
+
+// Input: "Hello"
+// Output: False
+// Author: Vaibhav
+
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
