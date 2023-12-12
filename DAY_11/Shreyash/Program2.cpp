@@ -1,3 +1,12 @@
+// Q.2 Program to count the total number of vowels and consonants in a string.
+// (vowels = a, e, i, o, u)
+// (consonants = b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z)
+
+// Input: This is a really simple sentence
+// Output: Number of vowels: 10
+//         Number of consonants: 17
+
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
