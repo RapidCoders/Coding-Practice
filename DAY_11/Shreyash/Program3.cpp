@@ -1,3 +1,11 @@
+
+// Q.3 Write a program which accept decimal number and covert it into binary.
+// Input :n = 24
+// Output : 11000
+// Input :n = 11
+// Output : 1011
+// Author: Shreyash
+
 #include<iostream>
 using namespace std;
 
