@@ -5,6 +5,9 @@ Output: True
 
 Input: "A man, a plan, a canal, Panama!"
 Output: True
+
+Input: "Hello"
+Output: False
 ```
 **Author: Vaibhav**
 
