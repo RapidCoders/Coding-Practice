@@ -11,12 +11,15 @@ Output: False
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to display all prime numbers from 1 to n
-```
-Input: n = 11
+ # Q.2 Program to count the total number of vowels and consonants in a string.
+~~~
+(vowels = a, e, i, o, u)
+(consonants = b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z)
 
-Output: 2 3 5 7 11
-```
+Input: This is a really simple sentence
+Output: Number of vowels: 10
+        Number of consonants: 17
+~~~
 **Author: Suyash**
 
 # Q.3 Write a program which accept decimal number and covert it into binary.
