@@ -1,18 +1,10 @@
-# Q.1 Write a program which accept number of rows and numbers of column from user and display below pattern.
+# Q.1 Write a program which accepts one string from user and checks the string is palindrome or not.
 ```
-Input : 5  5
-Output :
-*
-*  *
-*  *  *
-*  *  *  *
-*  *  *  *  *
-*  *  *  *  *  *
-*  *  *  *  *
-*  *  *  *
-*  *  *
-*  *
-*
+Input: "level"
+Output: True
+
+Input: "A man, a plan, a canal, Panama!"
+Output: True
 ```
 **Author: Vaibhav**
 
