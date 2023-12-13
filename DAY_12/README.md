@@ -10,6 +10,10 @@ Explanation: nums[1] + nums[2] equals 6.
 
 Input: nums = [3, 2, 9, 7], target = 4
 Output: Not Found
+
+Input: nums = [2,3,3,3,5], target = 6
+Output: [1, 2]
+Explanation: nums[1] + nums[2] equals 6.
 ```
 **Author: Vaibhav**
 
