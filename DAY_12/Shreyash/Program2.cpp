@@ -1,3 +1,8 @@
+// Q.2 Program to replace lower-case characters with upper-case and vice versa.
+// Input: str1 = "Great Power"  
+// Output: String after case conversion : gREAT pOWER
+// Author: Suyash
+	
 #include<iostream>
 using namespace std;
 
