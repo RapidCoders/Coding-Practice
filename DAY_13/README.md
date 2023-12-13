@@ -14,7 +14,7 @@ Output : 4
 ```
 **Author: Vaibhav**
 
-Q.2 Program to perform user defined operation such as Addition, Subtraction, Multiplication, Division, suing Switch case.
+# Q.2 Program to perform user defined operation such as Addition, Subtraction, Multiplication, Division, suing Switch case.
 ~~~
 Option 1 - Addtion 
 Option 2 - Subtraction
