@@ -36,7 +36,7 @@ bool check_friendly_pair(int num1, int num2)
     return false;
 }
 
-int main()
+int main(void)
 {
     int n1, n2;
 
