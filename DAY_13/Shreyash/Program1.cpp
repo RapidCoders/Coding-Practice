@@ -33,8 +33,8 @@ int main()
 	int idx = indexfinder(str,charr);
 	if (idx != -1) {
         cout<<idx<<endl;
-    } else {
+        } else {
         cout <<-1<<endl;
-    }
+        }
 	return 0;
 }
