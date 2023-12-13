@@ -1,3 +1,17 @@
+// Q.1 Write a program which accept string from user and accept one character. Return index of first occurrence of that character.
+// Input : "Marvellous Multi OS"
+// Input : M
+// Output : 0
+
+// Input : "Marvellous Multi OS"
+// Input : W
+// Output : -1
+
+// Input : "Marvellous Multi OS"
+// Input : e
+// Output : 4
+// Author: Vaibhav
+
 #include <iostream>
 using namespace std;
 
