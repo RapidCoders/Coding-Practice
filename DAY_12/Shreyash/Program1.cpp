@@ -13,20 +13,21 @@ vector<int> targetfinder(vector<int>arr,int targett)
     
     int flag = 0;
     for(int j = 0;j<=arr.size()-1;j++){
-        for(int k = 1;k<=arr.size();k++){
-            if(j == k){
-                break;
-            }else if(arr[j]+arr[k] == targett){
+        for(int k = 1;k<=arr.size()-1;k++){
+            if(j!=k){
+                if(arr[j]+arr[k] == targett){
                 // cout<<j<<" "<<k;
                 new_arr.push_back(j);
                 new_arr.push_back(k);
                 flag++;
                 new_arr.push_back(flag);
-                break;
+                // break;
+            }
             }
         }
     }
-    if(flag == 1){
+
+    if(flag >= 1){
         return new_arr;
     }
     else{
