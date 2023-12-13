@@ -13,14 +13,10 @@ Output: Not Found
 ```
 **Author: Vaibhav**
 
- # Q.2 Program to count the total number of vowels and consonants in a string.
+# Q.2 Program to replace lower-case characters with upper-case and vice versa.
 ~~~
-(vowels = a, e, i, o, u)
-(consonants = b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z)
-
-Input: This is a really simple sentence
-Output: Number of vowels: 10
-        Number of consonants: 17
+Input: str1 = "Great Power"  
+Output: String after case conversion : gREAT pOWER
 ~~~
 **Author: Suyash**
 
