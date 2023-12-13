@@ -14,10 +14,13 @@ Output : 4
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to replace lower-case characters with upper-case and vice versa.
+Q.2 Program to perform user defined operation such as Addition, Subtraction, Multiplication, Division, suing Switch case.
 ~~~
-Input: str1 = "Great Power"  
-Output: String after case conversion : gREAT pOWER
+Option 1 - Addtion 
+Option 2 - Subtraction
+Option 3 - Multiplication
+Option 4 - Division
+Take user defined input and Option and perform operation
 ~~~
 **Author: Suyash**
 
