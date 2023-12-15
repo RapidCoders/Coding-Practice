@@ -1,16 +1,13 @@
-# Q.1 Write a program which accept string from user and accept one character. Return index of first occurrence of that character.
+# Q.1 Write a program which accept one number from user and check whether it is palindrome or not.
 ```
-Input : "Marvellous Multi OS"
-Input : M
-Output : 0
+Input : 121
+Output : Palindrome
 
-Input : "Marvellous Multi OS"
-Input : W
-Output : -1
+Input : 45654
+Output : Palindrome
 
-Input : "Marvellous Multi OS"
-Input : e
-Output : 4
+Input : 98765
+Output : Not Palindrome
 ```
 **Author: Vaibhav**
 
