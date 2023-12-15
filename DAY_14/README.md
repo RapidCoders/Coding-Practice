@@ -11,18 +11,26 @@ Output : Not Palindrome
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to perform user defined operation such as Addition, Subtraction, Multiplication, Division, suing Switch case.
-~~~
-Option 1 - Addtion 
-Option 2 - Subtraction
-Option 3 - Multiplication
-Option 4 - Division
-Take user defined input and Option and perform operation
-~~~
+# Q.3 Write a program to print given pattern.
+```
+
+Input : 5
+Output :
+A
+AB
+ABC
+ABCD
+ABCDE
+
+```
+
 **Author: Suyash**
 
 # Q.3 Write a program to print given pattern.
 ```
+Input : row = 7 col = 7
+Output :
+
 *  *  *  *  *  *  *
 *  *           *  *
 *     *     *     *
