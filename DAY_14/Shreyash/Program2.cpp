@@ -1,4 +1,16 @@
-// Online C++ compiler to run C++ program online
+
+// Q.3 Write a program to print given pattern.
+
+// Input : 5
+// Output :
+// A
+// AB
+// ABC
+// ABCD
+// ABCDE
+
+// Author: Suyash
+    
 #include <iostream>
 using namespace std;
 void alpha_patt(int num){
