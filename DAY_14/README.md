@@ -11,7 +11,7 @@ Output : Not Palindrome
 ```
 **Author: Vaibhav**
 
-# Q.3 Write a program to print given pattern.
+# Q.2 Write a program to print given pattern.
 ```
 
 Input : 5
