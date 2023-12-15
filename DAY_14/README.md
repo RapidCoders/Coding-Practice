@@ -30,6 +30,5 @@ Take user defined input and Option and perform operation
 *    *      *     *
 *  *           *  *
 *  *  *  *  *  *  *
-
 ```
 **Author: Shreyash**
