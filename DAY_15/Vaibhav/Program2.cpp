@@ -1,13 +1,5 @@
 /*
-Q.2 Write a program to print given pattern.
 
-Input : 5
-Output :
-A
-B C
-D E F
-G H I J
-K L M N O
 
 Author: Suyash
 */
