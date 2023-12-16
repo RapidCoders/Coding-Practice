@@ -15,11 +15,6 @@ using std::cin;
         for (j = 1; j <= i; j++)
             cout << c++ << " ";
         cout << endl;
-    }
-}   
-
-int main(void)
-{
     int num;
 
     cout << "Enter the number: ";
