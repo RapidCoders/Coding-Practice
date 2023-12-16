@@ -14,13 +14,7 @@ using std::cin;
     {
         for (j = 1; j <= i; j++)
             cout << c++ << " ";
-        cout << endl;
-    int num;
 
-    cout << "Enter the number: ";
-    cin >> num;
-
-    display_pattern(num);
 
     return 0;
 }
