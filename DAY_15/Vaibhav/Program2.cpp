@@ -6,12 +6,7 @@ Author: Suyash
 
 #include <iostream>
 using std::cin;
-using std::cout;
-using std::endl;
 
-void display_pattern(int num)
-{
-    int i, j;
     char c = 'A';
 
     cout << endl;
