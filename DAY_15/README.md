@@ -20,10 +20,10 @@ Output :
 Input : 5
 Output :
 A
-AB
-ABC
-ABCD
-ABCDE
+B C
+D E F
+G H I J
+K L M N O
 
 ```
 
