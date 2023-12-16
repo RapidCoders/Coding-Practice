@@ -32,12 +32,13 @@ ABCDE
 Input : row = 7 col = 7
 Output :
 
-*            *
-  *        *  
-    *    *     
-      *       
-    *   
-  *
-*  
+*           * 
+  *       * 
+    *   * 
+      * 
+    * 
+  * 
+* 
+
 ```
 **Author: Shreyash**
