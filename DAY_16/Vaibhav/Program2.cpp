@@ -4,10 +4,10 @@ Q.2 Write a program to print given pattern.
 Input : 5
 Output :
 A
-A B
-A B C
-A B C D
-A B C D E
+B B
+C C C
+D D D D 
+E E E E E
 
 Author: Suyash
 */
