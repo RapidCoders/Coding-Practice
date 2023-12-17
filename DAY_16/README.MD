@@ -35,13 +35,13 @@ K L M N O
 Input : row = 7 col = 7
 Output :
 
-*           * 
-  *       * 
-    *   * 
-      * 
-    * 
-  * 
-* 
+* * * * * * * 
+      *
+      *
+      *
+      *
+      *
+      *
 
 ```
 **Author: Shreyash**
