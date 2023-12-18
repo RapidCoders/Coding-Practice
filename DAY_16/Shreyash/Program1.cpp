@@ -1,3 +1,16 @@
+// Q.1 Write a program to print below pattern.
+// Input : row = 7 col = 7
+// Output :
+
+// * * * * * * *
+//           *
+//         *
+//       *
+//     *
+//   *
+// * * * * * * *
+// Author: Vaibhav
+
 #include <iostream>
 using namespace std;
 
