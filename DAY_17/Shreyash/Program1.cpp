@@ -31,6 +31,10 @@ int main() {
     int num;
     cout<<"Enter Number :";
     cin>>num;
-    fibonacci(num);
+    if(num >= 1){
+      fibonacci(num);
+    }else{
+        cout<<"";
+    }
     return 0;
 }
