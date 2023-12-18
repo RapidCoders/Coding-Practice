@@ -17,7 +17,12 @@ void patt(int num)
 
 int main(){
   int num;
+  int num1;
   cin>>num;
-  patt(num);
+  cin>>num1;
+  if(num==num1){
+      patt(num);
+  }else{
+      cout<<"Invakid Input";
   return 0;
 }
