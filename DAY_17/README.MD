@@ -13,19 +13,22 @@ Output :
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to print given pattern.
+# Q.2 K Shape Character Pattern Program.
 ```
-
-Input : 5
-Output :
-A
-B B
-C C C
-D D D D 
-E E E E E
+A B C D E F 
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
+A B C D E F
 
 ```
-
 **Author: Suyash**
 
 # Q.3 Write a program to print given pattern.
