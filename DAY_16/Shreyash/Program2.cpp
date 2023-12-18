@@ -1,3 +1,16 @@
+
+// Q.2 Write a program to print given pattern.
+
+// Input : 5
+// Output :
+// A
+// B B
+// C C C
+// D D D D 
+// E E E E E
+
+// Author: Suyash
+
 #include <iostream>
 using namespace std;
 
