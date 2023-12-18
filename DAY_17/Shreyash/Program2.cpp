@@ -1,3 +1,19 @@
+// Q.2 K Shape Character Pattern Program.
+// A B C D E F 
+// A B C D E 
+// A B C D 
+// A B C 
+// A B 
+// A 
+// A 
+// A B 
+// A B C 
+// A B C D 
+// A B C D E 
+// A B C D E F
+
+// Author: Suyash
+
 #include <iostream>
 using namespace std;
 void alpha_patt(int num){
