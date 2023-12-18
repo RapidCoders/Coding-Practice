@@ -2,6 +2,9 @@
 ```
 Input : 7
 Output : 0 1 1 2 3 5 8
+
+Input: -3
+Output: 
 ```
 **Author: Vaibhav**
 
