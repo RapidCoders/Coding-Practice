@@ -36,13 +36,9 @@ A B C D E F
 Input : row = 7 col = 7
 Output :
 A       A 
-
 B B     B 
-
 C   C   C 
-
 D     D D 
-
 E       E
 ```
 **Author: Shreyash**
