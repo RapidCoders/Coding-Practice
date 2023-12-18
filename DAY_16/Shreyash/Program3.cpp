@@ -1,3 +1,17 @@
+
+// Q.3 Write a program to print given pattern.
+// Input : row = 7 col = 7
+// Output :
+
+// * * * * * * * 
+//       *
+//       *
+//       *
+//       *
+//       *
+//       *
+
+// Author: Shreyash
 #include <iostream>
 using namespace std;
 
