@@ -1,15 +1,7 @@
-# Q.1 Write a program to print below pattern.
+# Q.1 Write a program to which accept number from the user and print fibonacci series up to that number.
 ```
-Input : row = 7 col = 7
-Output :
-
-* * * * * * *
-          *
-        *
-      *
-    *
-  *
-* * * * * * *
+Input : 7
+Output : 0 1 1 2 3 5 8
 ```
 **Author: Vaibhav**
 
