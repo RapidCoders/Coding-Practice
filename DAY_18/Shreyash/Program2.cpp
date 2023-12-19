@@ -1,3 +1,11 @@
+// Q.2 Write a program to find area of triangle.
+// Input : Breadth :- 4
+//         Height :- 13
+// Output : Area of triangle is 26.
+// Author: Suyash
+
+
+
 #include<iostream>
 using namespace std;
 
