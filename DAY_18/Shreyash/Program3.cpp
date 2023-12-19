@@ -1,3 +1,10 @@
+// Q.3 Write a program which accept number from user and state whether it is perfect number or not.
+// Input : num = 14
+// Output : False
+// Input : num = 6
+// Output : True
+// Author: Shreyash
+
 #include<iostream>
 using namespace std;
 
