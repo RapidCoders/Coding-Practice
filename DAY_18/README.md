@@ -8,21 +8,11 @@ Output:
 ```
 **Author: Vaibhav**
 
-# Q.2 K Shape Character Pattern Program.
+# Q.2 Write a program to find area of triangle.
 ```
-A B C D E F 
-A B C D E 
-A B C D 
-A B C 
-A B 
-A 
-A 
-A B 
-A B C 
-A B C D 
-A B C D E 
-A B C D E F
-
+Input : Breadth :- 4
+        Height :- 13
+Output : Area of triangle is 26.
 ```
 **Author: Suyash**
 
