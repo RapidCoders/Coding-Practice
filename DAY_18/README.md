@@ -26,15 +26,12 @@ A B C D E F
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to print given pattern.
+# Q.3 Write a program which accept number from user and state whether it is perfect number or not.
 ```
-Input : row = 7 col = 7
-Output :
-A       A 
-B B     B 
-C   C   C 
-D     D D 
-E       E
+Input : num = 14
+Output : False
+Input : num = 6
+Output : True
 ```
 **Author: Shreyash**
 
