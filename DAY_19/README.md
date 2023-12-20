@@ -30,11 +30,11 @@ Output : Area of triangle is 26.
 ```
 **Author: Suyash**
 
-# Q.3 Write a program which accept number from user and state whether it is perfect number or not.
+# Q.3 Write a C Program to check if number is Harshad number or not.
 ```
-Input : num = 14
-Output : False
-Input : num = 6
+Input : num = 21
 Output : True
+Input : num = 31
+Output : False
 ```
 **Author: Shreyash**
