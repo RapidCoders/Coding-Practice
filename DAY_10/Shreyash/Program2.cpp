@@ -11,17 +11,21 @@ using namespace std;
 
 void factors(int num)
 {
-    if(num<=2){
+    if(num<=2)
+    {
         cout<<"Enter Number greater than 2";
     }
-    else{
+    else
+    {
         cout<<2;
         for(int i = 2;i<=num;i++)
     {
-        if(i%2 == 1){
+        if(i%2 == 1)
+        {
             cout<<i;
         }
-        else{
+        else
+        {
             cout<<" ";
         }
     }
