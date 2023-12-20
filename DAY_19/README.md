@@ -30,10 +30,15 @@ Output : Area of triangle is 26.
 ```
 **Author: Suyash**
 
-# Q.3 Write a C Program to check if number is Harshad number or not.
+# Q.3 Write a Program to check if number is Harshad number or not.
 ```
 Input : num = 21
 Output : True
+
+it is divisible by its own sum (1+2) of its digit(2,1)
+
+So it is Harshad's Number
+
 Input : num = 31
 Output : False
 ```
