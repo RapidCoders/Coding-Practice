@@ -32,19 +32,14 @@ Average =3
 ```
 **Author: Suyash**
 
-# Q.3 Write a Program to check if number is Harshad number or not.
+# Q.3 Write a Program which accept number and check whether it is Automorphic Number or Not.
 ```
-Input : num = 21
+Input : num = 5
 Output : True
 
-it is divisible by its own sum (1+2) of its digit(2,1)
-So it is Harshad's Number
-
-Input : num = 31
+Input : num = 7
 Output : False
 
-it is not divisible by its own sum (3+1) of its digit(3,1)
-So it is not Harshad's Number
 ```
 **Author: Shreyash**
 
