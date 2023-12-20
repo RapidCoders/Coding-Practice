@@ -34,6 +34,7 @@ Output : Area of triangle is 26.
 ```
 Input : num = 21
 Output : True
+
 it is divisible by its own sum (1+2) of its digit(2,1)
 So it is Harshad's Number
 
