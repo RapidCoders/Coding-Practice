@@ -23,7 +23,8 @@ void factors(vector<int>arr)
     for(int i :arr)
     { 
     
-        for(int k = 1;k<=i;k++){
+        for(int k = 1;k<=i;k++)
+        {
             if(i%k == 0)
             {
             cout<<k<<" ";
