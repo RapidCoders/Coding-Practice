@@ -22,11 +22,13 @@ Output: False
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to find area of triangle.
+# Q.2 Program to print the average of n numbers.
 ```
-Input : Breadth :- 4
-        Height :- 13
-Output : Area of triangle is 26.
+For example: 1,2,3,4,5
+Number of all elements = 5
+Sum of all elements = 1+2+3+4+5 =15
+Average = Sum of all elements / number of all elements = 15/5 =3
+Average =3
 ```
 **Author: Suyash**
 
