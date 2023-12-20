@@ -14,8 +14,10 @@ using namespace std;
 
 int patt(int row,int col)
 {
-    for(int i= 1;i<=row;i++){
-        for(int j=col;j!=0;j--){
+    for(int i= 1;i<=row;i++)
+    {
+        for(int j=col;j!=0;j--)
+        {
         cout<<j<<" ";
     }
     cout<<endl;
