@@ -19,3 +19,35 @@
 // Input: 18
 // Output: False
 // Author: Vaibhav
+
+#include<iostream>
+using namespace std;
+
+int perfectt(int num){
+    int flag = 0;
+    for(int i = 1;i<num;i++)
+    {
+        if(num%i==0){
+            if(i*i == num)
+            {
+                 flag++;
+            }
+        }
+    }
+    return flag;
+    
+}
+
+int main(){
+    int num;
+    cout<<"num :";
+    cin>>num;
+    int ot =  perfectt(num);
+    if(ot == 0)
+    {
+        cout<<"False";
+    }else
+    {
+        cout<<"True";
+    }
+}
