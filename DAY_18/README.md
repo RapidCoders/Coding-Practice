@@ -24,11 +24,3 @@ Input : num = 6
 Output : True
 ```
 **Author: Shreyash**
-
-
-
-
-
-
- 
-
