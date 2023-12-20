@@ -34,7 +34,8 @@ void patt(int row,int col)
     }
     for(int k = row-1;k>=1;k--)
     {
-        for(int x = 1;x<=k;x++){
+        for(int x = 1;x<=k;x++)
+        {
             cout<<"* ";
         }
         cout<<endl;
