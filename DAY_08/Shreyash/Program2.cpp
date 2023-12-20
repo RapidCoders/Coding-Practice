@@ -11,7 +11,8 @@
 using namespace std;
 void even_index(vector<int>arr)
 {
-    for(int j = 0;j<=arr.size();j++){
+    for(int j = 0;j<=arr.size();j++)
+    {
         if(j%2==0){
             cout<<arr[j]<<" ";
         }
