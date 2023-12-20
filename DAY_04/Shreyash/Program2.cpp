@@ -19,12 +19,16 @@ using namespace std;
 int sum(int up,int too)
 {
     int even_no_sum = 0;
-    if(up < 0 || too< 0){
+    if(up < 0 || too< 0)
+    {
         cout<<"Invalid range";
     }
-    else{
-    for(int i= up;i<=too;i++){
-        if(i%2==0){
+    else
+    {
+    for(int i= up;i<=too;i++)
+    {
+        if(i%2==0)
+        {
             even_no_sum = even_no_sum + i;
         }
     }
