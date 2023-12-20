@@ -1,4 +1,4 @@
-# Q.1 Write a C++ program to check if a given number is a perfect square.
+# Q.1 Write a program to check if a given number is a perfect square.
 A perfect square is a non-negative integer that can be expressed as the product of an integer multiplied by itself. In other words, a positive integer \(n\) is a perfect square if there exists an integer \(m\) such that \(n = m \times m\). 
 
 For example:
