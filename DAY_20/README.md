@@ -39,7 +39,6 @@ Output : True
 
 Input : num = 7
 Output : False
-
 ```
 **Author: Shreyash**
 
