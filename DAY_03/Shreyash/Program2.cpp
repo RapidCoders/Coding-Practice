@@ -13,13 +13,16 @@ using namespace std;
 
 int upto_even(int num)
 {
-    if(num<=0){
+    if(num<=0)
+    {
       cout<<"Enter greater greater than 0";
     }
-    else{
+    else
+    {
       for(int i = 1;i<=num*2;i++)
     {
-      if(i%2==0){
+      if(i%2==0)
+      {
         cout<<i<<" ";
       }
     }
