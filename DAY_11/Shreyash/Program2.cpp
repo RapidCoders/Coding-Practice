@@ -16,14 +16,17 @@ void counter(string str)
   int vowelcounter = 0;
   int consonants = 0;
   for(char i: str){
-    if(i=='a'||i=='e'||i=='i'||i=='o'||i=='u'){
+    if(i=='a'||i=='e'||i=='i'||i=='o'||i=='u')
+    {
       vowelcounter++;
     }
-    else if(i=='b'||i=='c'||i=='d'||i=='f'||i=='g'||i=='h'||i=='j'||i=='k'||i=='l'||i=='m'||i=='n'||i=='p'||i=='q'||i=='r'||i=='s'||i=='t'||i=='v'||i=='w'||i=='x'||i=='y'||i=='z'){
+    else if(i=='b'||i=='c'||i=='d'||i=='f'||i=='g'||i=='h'||i=='j'||i=='k'||i=='l'||i=='m'||i=='n'||i=='p'||i=='q'||i=='r'||i=='s'||i=='t'||i=='v'||i=='w'||i=='x'||i=='y'||i=='z')
+    {
       consonants++;
 
     }
-    else{
+    else
+    {
       continue;
     }
   }
