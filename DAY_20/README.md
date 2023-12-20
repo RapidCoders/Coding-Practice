@@ -22,13 +22,19 @@ Output: False
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to print the average of n numbers.
+# Q.2 Program to check whether number is pronic or not.
 ```
-For example: 1,2,3,4,5
-Number of all elements = 5
-Sum of all elements = 1+2+3+4+5 =15
-Average = Sum of all elements / number of all elements = 15/5 =3
-Average =3
+A number is said to be pronic number if it is a product of two consecutive numbers.
+
+For examples:
+6 = 2 x 3
+72 = 8 x 9
+
+Input : 6
+Output : It is a pronic number
+
+Input : 7
+Output : It is not a pronic number
 ```
 **Author: Suyash**
 
