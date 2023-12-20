@@ -21,21 +21,25 @@ void palindrom(string str)
   string new_str;
   for (char i : str)
     {
-        if (i == '!' || i == ',' ||i == '.' || i == '-' || i == '?'|| i == '\'' || i == ';' || i == '\"'||i == ' '){
+        if (i == '!' || i == ',' ||i == '.' || i == '-' || i == '?'|| i == '\'' || i == ';' || i == '\"'||i == ' ')
+        {
           rstr = ""+rstr;
           ostr = ostr + "";
           continue;
         }
-        else{
+        else
+        {
           rstr =i+rstr;
           ostr = ostr + i;
         }
     }
   // cout<<rstr;
-  if(ostr == rstr){
+  if(ostr == rstr)
+  {
     cout<<"True";
   }
-  else{
+  else
+  {
     cout<<"False";
   }
 
