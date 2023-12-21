@@ -1,3 +1,14 @@
+
+// Q.3 Write a Program which accept number and check whether it is Automorphic Number or Not.
+// Input : num = 5
+// Output : True
+// Explaination: 5^2 = 25
+// Square ends in the same digit as the number itself.
+
+// Input : num = 7
+// Output : False
+// Author: Shreyash
+
 #include<iostream>
 using namespace std;
 
