@@ -44,6 +44,9 @@ Output : It is not a pronic number
 Input : num = 5
 Output : True
 
+Explaination: 5^2 = 25
+Square ends in the same digit as the number itself.
+
 Input : num = 7
 Output : False
 ```
