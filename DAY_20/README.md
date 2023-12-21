@@ -1,5 +1,5 @@
 # Q.1 Write a program to ckeck if a string is an anagram of another string.
-An anagram is a word or phrase formed by rearranging the letters of another.
+<p>An anagram is a word or phrase formed by rearranging the letters of another.</p>
 ```
 Input 1: "listen"
 Input 2: "silent"
