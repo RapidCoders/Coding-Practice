@@ -1,25 +1,18 @@
-# Q.1 Write a program to ckeck if a string is an anagram of another string.
-**An anagram is a word or phrase formed by rearranging the letters of another.**
+# Q.1 Write a function to rotate an array of integers to the right by a given number of steps. The function should take an array of integers and the number of steps as parameters and modify the array in-place.
 ```
-Input 1: "listen"
-Input 2: "silent"
-Output: True
+Input:
+Array: {1, 2, 3, 4, 5}
+Steps: 2
 
-Input 1: "debit card"
-Input 2: "bad credit"
-Output: True
+Output:
+Rotated Array: {4, 5, 1, 2, 3}
 
-Input 1: "Race"
-Input 2: "care"
-Output: True
+Input:
+Array: {1, 2, 3, 4, 5}
+Steps: 7
 
-Input 1: " listen"
-Input 2: "silent "
-Output: True
-
-Input 1: "hello"
-Input 2: "world"
-Output: False
+Output:
+Rotated Array: {4, 5, 1, 2, 3}
 ```
 **Author: Vaibhav**
 
