@@ -37,7 +37,7 @@ Number = 145
 ```
 **Author: Suyash**
 
-# Q.3 Write a Program to print pattern like this.
+# Q.3 Write a program to print given pattern.
 ```
 Input : num = 7
 
