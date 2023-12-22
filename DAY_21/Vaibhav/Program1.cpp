@@ -44,14 +44,14 @@ using std::endl;
 
 int *rotate_array(int arr[], int n, int steps)
 {
-    int i, j, temp1, temp2, last;
+    int i, j, temp, last;
 
     for (i = 0; i < steps; i++)
     {
-        temp1 = arr[n - 1];
+        temp = arr[n - 1];
         for (j = n - 1; j > 0; j--)
             arr[j] = arr[j - 1];
-        arr[0] = temp1;
+        arr[0] = temp;
     }
     return arr;
 }
