@@ -23,19 +23,17 @@ Output: False
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to check whether number is pronic or not.
+# Q.2 Program to check whether number is Krishnamurthy number or not.
 ```
-A number is said to be pronic number if it is a product of two consecutive numbers.
+Krishnamurthy number is another special number in Java. A number is said to be Krishnamurthy if the factorial sum of all its digits is equal to that number. Krishnamurthy number is also referred to as a Strong number.
 
-For examples:
-6 = 2 x 3
-72 = 8 x 9
-
-Input : 6
-Output : It is a pronic number
-
-Input : 7
-Output : It is not a pronic number
+Example : 
+Number = 145  
+= 1! + 4! + 5!  
+= 1 + ( 4 * 3 * 2 * 1 ) + ( 5 * 4 * 3 * 2 * 1 )  
+= 1 + 24 + 120  
+= 145
+ 
 ```
 **Author: Suyash**
 
