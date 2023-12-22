@@ -37,15 +37,17 @@ Number = 145
 ```
 **Author: Suyash**
 
-# Q.3 Write a Program which accept number and check whether it is Automorphic Number or Not.
+# Q.3 Write a Program to print pattern like this.
 ```
 Input : num = 5
-Output : True
-Explaination: 5^2 = 25
-Square ends in the same digit as the number itself.
+             *
+            ***
+           *****
+          *******
+           *****
+            ***
+             *
 
-Input : num = 7
-Output : False
 ```
 **Author: Shreyash**
 
