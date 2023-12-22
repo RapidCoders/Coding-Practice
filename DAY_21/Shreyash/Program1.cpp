@@ -1,3 +1,19 @@
+// Q.1 Write a function to rotate an array of integers to the right by a given number of steps. The function should take an array of integers and the number of steps as parameters and modify the array in-place.
+// Input:
+// Array: {1, 2, 3, 4, 5}
+// Steps: 2
+
+// Output:
+// Rotated Array: {4, 5, 1, 2, 3}
+
+// Input:
+// Array: {1, 2, 3, 4, 5}
+// Steps: 7
+
+// Output:
+// Rotated Array: {4, 5, 1, 2, 3}
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
