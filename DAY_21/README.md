@@ -33,6 +33,7 @@ Number = 145
 # Q.3 Write a program to print given pattern.
 ```
 Input : num = 7
+Output : 
 
              *
             ***
