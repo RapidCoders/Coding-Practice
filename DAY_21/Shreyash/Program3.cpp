@@ -1,3 +1,18 @@
+
+// Q.3 Write a program to print given pattern.
+// Input : num = 7
+// Output : 
+
+//                  *
+//                * * *
+//              * * * * *
+//            * * * * * * *
+//              * * * * *
+//                * * *
+//                  *
+
+// Author: Shreyash
+
 #include<iostream>
 using namespace std;
 void patt(int rows)
