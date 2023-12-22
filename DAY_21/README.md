@@ -39,7 +39,8 @@ Number = 145
 
 # Q.3 Write a Program to print pattern like this.
 ```
-Input : num = 5
+Input : num = 7
+
              *
             ***
            *****
