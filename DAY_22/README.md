@@ -8,16 +8,14 @@ Output: 0
 ```
 **Author: Vaibhav**
 
-# Q.2 Write program which accept number and gives average of that many prime numbers .
+# Q.2 Write program which accept number and print that many prime numbers .
 ``` 
 Example : 
 Input : Number = 5
-[Prime numbers : 2,3,5,7,11]
-Output : 28
+Output : 2,3,5,7,11
 
 Input : Number = 7
-[Prime numbers : 2,3,5,7,11,13,17]
-Output : 58
+Output : 2,3,5,7,11,13,17
 ```
 **Author: Suyash**
 
