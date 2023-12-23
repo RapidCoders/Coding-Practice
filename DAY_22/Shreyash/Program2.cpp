@@ -26,17 +26,18 @@ bool isPrime(int num) {
 }
 void generatePrimes(int n) {
     int count = 0;
-    int num = 2; 
+    int num = 2;
+    int sum = 0;
 
     while (count < n) {
         if (isPrime(num)) {
             cout << num << " ";
+            sum = sum + num;
             ++count;
         }
         ++num;
     }
-
-    cout << std::endl;
+    cout<<endl<<sum<<endl;
 }
 
 int main() {
