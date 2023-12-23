@@ -1,3 +1,11 @@
+// Q.1 Write a program which accept a string from user and return the count of number of words in that string.
+// Input: Maze gaon kokan ahe. Mazya gavashejari samudra ahe.
+// Output: 8
+
+// Input:
+// Output: 0
+// Author: Vaibhav
+
 #include<iostream>
 using namespace std;
 
