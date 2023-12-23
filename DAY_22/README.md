@@ -9,7 +9,7 @@ Output: 0
 **Author: Vaibhav**
 
 # Q.2 Write program which accept number and gives odd prime numbers .
- 
+``` 
 Example : 
 Input : Number = 5 
 Output : 3 5 7 11 13
