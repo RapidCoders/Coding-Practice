@@ -1,3 +1,11 @@
+
+// Q.3 Write a program for Finding Minimum scalar product of two vectors of same size.
+// Input :arr1[4] = [10, 30, 40, 20]
+//             arr2[4] = [2, 4, 5, 1]
+// Output : 230
+// Explanation : 10*5 + 20*4 + 30*2 + 40*1 = 230
+// Author: Shreyash
+
 #include<iostream>
 #include<vector>
 using namespace std;
