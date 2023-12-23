@@ -8,34 +8,42 @@
 // [Prime numbers : 2,3,5,7,11,13,17]
 // Output : 58
 // Author: Suyash
-    
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-bool prime_or_not(int num){
-    if(num == 0||num == 1){
+bool isPrime(int num) {
+    if (num <= 1) {
         return false;
     }
-    for(int i = 2;i<num;i++){
-        if(num%i == 0){
+
+    for (int i = 2; i * i <= num; ++i) {
+        if (num % i == 0) {
             return false;
         }
     }
-    return true;
 
+    return true;
+}
+void generatePrimes(int n) {
+    int count = 0;
+    int num = 2; 
+
+    while (count < n) {
+        if (isPrime(num)) {
+            cout << num << " ";
+            ++count;
+        }
+        ++num;
+    }
+
+    cout << std::endl;
 }
 
-int main()
-{
-    int num;
-    cin>>num;
-    for(int i = 1;i<=(num*2)+1;i++)
-    {
-        if(prime_or_not(i))
-        {
-            cout<<i<<" ";
+int main() {
+    int n;
+    cout << "num : ";
+    cin >> n;
+    generatePrimes(n);
 
-        }
-    }
     return 0;
 }
