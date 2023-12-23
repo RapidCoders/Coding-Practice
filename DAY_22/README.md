@@ -8,13 +8,16 @@ Output: 0
 ```
 **Author: Vaibhav**
 
-# Q.2 Write program which accept number and gives odd prime numbers .
+# Q.2 Write program which accept number and gives average of that many prime numbers .
 ``` 
 Example : 
-Input : Number = 5 
-Output : 3 5 7 11 13
-Input : Number = 7 
-Output : 3 5 7 11 13 19 23
+Input : Number = 5
+[Prime numbers : 2,3,5,7,11]
+Output : 28
+
+Input : Number = 7
+[Prime numbers : 2,3,5,7,11,13,17]
+Output : 58
 ```
 **Author: Suyash**
 
