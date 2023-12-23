@@ -1,3 +1,14 @@
+// Q.2 Write program which accept number and gives average of that many prime numbers .
+// Example : 
+// Input : Number = 5
+// [Prime numbers : 2,3,5,7,11]
+// Output : 28
+
+// Input : Number = 7
+// [Prime numbers : 2,3,5,7,11,13,17]
+// Output : 58
+// Author: Suyash
+    
 #include<iostream>
 using namespace std;
 
