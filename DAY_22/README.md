@@ -8,17 +8,13 @@ Output: 0
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to check whether number is Krishnamurthy number or not.
-```
-Krishnamurthy number is another special number in Java. A number is said to be Krishnamurthy if the factorial sum of all its digits is equal to that number. Krishnamurthy number is also referred to as a Strong number.
-
-Example : 
-Number = 145  
-= 1! + 4! + 5!  
-= 1 + ( 4 * 3 * 2 * 1 ) + ( 5 * 4 * 3 * 2 * 1 )  
-= 1 + 24 + 120  
-= 145
+# Q.2 Write program which accept number and gives odd prime numbers .
  
+Example : 
+Input : Number = 5 
+Output : 3 5 7 11 13
+Input : Number = 7 
+Output : 3 5 7 11 13 19 23
 ```
 **Author: Suyash**
 
