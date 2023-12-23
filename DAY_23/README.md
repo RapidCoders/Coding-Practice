@@ -19,11 +19,17 @@ Output : 2,3,5,7,11,13,17
 ```
 **Author: Suyash**
 
-# Q.3 Write a program for Finding Minimum scalar product of two vectors of same size.
+# Q.3 Write a program to print given pattern.
 ```
-Input :arr1[4] = [10, 30, 40, 20]
-            arr2[4] = [2, 4, 5, 1]
-Output : 230
-Explanation : 10*5 + 20*4 + 30*2 + 40*1 = 230
+Input : 7
+Output :
+           1
+           2*2
+           3*3*3
+           4*4*4*4
+           3*3*3
+           2*2
+           1
+
 ```
 **Author: Shreyash**
