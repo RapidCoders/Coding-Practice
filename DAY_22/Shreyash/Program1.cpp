@@ -6,32 +6,32 @@
 // Output: 0
 // Author: Vaibhav
 
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int apha_counter(string str)
-{
+int countWords(string str) {
     int count = 0;
-    for(char i : str){
-        if(i == ' '){
-            count++;
+    bool flag;
+
+    for (char i : str) {
+        if (i == ' ' || i == '\t' || i == '\n') {
+            if (flag) {
+                count++;
+                flag = false; 
+            }
+        } else {
+            flag = true;
         }
     }
     return count+1;
 }
 
-int main(){
+int main() {
+    string inputString;
+    cout << "Enter a string: ";
+    getline(cin, inputString);
+    int result = countWords(inputString);
+    cout << "Number of words: " << result << endl;
 
-    string str;
-    cout<<"Enter Input String :";
-    getline(cin,str);
-    int count = apha_counter(str);
-    // cout<<count<<endl;
-    if(count > 1){
-        cout<<"Count :"<<count;
-    }else{
-        cout<<0;
-    }
     return 0;
-    
 }
