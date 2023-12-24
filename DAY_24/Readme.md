@@ -29,7 +29,7 @@ Output:
 ```
 **Author: Suyash**
 
-# Q.3 Given an array A of size N of integers. Your task is to find the minimum and maximum elements in the array.
+# Q.3 Take array as input of size N of integers from user. Your task is to find the minimum and maximum elements in the array.
 ```
 Input:
 N = 6
