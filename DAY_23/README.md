@@ -1,10 +1,17 @@
-# Q.1 Write a program which accept a string from user and return the count of number of words in that string.
+# Q.1 Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
+**The function should return a string, the longest common prefix of all strings in the input list.**
 ```
-Input: Maze gaon kokan ahe. Mazya gavashejari samudra ahe.
-Output: 8
+Input: 4
+Input: ["apple", "apricot", "apology", "app"]
+Output: "ap"
 
-Input:
-Output: 0
+Input: 4
+Input: ["python", "java", "javascript", "c++"]
+Output: ""
+
+Input: 3
+Input: ["testing", "test", "tester"]
+Output: "test"
 ```
 **Author: Vaibhav**
 
