@@ -1,37 +1,45 @@
 /*
-Q.1 Write a program which accept a string from user and return the count of number of words in that string.
+Q.1 Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
+The function should return a string, the longest common prefix of all strings in the input list.
 
-Input: Maze gaon kokan ahe. Mazya gavashejari samudra ahe.
-Output: 8
+Input: 4
+Input: ["apple", "apricot", "apology", "app"]
+Output: "ap"
 
-Input:
-Output: 0
+Input: 4
+Input: ["python", "java", "javascript", "c++"]
+Output: ""
+
+Input: 3
+Input: ["testing", "test", "tester"]
+Output: "test"
 
 Author: Vaibhav
 */
 
 #include <iostream>
 #include <vector>
-#include <unordered_map>
 using std::cin;
 using std::cout;
 using std::endl;
 using std::string;
-using std::unordered_map;
 using std::vector;
 
 string largest_common_prefix(vector<string> &strings)
 {
     int i, j;
-    unordered_map<char, int> map;
+    string str;
 
-    for (i = 0; i < strings.size(); i++)
+    for (i = 0; i < strings[0].size(); i++)
     {
-        for (j = 0; j < strings[i].size(); j++)
+        for (j = 1; j < strings.size(); j++)
         {
-            map['A']++;
+            if (strings[0][i] != strings[j][i])
+                return str;
         }
+        str.push_back(strings[0][i]);
     }
+    return str;
 }
 
 int main(void)
@@ -40,10 +48,10 @@ int main(void)
     string str;
     vector<string> strings;
 
-    cout << "Enter the number of strings: ";
+    cout << "\nEnter the number of strings: ";
     cin >> n;
 
-    cout << "Enter the strings one by one: ";
+    cout << "\nEnter the strings one by one:\n";
     for (i = 0; i < n; i++)
     {
         cin >> str;
@@ -53,7 +61,9 @@ int main(void)
     str = largest_common_prefix(strings);
 
     if (!str.empty())
-        cout << "Common largest prefix of strings is: " << str << endl;
+        cout << "\nCommon largest prefix between strings is \"" << str << "\"\n";
+    else
+        cout << "\nNot found!\n";
 
     return 0;
 }
