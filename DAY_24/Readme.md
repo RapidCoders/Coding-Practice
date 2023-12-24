@@ -29,7 +29,7 @@ Output:
 ```
 **Author: Suyash**
 
-# Q.3 Take array as input of size N from user.task is to find the minimum and maximum elements in the array.
+# Q.3 Find minimum and maximum element in an array.
 ```
 Input:
 N = 6
