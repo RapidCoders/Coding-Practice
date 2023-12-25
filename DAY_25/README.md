@@ -42,18 +42,19 @@ Addition of two matrices: [2 1 2]
 ```
 **Author: Suyash**
 
-# Q.3 Find minimum and maximum element in an array.
+# Q.3 Write a Program to find Length of Last Word of user defind string.
+.
 ```
-Input:
-N = 6
-A[] = {3, 2, 1, 56, 10000, 167}
-Output: 1 10000
-Explanation: minimum and maximum elements of array are 1 and 10000.
+Input: s = "Hello World"
+Output: 5
+Explanation: The last word is "World" with length 5.
 
-Input:
-N = 5
-A[]  = {1, 345, 234, 21, 56789}
-Output: 1 56789
-Explanation: minimum and maximum element of array are 1 and 56789.
+Input: s = "   fly me   to   the moon  "
+Output: 4
+Explanation: The last word is "moon" with length 4.
+
+Input: s = "luffy is still joyboy"
+Output: 6
+Explanation: The last word is "joyboy" with length 6.
 ```
 **Author: Shreyash**
