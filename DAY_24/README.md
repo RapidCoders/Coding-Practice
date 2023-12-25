@@ -15,18 +15,12 @@ Output: "test"
 ```
 **Author: Vaibhav**
 
-# Q.2 Write program which to print the below pattern.
-``` 
-Input: 8
-Output:
-        1           1 
-          2       2
-            3   3
-              4
-            3   3
-          2       2
-        1           1
-```
+# Q.2 Program to print the smallest element in an array.
+~~~
+Input : 25,11,7,76,26
+Output : 7
+~~~
+
 **Author: Suyash**
 
 # Q.3 Find minimum and maximum element in an array.
