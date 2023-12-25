@@ -43,7 +43,7 @@ Addition of two matrices: [2 1 2]
 **Author: Suyash**
 
 # Q.3 Write a Program to find Length of Last Word of user defind string.
-.
+
 ```
 Input: s = "Hello World"
 Output: 5
