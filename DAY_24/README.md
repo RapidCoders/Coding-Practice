@@ -24,10 +24,12 @@ Output: 9
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to print the smallest element in an array.
+# Q.2 Write a program to find median for user defined inputs.
 ~~~
 Input : 25,11,7,76,26
 Output : 7
+Input : 25,11,7,76,26,10
+Output : 18
 ~~~
 
 **Author: Suyash**
