@@ -1,17 +1,26 @@
-# Q.1 Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
-**The function should return a string, the longest common prefix of all strings in the input list.**
+# Q.1 You are given an array containing n distinct numbers taken from the range 0 to n. One number is missing from the array. Write a function to find and return the missing number.
+**Constraints:
+1 <= arr[i] <= 100**
 ```
-Input: 4
-Input: ["apple", "apricot", "apology", "app"]
-Output: "ap"
+Input: 5
+Input: [1, 2, 3, 4, 6]
+Output: 5
+
+Input: 8
+Input: [1, 2, 3, 4, 5, 6, 7, 9]
+Output: 8
 
 Input: 4
-Input: ["python", "java", "javascript", "c++"]
-Output: ""
+Input: [5, 2, 4, 1]
+Output: 3
 
-Input: 3
-Input: ["testing", "test", "tester"]
-Output: "test"
+Input: 8
+Input: [8, 3, 6, 1, 5, 2, 4, 9]
+Output: 7
+
+Input: 8
+Input: [2, 1, 4, 5, 3, 8, 7, 6]
+Output: 9
 ```
 **Author: Vaibhav**
 
