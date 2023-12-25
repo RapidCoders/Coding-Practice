@@ -2,8 +2,6 @@
 #include <vector>
 using namespace std;
 
-
-
 void max_min(vector<int>arr)
 {
      for(int i=0; i<arr.size(); i++)
