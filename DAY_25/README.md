@@ -1,26 +1,13 @@
-# Q.1 You are given an array containing n distinct numbers taken from the range 0 to n. One number is missing from the array. Write a function to find and return the missing number.
-**Constraints:
-1 <= arr[i] <= 100**
+# Q.1 Write a function that takes a sentence as input and returns the longest word in the sentence. If there are multiple words with the same maximum length, return the first one.
 ```
-Input: 5
-Input: [1, 2, 3, 4, 6]
-Output: 5
+Input: "The quick brown fox jumps over the lazy dog"
+Output: "jumps"
 
-Input: 8
-Input: [1, 2, 3, 4, 5, 6, 7, 9]
-Output: 8
+Input: "Programming is fun"
+Output: "Programming"
 
-Input: 4
-Input: [5, 2, 4, 1]
-Output: 3
-
-Input: 8
-Input: [8, 3, 6, 1, 5, 2, 4, 9]
-Output: 7
-
-Input: 8
-Input: [2, 1, 4, 5, 3, 8, 7, 6]
-Output: 9
+Input: "Artificial Intelligence is changing the world"
+Output: Intelligence
 ```
 **Author: Vaibhav**
 
