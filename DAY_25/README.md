@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a sentence as input and returns the longest word in the sentence. If there are multiple words with the same maximum length, return the first one.
 ```
 Input: "The quick brown fox jumps over the lazy dog"
-Output: "jumps"
+Output: "quick"
 
 Input: "Programming is fun"
 Output: "Programming"
@@ -35,10 +35,6 @@ Addition of two matrices: [2 1 2]
 Input: s = "Hello World"
 Output: 5
 Explanation: The last word is "World" with length 5.
-
-Input: s = "   fly me   to   the moon  "
-Output: 4
-Explanation: The last word is "moon" with length 4.
 
 Input: s = "luffy is still joyboy"
 Output: 6
