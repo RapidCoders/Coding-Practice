@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-void longest_substr(string str)
+void length_last(string str)
 {
         int i = str.size() - 1;
         while (i >= 0 && str[i] == ' ') {
@@ -20,6 +20,6 @@ int main()
 {
     string str;
     getline(cin,str);
-    longest_substr(str);
+    length_last(str);
     return 0;
 }
