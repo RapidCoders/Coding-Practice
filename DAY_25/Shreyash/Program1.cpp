@@ -17,7 +17,7 @@ using namespace std;
 
 void longest_substr(vector<string>str)
 {
-    string substr;
+    string substr = "";
 
     for (string i : str)
     {
