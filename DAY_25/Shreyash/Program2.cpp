@@ -1,3 +1,19 @@
+// Q.2 Program to calculate the addition of 2 matrices.
+// Input:
+// Matrix a = [1, 0, 1]  
+//            [4, 5, 6]  
+//            [1, 2, 3]  
+   
+// matrix b = [1, 1, 1]  
+//            [2, 3, 1]  
+//            [1, 5, 1]  
+
+// Output:
+// Addition of two matrices: [2 1 2]
+//                           [6 8 7]
+//                           [2 7 4]
+// Author: Suyash
+
 #include<iostream>
 using namespace std;
 
