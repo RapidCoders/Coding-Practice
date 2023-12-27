@@ -31,7 +31,7 @@ Addition of two matrices: [2 1 2]
 
 # Q.3 Write program which to print the below pattern.
 ``` 
-Input: 8
+Input: 4
 Output:
 * * * *
 
