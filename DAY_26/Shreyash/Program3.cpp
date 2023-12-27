@@ -1,3 +1,16 @@
+
+// Q.3 Write program which to print the below pattern.
+// Input: 4
+// Output:
+// * * * *
+
+//   * * * *
+
+//     * * * *
+
+//       * * * *
+// Author: Shreyash
+
 #include<iostream>
 using namespace std;
 
