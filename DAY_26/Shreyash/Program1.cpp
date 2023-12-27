@@ -1,3 +1,16 @@
+// Q.1 Write a function that takes a string as input and returns the first non-repeated character in the string.
+// Input: "programming"
+// Output: 'p'
+
+// Input: "aabbcc"
+// Output: ''
+
+// Input: "hello"
+// Output: 'h'
+// Author: Vaibhav
+
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
