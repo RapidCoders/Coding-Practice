@@ -29,15 +29,17 @@ Addition of two matrices: [2 1 2]
 ```
 **Author: Suyash**
 
-# Q.3 Write a Program to find Length of Last Word of user defind string.
+# Q.3 Write program which to print the below pattern.
+``` 
+Input: 8
+Output:
+* * * *
 
-```
-Input: s = "Hello World"
-Output: 5
-Explanation: The last word is "World" with length 5.
+  * * * *
 
-Input: s = "luffy is still joyboy"
-Output: 6
-Explanation: The last word is "joyboy" with length 6.
+    * * * *
+
+      * * * *
 ```
+
 **Author: Shreyash**
