@@ -7,7 +7,7 @@ Input: "aabbcc"
 Output: ''
 
 Input: "hello"
-Output: h
+Output: 'h'
 ```
 **Author: Vaibhav**
 
