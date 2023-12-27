@@ -1,4 +1,4 @@
-# Q.1 # Q.1 Write a function that takes a sentence as input and returns the longest word in the sentence. If there are multiple words with the same maximum length, return the first one.
+# Q.1 Write a function that takes a string as input and returns the first non-repeated character in the string.
 ```
 Input: "The quick brown fox jumps over the lazy dog"
 Output: "quick"
