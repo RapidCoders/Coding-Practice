@@ -1,13 +1,13 @@
 # Q.1 Write a function that takes a string as input and returns the first non-repeated character in the string.
 ```
-Input: "The quick brown fox jumps over the lazy dog"
-Output: "quick"
+Input: "programming"
+Output: 'p'
 
-Input: "Programming is fun"
-Output: "Programming"
+Input: "aabbcc"
+Output: ''
 
-Input: "Artificial Intelligence is changing the world"
-Output: Intelligence
+Input: "hello"
+Output: h
 ```
 **Author: Vaibhav**
 
