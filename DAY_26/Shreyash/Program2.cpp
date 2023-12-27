@@ -12,7 +12,7 @@
 #include<iostream>
 using namespace std;
 
-void summ(int mat1[3][3], const int row, const int col)
+void identity_ornot(int mat1[3][3], const int row, const int col)
 {
     int counter = 0;
     for(int i = 0;i<row;i++)
@@ -54,7 +54,7 @@ int main()
             cin>>mat1[i][j];
         }
     }
-    summ(mat1, row, col);
+    identity_ornot(mat1, row, col);
     
 
     return 0;
