@@ -1,3 +1,14 @@
+Q.2 Program to determine whether a given matrix is an identity matrix.
+Explanation : A matrix is said to be the identity matrix if it is the square matrix in which elements of principle diagonal are ones,
+              and the rest of the elements are zeroes.
+Input:
+Matrix a =[1, 0, 0]  
+          [0, 1, 0]  
+          [0, 0, 1]  
+
+Output: Given matrix is an identity matrix
+Author: Suyash
+
 #include<iostream>
 using namespace std;
 
