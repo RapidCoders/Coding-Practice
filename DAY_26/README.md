@@ -11,21 +11,16 @@ Output: 'h'
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to calculate the addition of 2 matrices.
+# Q.2 Program to determine whether a given matrix is an identity matrix.
 ```
+Explanation : A matrix is said to be the identity matrix if it is the square matrix in which elements of principle diagonal are ones,
+              and the rest of the elements are zeroes.
 Input:
-Matrix a = [1, 0, 1]  
-           [4, 5, 6]  
-           [1, 2, 3]  
-   
-matrix b = [1, 1, 1]  
-           [2, 3, 1]  
-           [1, 5, 1]  
+Matrix a =[1, 0, 0]  
+          [0, 1, 0]  
+          [0, 0, 1]  
 
-Output:
-Addition of two matrices: [2 1 2]
-                          [6 8 7]
-                          [2 7 4]
+Output: Given matrix is an identity matrix
 ```
 **Author: Suyash**
 
