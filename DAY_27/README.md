@@ -32,17 +32,10 @@ Output: Given matrix is an identity matrix
 ```
 **Author: Suyash**
 
-# Q.3 Write program which to print the below pattern.
+# Q.3 Write program program to remove brackets from an algebraic expression.
 ``` 
-Input: 4
-Output:
-* * * *
-
-  * * * *
-
-    * * * *
-
-      * * * *
+Input: a+b(/(c*c
+Output:a+b/c*c
 ```
 
 **Author: Shreyash**
