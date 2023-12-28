@@ -1,3 +1,8 @@
+
+// Q.3 Write program program to remove brackets (),{},[] from an algebraic expression.
+// Input: a+b(/(c*c
+// Output:a+b/c*c
+// Author: Shreyash
 #include<iostream>
 using namespace std;
 
