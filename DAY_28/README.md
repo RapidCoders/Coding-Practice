@@ -1,19 +1,7 @@
 # Q.1 Write a program which accept number 'n' from user and display even sqaures 'n' times.
 ```
-Input: "()"
-Output: True
-
-Input: "()[]{}"
-Output: True
-
-Input: "(]"
-Output: False
-
-Input: "([)]"
-Output: False
-
-Input: "{[]}"
-Output: True
+Input: 3
+Output: 4 16 36
 ```
 **Author: Vaibhav**
 
