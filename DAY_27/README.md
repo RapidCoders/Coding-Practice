@@ -1,5 +1,5 @@
 # Q.1 Write a function that takes a string containing only the characters '(', ')', '{', '}', '[' and ']' and determines if the input string is valid. An input string is valid if:
-**a. Open brackets must be closed by the same type of brackets.**
+**a. Open brackets must be closed by the same type of brackets.** <br>
 **b. Open brackets must be closed in the correct order.**
 ```
 Input: "()"
