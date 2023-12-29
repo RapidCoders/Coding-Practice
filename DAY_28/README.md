@@ -30,7 +30,11 @@ Continue the above process indefinitely by removing the fourth, fifth, sixth,…
 # Q.3 program to find the Quadrant in which Coordinates lie.
 ``` 
 Input: (-3, -33)
-Output: point (-3, -33) lies in the Third quadrant
+Output: point (-3, -33) lies in the Third quadrant.
+Input: (0 ,0)
+Output: point (0,0) is at the Origin.
+Input: (5,0)
+Output: point (0,0) lies on positive X Axis ;
 ```
 
 **Author: Shreyash**
