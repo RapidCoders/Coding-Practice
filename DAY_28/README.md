@@ -34,7 +34,7 @@ Output: point (-3, -33) lies in the Third quadrant.
 Input: (0 ,0)
 Output: point (0,0) is at the Origin.
 Input: (5,0)
-Output: point (0,0) lies on positive X Axis ;
+Output: point (5,0) lies on positive X Axis ;
 ```
 
 **Author: Shreyash**
