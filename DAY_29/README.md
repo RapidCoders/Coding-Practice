@@ -20,14 +20,20 @@ Output : 4558 is not a perfect number.
 ```
 **Author: Suyash**
 
-# Q.3 program to find the Quadrant in which Coordinates lie.
+# Q.3 Write a program to check number is Abundant Number or Not.
 ``` 
-Input: (-3, -33)
-Output: point (-3, -33) lies in the Third quadrant.
-Input: (0 ,0)
-Output: point (0,0) is at the Origin.
-Input: (5,0)
-Output: point (5,0) lies on positive X Axis ;
+Input: 12
+Output: True.
+Explanation:
+12 having a proper divisor is 1, 2, 3, 4, 6 
+
+The sum of these factors is 16 it is greater than 12 
+So it is an Abundant number
+
+Some other abundant numbers: 
+
+18, 20, 30, 70, 78, 80, 84, 90, 96, 100, 104, 108, 120
+
 ```
 
 **Author: Shreyash**
