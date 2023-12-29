@@ -1,3 +1,8 @@
+// Q.1 Write a program which accept number from user and display even sqaures 'n' times.
+// Input: 3
+// Output: 4 16 36
+// Author: Vaibhav
+
 #include<iostream>
 using namespace std;
 
