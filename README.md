@@ -25,3 +25,4 @@
 # [Day 25](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_25) <p>26/12/23<p>
 # [Day 26](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_26) <p>27/12/23<p>
 # [Day 27](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_27) <p>28/12/23<p>
+# [Day 28](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_28) <p>29/12/23<p>
