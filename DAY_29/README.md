@@ -5,25 +5,18 @@ Output: 4 16 36
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to check whether number is Lucky number or not.
+# Q.2 Write a program to check whether given number is Perfect number or not.
 ```
 Explanation: 
-The sequence of natural numbers or subset of integers that we get after removing second, third, fourth, fifth, and so on number respectively from the sequence. By applying the process there still remains some numbers indefinitely in the sequence such numbers are known as lucky numbers.
+Let's take the number 496 and heck it is a perfect number or not.
 
-Example :
-Consider the sequence of following natural numbers:
+First, we find the factors of 496 i.e. 1, 2, 4, 8, 16, 31, 62, 124, and 248. Let's find the sum of factors (1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 +248 = 496). We observe that the sum of factors is equal to the number itself. Hence, the number 496 is a perfect number.
 
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, ….
+Input : Enter the number : 28
+Output : 28 is a perfect number.
 
-Let's remove every second number (2, 4, 6, 8, 10, ……) from the above sequence, we get:
-
-1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, …………
-
-Let's remove every third number (5, 11, 17, 23, ……) from the above sequence, we get:
-
-1, 3, 7, 9, 13, 15, 19, 21, 25, …….
-
-Continue the above process indefinitely by removing the fourth, fifth, sixth,……, and so on, until after a fixed number of steps, certain natural numbers remain indefinitely. The numbers that remains in the sequence are known as lucky Numbers.
+Input : Enter the number : 4558
+Output : 4558 is not a perfect number.
 ```
 **Author: Suyash**
 
