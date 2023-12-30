@@ -1,7 +1,10 @@
-# Q.1 Write a program which accept number from user and display even sqaures 'n' times.
+# Q.1 Write a C++ program that takes a string as input and reverses the order of words in the string.
 ```
-Input: 3
-Output: 4 16 36
+Input: "Hello World"
+Output: "World Hello"
+
+Input: "Programming is fun"
+Output: "fun is Programming"
 ```
 **Author: Vaibhav**
 
