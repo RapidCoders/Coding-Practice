@@ -1,4 +1,4 @@
-# Q.1 Write a C++ program that takes a string as input and reverses the order of words in the string.
+# Q.1 Write a program that takes a string as input and reverses the order of words in the string.
 ```
 Input: "Hello World"
 Output: "World Hello"
