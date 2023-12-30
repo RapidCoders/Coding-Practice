@@ -1,4 +1,5 @@
 # Q.1 Write a program that takes a string as input and reverses the order of words in the string.
+**The input and output of funtion should be string type**
 ```
 Input: "Hello World"
 Output: "World Hello"
