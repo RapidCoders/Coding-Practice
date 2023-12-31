@@ -21,10 +21,13 @@ Output : Odd Numbers: 1 5 3
 ```
 **Author: Suyash**
 
-# Q.3 Write program for removing duplicate element in an array.
+# Q.3 Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 ``` 
-Input: 10, 20, 20, 30, 40, 40, 40, 50, 50
-Output: 10 20 30 40 50
+Input: nums = [2,2,1]
+Output: 1
+
+Input: nums = [4,1,2,1,2]
+Output: 4
 ```
 
 **Author: Shreyash**
