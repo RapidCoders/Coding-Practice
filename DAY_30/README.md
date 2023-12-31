@@ -1,11 +1,14 @@
-# Q.1 Write a program that takes a string as input and reverses the order of words in the string.
-**The input and output of funtion should be string type**
+# Q.1 Write a program that takes a matrix (2D array) as input and returns its transpose.
 ```
-Input: "Hello World"
-Output: "World Hello"
+Input:
+    1 2 3
+    4 5 6
+    7 8 9
 
-Input: "Programming is fun"
-Output: "fun is Programming"
+Output:
+    1 4 7
+    2 5 8
+    3 6 9
 ```
 **Author: Vaibhav**
 
