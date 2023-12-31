@@ -1,5 +1,6 @@
 # Q.1 Write a program that takes a matrix (2D array) as input and returns its transpose.
 ```
+Input: row = 3, col = 3
 Input:
     1 2 3
     4 5 6
