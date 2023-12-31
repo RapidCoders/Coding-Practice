@@ -13,18 +13,20 @@ Output:
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to check whether given number is Perfect number or not.
+# Q.2 Write a program to check whether given number is Fascinating number or not.
 ```
-Explanation: 
-Let's take the number 496 and heck it is a perfect number or not.
+Example :
+Let's take any number (n) say 327 and check whether the given number is fascinating or not. On multiplying the given number (n) by 2 and 3, we get:
 
-First, we find the factors of 496 i.e. 1, 2, 4, 8, 16, 31, 62, 124, and 248. Let's find the sum of factors (1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 +248 = 496). We observe that the sum of factors is equal to the number itself. Hence, the number 496 is a perfect number.
+327×2=654
 
-Input : Enter the number : 28
-Output : 28 is a perfect number.
+327×3=981
 
-Input : Enter the number : 4558
-Output : 4558 is not a perfect number.
+Now, concatenate the above results to the given number (n).
+
+"327"+"654"+ "981"= 327654981
+
+We observe that the resultant () contains all the digits from 1 to 9, exactly once. Hence, the given number 327 is a fascinating number. Note that, we have not added the result to the given number. Some other fascinating numbers are 192, 219, 273, 327, 1902, 1920, 2019 etc.
 ```
 **Author: Suyash**
 
