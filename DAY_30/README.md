@@ -28,20 +28,10 @@ Output : 4558 is not a perfect number.
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to check number is Abundant Number or Not.
+# Q.3 Write program for removing duplicate element in an array.
 ``` 
-Input: 12
-Output: True.
-Explanation:
-12 having a proper divisor is 1, 2, 3, 4, 6 
-
-The sum of these factors is 16 it is greater than 12 
-So it is an Abundant number
-
-Some other abundant numbers: 
-
-18, 20, 30, 70, 78, 80, 84, 90, 96, 100, 104, 108, 120
-
+Input: 10, 20, 20, 30, 40, 40, 40, 50, 50
+Output: 10 20 30 40 50
 ```
 
 **Author: Shreyash**
