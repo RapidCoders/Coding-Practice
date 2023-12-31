@@ -1,3 +1,9 @@
+
+// Q.3 Write program for removing duplicate element in an array.
+// Input: 10, 20, 20, 30, 40, 40, 40, 50, 50
+// Output: 10 20 30 40 50
+// Author: Shreyash
+
 #include<iostream>
 #include<vector>
 #include <set>
