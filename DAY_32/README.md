@@ -12,11 +12,10 @@ Output:
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a Program to print Odd and Even Numbers from an Array.
+# Q.2 Program to copy all elements of one array into another array.
 ```
-Input  : 1,2,5,6,3
-Output : Odd Numbers: 1 5 3
-         Even Numbers: 2 6 2
+Input  : 1,2,3,4,5
+Output : 1,2,3,4,5
 ```
 **Author: Suyash**
 
