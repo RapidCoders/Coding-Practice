@@ -12,9 +12,9 @@ Output:
 ```
 **Author: Vaibhav**
 
-# Q.2 Java Program to print Odd and Even Numbers from an Array.
+# Q.2 Write a Program to print Odd and Even Numbers from an Array.
 ```
-Input  : 1,2,5,6,3,2
+Input  : 1,2,5,6,3
 Output : Odd Numbers: 1 5 3
          Even Numbers: 2 6 2
 ```
