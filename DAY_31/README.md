@@ -1,15 +1,14 @@
-# Q.1 Write a program that takes a matrix (2D array) as input and returns its transpose.
+# Q.1 Write a program that prints below pattern
 ```
-Input: row = 3, col = 3
-Input:
-    1 2 3
-    4 5 6
-    7 8 9
-
+Input: 7
 Output:
-    1 4 7
-    2 5 8
-    3 6 9
+*     * * * *
+*     *
+*     *
+* * * * * * * 
+      *     *
+      *     *
+* * * *     *
 ```
 **Author: Vaibhav**
 
