@@ -1,4 +1,4 @@
-# Q.1 Write a program that prints swastika pattern
+# Q.1 Write a program that prints swastika pattern.
 ```
 Input: 7
 Output:
