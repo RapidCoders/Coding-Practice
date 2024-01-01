@@ -1,3 +1,15 @@
+// Q.1 Write a program that prints swastika pattern.
+// Input: 7
+// Output:
+// *     * * * *
+// *     *
+// *     *
+// * * * * * * * 
+//       *     *
+//       *     *
+// * * * *     *
+// Author: Vaibhav
+
 #include <iostream>
 using namespace std;
 
