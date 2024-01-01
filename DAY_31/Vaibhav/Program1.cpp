@@ -31,7 +31,7 @@ void print_pattern(int num)
     {
         for (j = 1; j <= num; j++)
         {
-            if (i == (num / 2) + 1 || j == (num / 2) + 1 || (i == 1 && j > num / 2) || (i == num && j <= num / 2) || (j == 1 && i <= num / 2) || (j == num && i > num / 2))
+            if ((i == (num / 2) + 1) || (j == (num / 2) + 1) || (i == 1 && j > num / 2) || (i == num && j <= num / 2) || (j == 1 && i <= num / 2) || (j == num && i > num / 2))
                 cout << "* ";
             else
                 cout << "  ";
