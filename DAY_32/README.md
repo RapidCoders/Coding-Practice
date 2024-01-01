@@ -20,13 +20,13 @@ Output : Odd Numbers: 1 5 3
 ```
 **Author: Suyash**
 
-# Q.3 Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+# Q.3 Write a  program to count the sum of numbers in a string.
 ``` 
-Input: nums = [2,2,1]
-Output: 1
+Input: string = "Pr22e44pinsta"
+Output: 12
 
-Input: nums = [4,1,2,1,2]
-Output: 4
+Input: string = "4PREP2INSTA8"
+Output: 14
 ```
 
 **Author: Shreyash**
