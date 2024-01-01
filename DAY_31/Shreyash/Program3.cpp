@@ -22,8 +22,10 @@ void once_occurence(vector<int>arr){
 				counter++;
 			}
 		}
-		if(counter == 1)
+		if(counter == 1){
 			cout<<arr[i];
+		}
+			
 	}
 	
 }
