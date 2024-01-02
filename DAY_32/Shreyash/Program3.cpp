@@ -1,3 +1,11 @@
+// Q.3 Write a program to count the sum of numbers in a string.
+// Input: string = "Pr22e44pinsta"
+// Output: 12
+
+// Input: string = "4PREP2INSTA8"
+// Output: 14
+// Author: Shreyash
+
 #include<iostream>
 #include<vector>
 using namespace std;
