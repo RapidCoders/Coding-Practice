@@ -1,14 +1,10 @@
-# Q.1 Write a program that prints swastika pattern.
+# Q.1 Write a function that takes an array of integers and returns the length of the longest consecutive elements sequence. Your algorithm should run in O(n) complexity.
 ```
-Input: 7
-Output:
-*     * * * *
-*     *
-*     *
-* * * * * * * 
-      *     *
-      *     *
-* * * *     *
+Input: [100, 4, 200, 1, 3, 2]
+Output: 4 (the longest consecutive elements sequence is [1, 2, 3, 4])
+
+Input: [9, 1, 4, 7, 2, 8, 3, 5]
+Output: 5 (the longest consecutive elements sequence is [1, 2, 3, 4, 5])
 ```
 **Author: Vaibhav**
 
