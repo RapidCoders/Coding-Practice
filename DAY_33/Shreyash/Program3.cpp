@@ -34,8 +34,10 @@ int main()
 {
     int mat[3][3];
     int row;
+    cout<<"Rows :";
     cin>>row;
     int col;
+    cout<<"Column";
     cin>>col;
     for(int i = 0;i<row;i++){
         for(int j = 0;j<col;j++){
