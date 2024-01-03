@@ -1,18 +1,14 @@
-# Q.1 Write a function that takes an array of integers and returns the length of the longest consecutive elements sequence.
+# Q.1 Given an array of integers, find the majority element. The majority element is the element that appears more than ⌊n/2⌋ times. Write a function majorityElement to find the majority element. You may assume that the array is non-empty and the majority element always exists in the array.  
 ```
-Input: [100, 4, 200, 1, 3, 2]
-Output: 4 (the longest consecutive elements sequence is [1, 2, 3, 4])
+Input: [3, 3, 4, 2, 4, 4, 2, 4, 4]
+Output: 4
 
-Input: [9, 1, 4, 7, 2, 8, 3, 5]
-Output: 5 (the longest consecutive elements sequence is [1, 2, 3, 4, 5])
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 9, 9, 9]
+Output: 9
 
-Input: [3, 3, 2, 2, 1, 1]
-Output: 3 (longest consecutive sequence is [1, 2, 3])
-
-Input: [10, 20, 30, 40, 50]
-Output: 5 (longest consecutive sequence is [10, 20, 30, 40, 50])
+Input: [2, 2, 1, 1, 1, 2, 2]
+Output: 2
 ```
-
 **Author: Vaibhav**
 
 # Q.2 Write a method to determine and return whether a given matrix is a sparse matrix.
