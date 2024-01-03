@@ -1,3 +1,16 @@
+
+// Q.3 Write a Program to find the frequency of odd & even numbers in the given matrixt.
+// Input:  a[][] = {       
+//                         {4, 1, 3},    
+//                         {3, 5, 7},    
+//                         {8, 2, 6}    
+//                 };
+// Output:
+// Frequency of odd numbers: 5
+// Frequency of even numbers: 4
+
+// Author: Shreyash
+
 #include<iostream>
 #include<vector>
 using namespace std;
