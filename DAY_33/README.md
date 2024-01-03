@@ -18,12 +18,11 @@ Output: 3
 **Author: Vaibhav**
 
 # Q.2 Write a method to determine and return whether a given matrix is a sparse matrix.
-```
 **Explanation:**
-A matrix is said to be sparse matrix if most of the elements of that matrix are 0. It implies that it contains very less non-zero elements.
+**A matrix is said to be sparse matrix if most of the elements of that matrix are 0. It implies that it contains very less non-zero elements.
 To check whether the given matrix is the sparse matrix or not, we first count the number of zero elements present in the matrix. Then
-calculate the size of the matrix. For the matrix to be sparse, count of zero elements present in an array must be greater than size/2.
-
+calculate the size of the matrix. For the matrix to be sparse, count of zero elements present in an array must be greater than size/2.**
+```
 Given Matrix : {4  0  0}
                {0  5  0}
                {0  0  6}
