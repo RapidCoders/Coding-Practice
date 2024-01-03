@@ -27,7 +27,8 @@ Given Matrix : {4  0  0}
                {0  5  0}
                {0  0  6}
 
-Number of zeroes present in above matrix is 6 and size of the matrix is 3 * 3 = 9. Since, 6 > 4.5 that means, most elements of given array are zero.
+Number of zeroes present in above matrix is 6 and size of the matrix is 3 * 3 = 9.
+Since, 6 > 4.5 that means, most elements of given array are zero.
 Hence, the above matrix is a sparse matrix.
 ```
 
