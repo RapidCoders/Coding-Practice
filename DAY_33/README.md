@@ -1,4 +1,4 @@
-# Q.1 Given an array of integers, find the majority element. The majority element is the element that appears more than ⌊n/2⌋ times. Write a function majorityElement to find the majority element. You may assume that the array is non-empty and the majority element always exists in the array.  
+# Q.1 Given an array of integers, find the majority element. The majority element is the element that appears more than ⌊n/2⌋ times. Write a function to find the majority element. You may assume that the array is non-empty and the majority element always exists in the array.  
 ```
 Input: [3, 3, 4, 2, 4, 4, 2, 4, 4]
 Output: 4
