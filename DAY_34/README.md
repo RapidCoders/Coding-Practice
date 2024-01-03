@@ -34,16 +34,19 @@ Hence, the above matrix is a sparse matrix.
 
 **Author: Suyash**
 
-# Q.3 Write a Program to find the frequency of odd & even numbers in the given matrixt.
+# Q.3 Program to determine whether two matrices are equal.
 ``` 
-Input:  a[][] = {       
-                        {4, 1, 3},    
-                        {3, 5, 7},    
-                        {8, 2, 6}    
-                };
-Output:
-Frequency of odd numbers: 5
-Frequency of even numbers: 4
+Input:   a[][] = {       
+                        {1, 2, 3},    
+                        {8, 4, 6},    
+                        {4, 5, 7}    
+                  };
+         b[][] = {       
+                        {1, 2, 3},    
+                        {8, 4, 6},    
+                        {4, 5, 7}    
+                  };   
+Output: True.
 
 ```
 
