@@ -1,3 +1,12 @@
+// Q.1 Given a string, find the first non-repeating character and return its index. If it doesn't exist, return -1.
+// Input: "leetcode"
+// Output: 0
+
+// Input: "loveleetcode"
+// Output: 2
+// Author: Vaibhav
+
+
 #include<iostream>
 using namespace std;
 
