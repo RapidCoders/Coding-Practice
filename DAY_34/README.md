@@ -9,7 +9,7 @@ Output: 2
 **Author: Vaibhav**
 
 # Q.2 Program to Print Matrix in Z Form.
-
+```
 **Explanation:**
 The Z form includes the elements of the first row, right diagonal, and the last row of the matrix. To print the Z form of the matrix, the rows and columns must be the same.
 
