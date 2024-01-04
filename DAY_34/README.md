@@ -27,8 +27,6 @@ Output : 5 9 1
 # Q.3 Program to determine whether two matrices are equal.
 ``` 
 Input:  
-
-```
          a[][] = {       
                         {1, 2, 3},    
                         {8, 4, 6},    
