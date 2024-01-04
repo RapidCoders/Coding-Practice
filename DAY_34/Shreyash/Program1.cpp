@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void firstnonrepeat(string str)
+void firstnonrepeat_char(string str)
 {
     int count = 0;
     for(int i = 0;i<str.length();i++)
@@ -28,6 +28,6 @@ int main()
 {
     string str;
     cin>>str;
-    firstnonrepeat(str);
+    firstnonrepeat_char(str);
     return 0;
 }
