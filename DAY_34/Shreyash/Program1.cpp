@@ -18,7 +18,7 @@ int firstnonrepeatchar(string str)
         }
         count = 0;
     }
-    return 0;
+    return -1;
 }
 
 int main()
@@ -26,6 +26,10 @@ int main()
     string str;
     cin>>str;
     int result = firstnonrepeatchar(str);
-    cout<<result;
+    if(result > 0){
+        cout<<result;
+    }else{
+        cout<<"All Char of String is reapeated";
+    }
     return 0;
 }
