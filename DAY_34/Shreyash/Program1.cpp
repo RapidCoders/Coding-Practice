@@ -1,33 +1,31 @@
 #include<iostream>
 using namespace std;
 
-void firstnonrepeat_char(string str)
+int firstnonrepeatchar(string str)
 {
     int count = 0;
-    for(int i = 0;i<str.length();i++)
-    {
-        for(int j = 0;j<str.length();j++)
-        {
-            if(str[i]==str[j])
-            {
+    for(int i = 0;i<str.length();i++){
+        for(int j = 0;j<str.length();j++){
+            if(str[i]==str[j]){
                 count++;
             }
 
 
         }
-        if(count == 1)
-        {
-            cout<<i;
+        if(count == 1){
+            return i;
             break;
         }
         count = 0;
     }
+    return 0;
 }
 
 int main()
 {
     string str;
     cin>>str;
-    firstnonrepeat_char(str);
+    int result = firstnonrepeatchar(str);
+    cout<<result;
     return 0;
 }
