@@ -42,16 +42,14 @@ Trace for the above matrix is 5 + 4 + 7 = 16.
 
 # Q.3 Program to Calculate HCF of Two Number.
 ``` 
-Input:
-        num1 = 36
-        num2 = 60
+Input:   num1 = 36
+         num2 = 60
 Output: 12
 
-Input:  num = 15
-Output: f.
+Input:   num1 = 56
+         num2 = 12;
+Output: 4
 
-Input:  num = 289
-Output: 121.
 ```
 
 **Author: Shreyash**
