@@ -19,7 +19,7 @@ Expected Output: [1, 2, 2, 2, 3, 4]
 **Author: Vaibhav**
 
 # Q.2 Program to chech whether Matrix is Trace Matrix.
-**Explanation:
+Explanation:
 The normal of a matrix is the square root of the sum of squares of all the elements of a matrix. For example, consider the following matrix.
         {9  8  2}
         {1  4  7}
@@ -36,7 +36,7 @@ The trace of a matrix is the sum of all the elements present in the principal di
         {1   (4)  7}
         {3    5  (6)}
 Normal and Trace of a Matrix in Java
-Trace for the above matrix is 5 + 4 + 7 = 16.**
+Trace for the above matrix is 5 + 4 + 7 = 16.
 
 **Author: Suyash**
 
