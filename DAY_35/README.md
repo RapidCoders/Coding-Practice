@@ -33,23 +33,17 @@ Output : 5 9 1
 ```
 **Author: Suyash**
 
-# Q.3 Program to determine whether two matrices are equal.
+# Q.3 Program to Convert Decimal to Hexadecimal.
 ``` 
-Input:  
-         a[][] = {       
-                        {1, 2, 3},    
-                        {8, 4, 6},    
-                        {4, 5, 7}    
-                  };
-                  
-        
-         b[][] = {       
-                        {1, 2, 3},    
-                        {8, 4, 6},    
-                        {4, 5, 7}    
-                  };   
-Output: True.
+Input:  num = 10
+Output: a.
 
+Input:  num =15
+Output: f.
+
+
+Input:  num = 289
+Output: 121.
 ```
 
 **Author: Shreyash**
