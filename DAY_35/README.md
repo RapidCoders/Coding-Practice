@@ -48,7 +48,6 @@ Output: a.
 Input:  num =15
 Output: f.
 
-
 Input:  num = 289
 Output: 121.
 ```
