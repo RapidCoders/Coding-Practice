@@ -45,7 +45,7 @@ Trace for the above matrix is 5 + 4 + 7 = 16.
 Input:  num = 10
 Output: a.
 
-Input:  num =15
+Input:  num = 15
 Output: f.
 
 Input:  num = 289
