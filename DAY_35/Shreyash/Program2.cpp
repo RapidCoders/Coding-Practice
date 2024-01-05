@@ -5,14 +5,3 @@
 // The trace of a matrix is the sum of all the elements present in the principal diagonal (upper left to lower right). Note that the matrix must be a square matrix (the number of rows and columns must be the same). It is useful to prove results in linear algebra. For example, consider the following matrix. {(9) 8 2} {1 (4) 7} {3 5 (6)} Normal and Trace of a Matrix in Java Trace for the above matrix is 5 + 4 + 7 = 16.
 
 // Author: Suyash
-
-// Q.3 Program to Convert Decimal to Hexadecimal.
-// Input:  num = 10
-// Output: a.
-
-// Input:  num = 15
-// Output: f.
-
-// Input:  num = 289
-// Output: 121.
-// Author: Shreyash
