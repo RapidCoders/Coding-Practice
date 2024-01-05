@@ -40,10 +40,12 @@ Trace for the above matrix is 5 + 4 + 7 = 16.
 
 **Author: Suyash**
 
-# Q.3 Program to Convert Decimal to Hexadecimal.
+# Q.3 Program to Calculate HCF of Two Number.
 ``` 
-Input:  num = 10
-Output: a.
+Input:
+        num1 = 36
+        num2 = 60
+Output: 12
 
 Input:  num = 15
 Output: f.
