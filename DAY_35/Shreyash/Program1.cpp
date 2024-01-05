@@ -16,3 +16,71 @@
 // Expected Output: [1, 2, 2, 2, 3, 4]
 // Author: Vaibhav
 
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+void mergesortedarray(vector<int> nums, vector<int> nums1, int count)
+{
+
+    for (int i = 0; i < nums1.size(); i++)
+    {
+        if(nums[nums.size() - 1] <= nums1[i]){
+            nums[nums.size()] = nums1[i];
+            nums[nums.size()+1] = nums[nums.size() - 1];
+        }
+    }
+    int temp;
+    for(int i = 0;i<nums.size();i++){
+        for(int j = 0;j<nums.size();j++){
+            if(nums[i]<nums[j]){
+                temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+            }
+        }
+    }
+
+    for(int k : nums){
+        cout<<k<<" ";
+    }
+}
+
+int main()
+{
+    vector<int> nums;
+    int num;
+    cout << "How Many Element u want to insert in array :";
+    cin >> num;
+    int temp;
+    for (int i = 0; i < num; i++)
+    {
+        cin >> temp;
+        nums.push_back(temp);
+    }
+    int count = 0;
+    for (int i : nums)
+    {
+        if (i == 0)
+        {
+            nums.pop_back();
+            count++;
+        }
+    }
+    vector<int> nums1;
+    int num1;
+    cout << "How Many Element u want to insert in array :";
+    cin >> num1;
+    int temp1;
+    for (int i = 0; i < num1; i++)
+    {
+        cin >> temp;
+        nums.push_back(temp);
+    }
+
+    mergesortedarray(nums, nums1, count);
+
+    return 0;
+}
+
