@@ -36,9 +36,8 @@ The trace of a matrix is the sum of all the elements present in the principal di
         {1   (4)  7}
         {3    5  (6)}
 Normal and Trace of a Matrix in Java
-Trace for the above matrix is 5 + 4 + 7 = 16.
+Trace for the above matrix is 5 + 4 + 7 = 16.**
 
-```
 **Author: Suyash**
 
 # Q.3 Program to Convert Decimal to Hexadecimal.
