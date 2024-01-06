@@ -27,7 +27,7 @@
 */
 import java.util.Scanner;
 
-public class Program1 
+public class Q1_SymmetricMatrix 
 {
 	public static void main(String[] args) 
 	{
@@ -66,32 +66,35 @@ class SymmetricMatrix
 {
 	public boolean ChkSymmetric(int rows, int columns, int matrix[][])
 	{
-		boolean flag = false;
-		
 		int transpose[][] = new int[rows][columns];
 		
-		for(int i=0; i<rows; i++)
-		{
-			for(int j=0; j<columns; j++)
-			{
-				transpose[i][j] = matrix[j][i];
-			}
-		}
 		
-		for(int i=0; i<rows; i++)
+		if(rows != columns)
 		{
-			for(int j=0; j<columns; j++)
+			return false;
+		}
+		else
+		{
+			for(int i=0; i<rows; i++)
 			{
-				if(transpose[i][j] != matrix[i][j])
+				for(int j=0; j<columns; j++)
 				{
-					flag = false;
-					break;
+					transpose[i][j] = matrix[j][i];
+				}
+			}
+			
+			for(int i=0; i<rows; i++)
+			{
+				for(int j=0; j<columns; j++)
+				{
+					if(transpose[i][j] != matrix[i][j])
+					{
+						return false;
+					}
 				}
 			}
 		}
 		
-		flag = true;
-		
-		return flag;
+		return true;
 	}
 }
