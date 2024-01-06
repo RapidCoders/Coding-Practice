@@ -23,26 +23,21 @@ Output: False.
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to chech whether Matrix is Trace Matrix.
+# Q.2 Write a method to check and return whether given number is duck or not.
+```
 Explanation:
-The normal of a matrix is the square root of the sum of squares of all the elements of a matrix. For example, consider the following matrix.
-        {9  8  2}
-        {1  4  7}
-        {3  5  6}
-Normal and Trace of a Matrix in Java
-First, we will calculate the sum of the square of each element.
-92 + 82 + 22 + 12 + 42 + 72 + 32 + 52 + 62
-81 + 64 + 4 + 1 + 16 + 49 + 9 + 25 + 36 = 285
-Now, calculate the square root of the sum of squares.
-√285 = 16.8819430161
+Duck number is another special positive non-zero number that contains zero in it. The digit zero should not be presented at the starting of the number.
+Zero can be present at any of the positions except the beginning of the number.
 
-The trace of a matrix is the sum of all the elements present in the principal diagonal (upper left to lower right). Note that the matrix must be a square matrix (the number of rows and columns must be the same). It is useful to prove results in linear algebra. For example, consider the following matrix.
-        {(9)  8   2}
-        {1   (4)  7}
-        {3    5  (6)}
-Normal and Trace of a Matrix in Java
-Trace for the above matrix is 5 + 4 + 7 = 16.
+Let's understand some examples of Duck numbers.
 
+3210 is a Duck number because it contains zero at the end of the number but not present at the beginning of it.
+08237 is not a Duck number because it contains zero at the beginning of it.
+7033 is a Duck number because it contains zero at the second position, not at the beginning.
+030405 is not a Duck number because it also contains zero in starting of the number.
+00153 is also not a Duck number because it contains leading zeros.
+
+```
 **Author: Suyash**
 
 # Q.3 Program to Calculate HCF of Two Number.
