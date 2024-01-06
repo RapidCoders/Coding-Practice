@@ -13,9 +13,11 @@ Input:
     [4, 8, 9]
 Output: False.
 
-nums1: [6, 5, 4, 0, 0, 0], m: 3
-nums2: [3, 2, 1], n: 3
-Expected Output: [1, 2, 3, 4, 5, 6]
+Input:
+    [1, 2, 3]
+    [2, 1, 0]
+    [3, 0, 1]
+Output: True.
 
 nums1: [1, 2, 2, 0, 0, 0], m: 3
 nums2: [2, 3, 4], n: 3
