@@ -1,48 +1,49 @@
 #include<iostream>
-#include<cmath>
 using namespace std;
 
-int hcf(int num1,int num2)
+bool symmetric(int mat[3][3],int row,int col)
 {
-    int minn = min(num1,num2);
-    int hcf = 0;
-    if(num1 == 0||num2 == 0)
-    {
-        hcf = num1+num2;
-        return hcf;
-    }
-    else if(num1 == num2)
-    {
-        hcf = num1;
-        return hcf;
-
-    }
-    else
-    {
-        for(int i = 1;i<minn;i++)
-        {
-            if(num1%i == 0 && num2%i == 0)
-            {
-                hcf = i;
-                
-            }
-
+   int count = 0;
+   int transmat[3][3];
+   for(int j = 0;j<row;j++){
+        for(int i = 0;i<col;i++){
+            transmat[j][i] = mat[i][j];
         }
     }
-    return hcf;
 
-    
+    for(int i = 0;i<row;i++){
+        for(int j = 0;j<col;j++){
+            if(mat[i][j] == transmat[i][j]){
+                count++;
+            }
+        }
+    }
+    if(count == row*col){
+        return true;
+    }
+
+    return false;
 }
+
+
+
+
 
 int main()
 {
-    int num1;
-    cout<<"num1 :";
-    cin>>num1;
-    int num2;
-    cout<<"num2 :";
-    cin>>num2;
-    int result = hcf(num1,num2);
-    cout<<"HCF for given Inputs: "<<result; 
+    int mat[3][3];
+    int row = 3;
+    int col = 3;
+    cout<<"Input Data in matrix :";
+    for(int i = 0;i<3;i++){
+        for(int j = 0;j<3;j++){
+            cin>>mat[i][j];
+        }
+    }
+    if(symmetric(mat,row,col)){
+        cout<<"True";
+    }else{
+        cout<<"False";
+    }
     return 0;
 }
