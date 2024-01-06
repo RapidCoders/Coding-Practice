@@ -1,9 +1,8 @@
 # Q.1 Write a program to determine if a given matrix is symmetric. A matrix is symmetric if it is equal to its transpose.
 ```
-Input: 
-    [1, 2, 3]
-    [2, 4, 5]
-    [3, 5, 6]
+Input:  [1, 2, 3]
+        [2, 4, 5]
+        [3, 5, 6]
 Output: True.
 
 Input:
