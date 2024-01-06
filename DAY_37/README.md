@@ -23,19 +23,20 @@ Output: False.
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a method to check and return whether given number is duck number or not.
+# Q.2 Write a method to check and return whether given number is nude number or not.
 ```
 Explanation:
-Duck number is another special positive non-zero number that contains zero in it. The digit zero should not be presented at the starting of the number.
-Zero can be present at any of the positions except the beginning of the number.
+A number is said to be nude number if all the digits of the number is the factor of that number.
+In short, nude numbers are those numbers that expose their factor.
 
-Let's understand some examples of Duck numbers.
+Example 1:
+672 is a nude number because all the digits (6, 7, and 2) of the number are the factors of the number itself.
 
-3210 is a Duck number because it contains zero at the end of the number but not present at the beginning of it.
-08237 is not a Duck number because it contains zero at the beginning of it.
-7033 is a Duck number because it contains zero at the second position, not at the beginning.
-030405 is not a Duck number because it also contains zero in starting of the number.
-00153 is also not a Duck number because it contains leading zeros.
+Let's see another example.
+
+Example 2:
+101 is not a nude number because all of the digits of the number 101, i.e., 1 and 0, do not divide the number 101.
+Observe that 1 divides the number 101, but 0 does not divide the number. Thus, we got at least one digit that does not divide the number 101.
 
 ```
 **Author: Suyash**
