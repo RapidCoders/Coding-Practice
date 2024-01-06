@@ -1,3 +1,16 @@
+// Q.3 Program to Calculate HCF of Two Number.
+// Input:   num1 = 36
+//          num2 = 60
+
+// Output: 12
+
+// Input:   num1 = 56
+//          num2 = 12
+
+// Output: 4
+
+// Author: Shreyash
+
 #include<iostream>
 #include<cmath>
 using namespace std;
