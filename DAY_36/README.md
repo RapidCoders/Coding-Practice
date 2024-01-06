@@ -23,7 +23,7 @@ Output: False.
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a method to check and return whether given number is duck or not.
+# Q.2 Write a method to check and return whether given number is duck number or not.
 ```
 Explanation:
 Duck number is another special positive non-zero number that contains zero in it. The digit zero should not be presented at the starting of the number.
