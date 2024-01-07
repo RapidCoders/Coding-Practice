@@ -23,7 +23,8 @@ int lcm(int num1,int num2)
 {
     int maxx = max(num1,num2);
     int lcm = 1;
-    for(int i = maxx;i<num1*num2;i++){
+    for(int i = maxx;i<num1*num2;i++)
+    {
         if(i%num1 == 0&&i%num2 == 0)
         {
             lcm = i;
