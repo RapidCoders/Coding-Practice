@@ -1,4 +1,4 @@
-# Q.1 Write a function (in Python or any programming language of your choice) to count the number of set bits (1s) in the binary representation of a given non-negative integer.
+# Q.1 Write a program to count the number of set bits (1s) in the binary representation of a given non-negative integer.
 ```
 Input:  0
 Output: 0
