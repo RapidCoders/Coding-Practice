@@ -1,25 +1,19 @@
-# Q.1 Write a program to determine if a given matrix is symmetric. A matrix is symmetric if it is equal to its transpose.
+# Q.1 Write a function (in Python or any programming language of your choice) to count the number of set bits (1s) in the binary representation of a given non-negative integer.
 ```
-Input:  [1, 2, 3]
-        [2, 4, 5]
-        [3, 5, 6]
-Output: True.
+Input:  0
+Output: 0
 
-Input:  [1, 2, 3]
-        [2, 4, 5]
-        [3, 5, 6]
-        [4, 8, 9]
-Output: False.
+Input:  7
+Output: 3
 
-Input:  [1, 2, 3]
-        [2, 1, 0]
-        [3, 0, 1]
-Output: True.
+Input:  123
+Output: 6
 
-Input:  [1, 2, 3]
-        [4, 5, 6]
-        [7, 8, 9]
-Output: False.
+Input:  1024
+Output: 1
+
+Input:  65535
+Output: 16
 ```
 **Author: Vaibhav**
 
