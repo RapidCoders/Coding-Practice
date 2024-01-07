@@ -16,36 +16,44 @@
 // Author: Vaibhav
 
 #include<iostream>
-#include<cmath>
 using namespace std;
 
-int lcm(int num1,int num2)
+void setbits(int num)
 {
-    int maxx = max(num1,num2);
-    int lcm = 1;
-    for(int i = maxx;i<num1*num2;i++)
+    int mod = 0;
+    int setbits = 0;
+    if(num <= 0)
     {
-        if(i%num1 == 0&&i%num2 == 0)
+        cout<<"Enter number greater than zero.";
+
+    }
+    else
+    {
+        while(num > 0)
         {
-            lcm = i;
-            
+            mod = num%2;
+            if(mod == 1)
+            {
+                setbits++;
+            }
+            num = num/2;
         }
 
     }
-
-    return lcm;
-    
+    cout<<setbits;
+   
 }
+
+
+
+
 
 int main()
 {
-    int num1;
-    cout<<"num1 :";
-    cin>>num1;
-    int num2;
-    cout<<"num2 :";
-    cin>>num2;
-    int result = lcm(num1,num2);
-    cout<<"HCF for given Inputs: "<<result; 
+    int num;
+    cin>>num;
+    setbits(num);
+
+    
     return 0;
 }
