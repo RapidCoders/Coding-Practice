@@ -35,17 +35,17 @@ Observe that 1 divides the number 101, but 0 does not divide the number. Thus, w
 ```
 **Author: Suyash**
 
-# Q.3 Program to Calculate HCF of Two Number.
-``` 
-Input:   num1 = 36
-         num2 = 60
+# Q.3 write Program to find the LCM of two numbers
+```
+Input:   num1 = 12
+         num2 = 14
 
-Output: 12
+Output: 84
 
-Input:   num1 = 56
-         num2 = 12
+Input:   num1 = 55
+         num2 = 15
 
-Output: 4
+Output: 165
 
 ```
 
