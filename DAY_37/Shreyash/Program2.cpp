@@ -14,3 +14,49 @@
 // Observe that 1 divides the number 101, but 0 does not divide the number. Thus, we got at least one digit that does not divide the number 101.
 
 // Author: Suyash
+
+#include<iostream>
+using namespace std;
+
+bool nudenumornot(int num)
+{
+    int mod;
+    int temp = num;
+    int count = 0;
+    int numbersdiv = 0;
+    while(num > 0)
+    {
+        mod = num%10;
+        if(temp%mod == 0)
+        {
+            numbersdiv++;
+        }
+        num = num/10;
+        count++;
+
+    }
+    if(numbersdiv == count)
+    {
+        return true;
+    }
+
+    return false;
+
+}
+
+int main()
+{
+    int num;
+    cout<<"num :";
+    cin>>num;
+    if(nudenumornot(num))
+    {
+        cout<<"True";
+    }
+    else
+    
+        cout<<"False";
+    }
+
+    return 0;
+}
