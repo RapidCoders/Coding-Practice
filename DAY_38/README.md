@@ -35,17 +35,13 @@ Observe that 1 divides the number 101, but 0 does not divide the number. Thus, w
 ```
 **Author: Suyash**
 
-# Q.3 write Program to find the LCM of two numbers
+# Q.3 write Program for Octal to Decimal Conversion.
 ```
-Input:   num1 = 12
-         num2 = 14
+Input: octal = 462
+Output:  306
 
-Output: 84
-
-Input:   num1 = 55
-         num2 = 15
-
-Output: 165
+Input: octal = 206
+Output: 134
 
 ```
 
