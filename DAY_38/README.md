@@ -1,8 +1,7 @@
 # Q.1 Write a program to calculate, a) area of rectangle b) perimeter of rectangle c) check it is square or not
 ```
-Input:  0
-Output: 0
-
+Input:  length = 4.0, breadth = 6.0
+Output: Area: 24.0, Perimeter: 20.0, is_square: No.
 Input:  7
 Output: 3
 
