@@ -14,3 +14,34 @@
 
 // Author: Suyash
 
+#include<iostream>
+using namespace std;
+
+bool buzznumornot(int num)
+{
+
+    if(num%10 == 7 || num%7 == 0)
+    {
+        return true;
+    }
+
+    return false;
+}
+    
+
+
+int main()
+{
+    int num;
+    cout<<"num :";
+    cin>>num;
+    if(buzznumornot(num))
+    {
+        cout<<"True";
+    }
+    else
+    {
+        cout<<"False";
+    }
+}
+
