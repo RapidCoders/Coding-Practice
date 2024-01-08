@@ -1,4 +1,4 @@
-# Q.1 Write a program to calculate, a. area of rectangle b. perimeter of rectangle c. check it is square or not
+# Q.1 Write a program to calculate, a) area of rectangle b) perimeter of rectangle c) check it is square or not
 ```
 Input:  0
 Output: 0
