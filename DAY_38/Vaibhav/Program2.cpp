@@ -23,7 +23,7 @@ using std::endl;
 
 bool check_buzz(int num)
 {
-    if ((num % 7 == 0) || (num % 10 == 7))
+    if (((num % 7) == 0) || ((num % 10) == 7))
         return true;
     return false;
 }
@@ -32,7 +32,7 @@ int main(void)
 {
     int num;
 
-    cout <<"\nEnter the number: ";
+    cout << "\nEnter the number: ";
     cin >> num;
 
     if (check_buzz(num))
