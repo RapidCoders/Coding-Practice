@@ -8,12 +8,6 @@ Output: Area: 56.25, Perimeter: 30, is_square: Yes.
 
 Input:  length = 3.0, breadth = 9.0
 Output: Area: 27.0, Perimeter: 24.0, is_square: No.
-
-Input:  1024
-Output: 1
-
-Input:  65535
-Output: 16
 ```
 **Author: Vaibhav**
 
