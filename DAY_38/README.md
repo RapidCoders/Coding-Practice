@@ -36,8 +36,4 @@ Output:  306
 Input: octal = 206
 Output: 134
 ```
-Author: Shreyash
-
-
-
 **Author: Shreyash**
