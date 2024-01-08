@@ -1,4 +1,7 @@
-# Q.1 Write a program to count the number of set bits (1s) in the binary representation of a given non-negative integer.
+# Q.1 Write a program to calculate,
+a. area of rectangle
+b. perimeter of rectangle
+c. check it is square or not
 ```
 Input:  0
 Output: 0
