@@ -2,8 +2,9 @@
 ```
 Input:  length = 4.0, breadth = 6.0
 Output: Area: 24.0, Perimeter: 20.0, is_square: No.
-Input:  7
-Output: 3
+
+Input:  length = 7.5, breadth = 7.5
+Output: Area: 56.25, Perimeter: 30, is_square: Yes.
 
 Input:  123
 Output: 6
