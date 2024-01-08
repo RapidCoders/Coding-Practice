@@ -28,14 +28,16 @@ Let's take some examples of Buzz numbers.
 ```
 **Author: Suyash**
 
-# Q.3 write Program for Binary to Octal conversion.
+# Q.3 write Program for Octal to Decimal Conversion.
 ```
-Input: binary = 1010
-Output:  12
+Input: octal = 462
+Output:  306
 
-Input: binary = 01010
-Output: 25
-
+Input: octal = 206
+Output: 134
 ```
+Author: Shreyash
+
+
 
 **Author: Shreyash**
