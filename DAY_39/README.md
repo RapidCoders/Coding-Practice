@@ -14,20 +14,24 @@ Output: True
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a method to check and return whether given number is Buzz Number or not.
+# Q.2 Write a method to check and return whether given number is Spy Number or not.
 ```
 Explanation:
-Buzz number is another special number in Java that ends with digit 7 or divisible by 7. Unlike Prime and Armstrong numbers, the Buzz number is not so popular and asked by the interviewers.
+A positive integer is called a spy number if the sum and product of its digits are equal.
+In other words, a number whose sum and product of all digits are equal is called a spy number.
 
-In simple words, a number is said to be Buzz if it ends with 7 or is divisible by 7.
+Example:
+Let's take the number 1124 and check whether the number is a spy or not.
+First, we will split it into digits (1, 1, 2, 4). After that find the sum and product of all the digits.
+  Sum = 1 + 1 + 2 + 4 = 8
+  Product = 1 * 1 * 2 * 4 = 8
+We observe that the sum and product of the digits both are equal. Hence, 1124 is a spy number.
 
-Let's take some examples of Buzz numbers.
+Input  : 132
+Output : Spy number.
 
-42 is a Buzz number because it is divisible by 7.
-107 is a Buzz number because it ends with 7.
-147 is a Buzz number because it ends with 7 and also divisible by 7.
-134 is not a Buzz number because it is neither end with 7 nor divisible by 7.
-
+Input  : 217
+Output : Not a Spy Number.
 ```
 **Author: Suyash**
 
