@@ -3,7 +3,7 @@
 Input: "The quick brown fox jumps over the lazy dog."
 Output: True
 
-Input:  "Pack my box with five dozen liquor jugs."
+Input:  "Pack my box with five 7623 dozen liquor jugs."
 Output: True
 
 Input:  "The lazy dog slept."
