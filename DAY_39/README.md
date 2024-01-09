@@ -36,7 +36,7 @@ Let's take some examples of Buzz numbers.
 Input: binary = 1010
 Output:  12
 
-Input: binary = 01010
+Input: binary = 010101
 Output: 25
 ```
 **Author: Shreyash**
