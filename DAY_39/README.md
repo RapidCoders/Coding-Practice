@@ -38,8 +38,6 @@ Output:  12
 
 Input: binary = 01010
 Output: 25
-
 ```
-
 **Author: Shreyash**
 
