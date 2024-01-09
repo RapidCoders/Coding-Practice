@@ -1,3 +1,12 @@
+
+// Q.3 write Program for Binary to Octal conversion.
+// Input: binary = 1010
+// Output:  12
+
+// Input: binary = 010101
+// Output: 25
+// Author: Shreyash
+
 #include<iostream>
 #include<cmath>
 using namespace std;
