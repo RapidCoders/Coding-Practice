@@ -1,13 +1,16 @@
-# Q.1 Write a program to calculate, a) area of rectangle b) perimeter of rectangle c) check it is square or not
+# Q.1 Write a program to implement a function that checks if a given string is a pangram. A pangram is a sentence or expression that uses every letter of the alphabet at least once.
 ```
-Input:  length = 4.0, breadth = 6.0
-Output: Area: 24.0, Perimeter: 20.0, is_square: No.
+Input: "The quick brown fox jumps over the lazy dog."
+Output: True
 
-Input:  length = 7.5, breadth = 7.5
-Output: Area: 56.25, Perimeter: 30, is_square: Yes.
+Input:  "Pack my box with five dozen liquor jugs."
+Output: True
 
-Input:  length = 3.0, breadth = 9.0
-Output: Area: 27.0, Perimeter: 24.0, is_square: No.
+Input:  "The lazy dog slept."
+Output: False
+
+Input:  "Cwm fjord bank glyphs vext quiz."
+Output: True
 ```
 **Author: Vaibhav**
 
