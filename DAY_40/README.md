@@ -6,8 +6,8 @@ Output: 7
 Input:  [10, 10, 10, 10, 10]
 Output: -1
 
-Input:  "The lazy dog slept."
-Output: False
+Input:  [-5, -2, 0, 3, 7, 1]
+Output: 3
 
 Input:  "Cwm fjord bank glyphs vext quiz."
 Output: True
