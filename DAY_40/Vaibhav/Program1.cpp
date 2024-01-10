@@ -18,10 +18,21 @@ Author: Vaibhav
 
 #include <iostream>
 #include <vector>
+#include <set>
 using std::cin;
 using std::cout;
 using std::endl;
 using std::vector;
+
+// This solution is also working fine.
+// int find_second_largest(const vector<int> &nums)
+// {
+//     std::set uniques(nums.begin(), nums.end());
+
+//     if (uniques.size() > 1)
+//         return *std::prev(uniques.end(), 2);
+//     return -1;
+// }
 
 int find_largest(const vector<int> &nums)
 {
