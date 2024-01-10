@@ -1,4 +1,4 @@
-# Q.1 Write a program to implement a function that checks if a given string is a pangram. A pangram is a sentence or expression that uses every letter of the alphabet at least once.
+# Q.1 Write a program to implement a function that finds the second-largest element in an array. The function should take an array of integers as input and return the second-largest element. If there is no second-largest element, return -1.
 ```
 Input: "The quick brown fox jumps over the lazy dog."
 Output: True
