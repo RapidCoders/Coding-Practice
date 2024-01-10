@@ -1,7 +1,7 @@
 # Q.1 Write a program to implement a function that finds the second-largest element in an array. The function should take an array of integers as input and return the second-largest element. If there is no second-largest element, return -1.
 ```
-Input: "The quick brown fox jumps over the lazy dog."
-Output: True
+Input: [3, 8, 5, 2, 7, 1, 6, 4]
+Output: 7
 
 Input:  "Pack my box with five 7623 dozen liquor jugs."
 Output: True
