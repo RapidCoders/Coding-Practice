@@ -1,3 +1,20 @@
+
+// Q.3 write Program to swap two numbers without using a third variable.
+// Input:
+//       a = 10
+//       b = 12
+// Output:
+//       a = 12
+//       b = 10
+
+// Input:
+//       a = 55
+//       b = 20
+// Output:
+//       a = 20
+//       b = 55
+// Author: Shreyash
+
 #include<iostream>
 #include<cmath>
 using namespace std;
