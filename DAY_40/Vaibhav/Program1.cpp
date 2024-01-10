@@ -24,7 +24,7 @@ using std::cout;
 using std::endl;
 using std::vector;
 
-// This solution is also working fine.
+// Solution 1: This solution is also working fine.
 // int find_second_largest(const vector<int> &nums)
 // {
 //     std::set uniques(nums.begin(), nums.end());
@@ -34,6 +34,7 @@ using std::vector;
 //     return -1;
 // }
 
+// Solution 2:
 int find_largest(const vector<int> &nums)
 {
     int largest = nums[0];
@@ -70,6 +71,7 @@ int find_second_largest(const vector<int> &nums)
     }
     return second_largest;
 }
+//
 
 int main(void)
 {
