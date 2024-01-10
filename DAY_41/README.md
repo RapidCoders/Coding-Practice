@@ -26,21 +26,23 @@ Output : The value of 10 meter in Inches is: 393.7
 ```
 **Author: Suyash**
 
-# Q.3 write Program to swap two numbers without using a third variable.
+# Q.3 write program to Print Number Star Right Triangle Pattern.
 ```
-Input:
-      a = 10
-      b = 12
+Input: n = 4
 Output:
-      a = 12
-      b = 10
 
-Input:
-      a = 55
-      b = 20
+         1
+         3*2
+         6*5*4
+         10*9*8*7
+
+Input: n = 5
 Output:
-      a = 20
-      b = 55
+         1
+         3*2
+         6*5*4
+         10*9*8*7
+         15*14*13*12*11
 ```
 **Author: Shreyash**
 
