@@ -12,3 +12,54 @@
 // Output: True
 // Author: Vaibhav
 
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<set>
+using namespace std;
+
+int sec_largest(vector<int>arr)
+{
+    set<int>arr_uni;
+    
+    for(int k : arr)
+    {
+        for(int j: arr)
+        {
+            if(k > j)
+            {
+                int temp = k;
+                k = j;
+                j = temp;
+            }
+        }
+    }
+    for(int k : arr){
+        arr_uni.insert(k);
+    }
+    if(arr_uni.size() < arr.size()){
+        return -1;
+    }else{
+        return arr[arr_uni.size() - 2];
+    }
+    
+}
+
+int main()
+{
+    vector<int>arr;
+    int num;
+    cout<<"Enter How Many Numbers U want to put in array :";
+    cin>>num;
+    int temp;
+    for(int i = 0;i<num;i++)
+    {
+        cin>>temp;
+        arr.push_back(temp);
+    }
+
+    int result = sec_largest(arr);
+
+    cout<<"Second Largest Element :"<<result;
+    return 0;
+}
