@@ -9,8 +9,8 @@ Output: -1
 Input:  [-5, -2, 0, 3, 7, 1]
 Output: 3
 
-Input:  "Cwm fjord bank glyphs vext quiz."
-Output: True
+Input:  [5, 5, 5, 5, 5, 5, 5, 5]
+Output: -1
 ```
 **Author: Vaibhav**
 
