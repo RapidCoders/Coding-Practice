@@ -3,8 +3,8 @@
 Input: [3, 8, 5, 2, 7, 1, 6, 4]
 Output: 7
 
-Input:  "Pack my box with five 7623 dozen liquor jugs."
-Output: True
+Input:  [10, 10, 10, 10, 10]
+Output: -1
 
 Input:  "The lazy dog slept."
 Output: False
