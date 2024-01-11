@@ -1,4 +1,4 @@
-# Q.1 Write a program to implement a function that finds the second-largest element in an array. The function should take an array of integers as input and return the second-largest element. If there is no second-largest element, return -1.
+# Q.1 Write a program to implement a function that finds the maximum product of two integers in an array of integers. The array may contain both positive and negative integers.
 ```
 Input: [3, 8, 5, 2, 7, 1, 6, 4]
 Output: 7
