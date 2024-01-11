@@ -36,3 +36,5 @@
 # [Day 36](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_36) <p>06/12/23<p>
 # [Day 37](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_37) <p>07/12/23<p>
 # [Day 38](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_38) <p>08/12/23<p>
+# [Day 39](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_39) <p>09/12/23<p>
+# [Day 40](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_40) <p>10/12/23<p>
