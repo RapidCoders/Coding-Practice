@@ -21,7 +21,6 @@ Output : 104F
 
 Input  : 10
 Output : 50F
-
 ```
 **Author: Suyash**
 
