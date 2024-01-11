@@ -1,3 +1,18 @@
+// Q.1 Write a program to implement a function that finds the maximum product of two integers in an array of integers. The array may contain both positive and negative integers.
+// Input: [1, 2, 3, 4, 5]
+// Output: 20
+
+// Input:  [-10, -3, 5, 2, -9]
+// Output: 90
+
+// Input:  [-5, -4, 2, 8, 1]
+// Output: 20
+
+// Input:  [4, -2, 8, -1, 3]
+// Output: 32
+// Author: Vaibhav
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
