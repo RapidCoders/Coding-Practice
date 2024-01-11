@@ -9,8 +9,8 @@ Output: 90
 Input:  [-5, -4, 2, 8, 1]
 Output: 20
 
-Input:  [5, 5, 5, 5, 5, 5, 5, 5]
-Output: -1
+Input:  [4, -2, 8, -1, 3]
+Output: 32
 ```
 **Author: Vaibhav**
 
