@@ -1,3 +1,12 @@
+
+// Q.2 Program to Convert Celsius into Fahrenheit.
+// Input  : 40
+// Output : 104F
+
+// Input  : 10
+// Output : 50F
+// Author: Suyash
+
 #include<iostream>
 using namespace std;
 
