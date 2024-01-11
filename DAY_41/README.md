@@ -14,15 +14,14 @@ Output: 32
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to Convert meter to Feet and Inches.
+# Q.2 Program to Convert Celsius into Fahrenheit.
 ```
 Input  : 40
-Output : The value of 40 meter in Inches is:  1574.80
-         The value of 40 meter in feet is: 131.24
+Output : 104F
 
 Input  : 10
-Output : The value of 10 meter in Inches is: 393.7
-         The value of 10 meter in Feet is: 32.81
+Output : 50F
+
 ```
 **Author: Suyash**
 
