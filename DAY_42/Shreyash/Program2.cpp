@@ -1,3 +1,16 @@
+
+// Q.2 Program to Check Disarium number
+// Input:
+//   num = 135  
+
+// Output:
+//   1^1 + 3^2 + 5^3 = 135
+//   135 is a disarium number
+
+// Author: Suyash
+
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
