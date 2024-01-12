@@ -30,13 +30,13 @@ Output:
 ```
 **Author: Suyash**
 
-# Q.3 write Recursive program which accept number from user and return sum upto nth term.
+# Q.3 write Recursive program to Calculate Factorial of given number.
 ```
-Input: n = 10
-Output: 55
-
 Input: n = 5
-Output: 15
+Output: 120
+
+Input: n = 7
+Output: 5040
 ```
 **Author: Shreyash**
 
