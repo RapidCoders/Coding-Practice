@@ -21,11 +21,11 @@ Output: -1
 # Q.2 Program to Check Disarium number
 ```
 Input:
-  num = 175  
+  num = 135  
 
 Output:
-  11 + 72 + 53 = 1 + 49 + 125 = 175
-  175 is a disarium number
+  1^1 + 3^2 + 5^3 = 135
+  135 is a disarium number
 
 ```
 **Author: Suyash**
