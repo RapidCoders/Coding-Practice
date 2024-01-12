@@ -1,4 +1,4 @@
-# Q.1 Write a program to implement a function that finds the maximum product of two integers in an array of integers. The array may contain both positive and negative integers.
+# Q.1 Write a program to implement binary search on a sorted array. The program should take an array of integers and a target value as input, and return the index of the target value in the array. If the target is not present, return -1.
 ```
 Input: [1, 2, 3, 4, 5]
 Output: 20
