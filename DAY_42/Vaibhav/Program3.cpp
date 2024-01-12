@@ -7,7 +7,7 @@ Output: 55
 Input: n = 5
 Output: 15
 
-Author: Shreyash
+Author: Shreyash 
 */
 
 #include <iostream>
