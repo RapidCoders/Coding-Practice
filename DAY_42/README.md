@@ -18,13 +18,15 @@ Output: -1
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to Convert Celsius into Fahrenheit.
+# Q.2 Program to Check Disarium number
 ```
-Input  : 40
-Output : 104F
+Input:
+  num = 175  
 
-Input  : 10
-Output : 50F
+Output:
+  11 + 72 + 53 = 1 + 49 + 125 = 175
+  175 is a disarium number
+
 ```
 **Author: Suyash**
 
