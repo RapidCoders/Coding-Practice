@@ -1,3 +1,14 @@
+
+
+// Q.2 Write a program to find the quotient and remainder of given number.
+// Input: Enter the numbers: 34  3
+
+// Output:
+// Quotient when 34/3 is: 11
+// Remainder when 34 is divided by 3 is: 1
+
+// Author: Suyash
+
 #include<iostream>
 using namespace std;
 
