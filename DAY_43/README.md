@@ -9,9 +9,8 @@ Output: Buzz
 Input: 15
 Output: FizzBuzz
 
-Input: [1, 2, 3, 4, 5, 6, 7, 8, 9]
-Target: 10
-Output: -1
+Input: 7
+Output: 7
 ```
 **Author: Vaibhav**
 
