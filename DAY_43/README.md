@@ -14,14 +14,13 @@ Output: 7
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to Check Disarium number
+# Q.2 Write a program to find the quotient and remainder of given number.
 ```
-Input:
-  num = 135  
+Input: Enter the numbers: 34  3
 
 Output:
-  1^1 + 3^2 + 5^3 = 135
-  135 is a disarium number
+Quotient when 34/3 is: 11
+Remainder when 34 is divided by 3 is: 1
 
 ```
 **Author: Suyash**
