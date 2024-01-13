@@ -21,24 +21,9 @@ using std::cin;
 using std::cout;
 using std::endl;
 
-void fizz_buzz(int num)
-{
-    if (num % 3 == 0 && num % 5 == 0)
-        cout << "\nFizzBuzz\n";
-    else if (num % 3 == 0)
-        cout << "\nFizz\n";
-    else if (num % 5 == 0)
-        cout << "\nBuzz\n";
-    else
-        cout << num << endl;
-}
 
 int main(void)
 {
-    int num;
-
-    cout << "\nEnter the number: ";
-    cin >> num;
 
     fizz_buzz(num);
 
