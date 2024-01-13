@@ -3,9 +3,8 @@
 Input: 3
 Output: Fizz
 
-Input: [1, 2, 3, 4, 5, 6, 7, 8, 9]
-Target: 1
-Output: 0
+Input: 5
+Output: Buzz
 
 Input: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 Target: 9
