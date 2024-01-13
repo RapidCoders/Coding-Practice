@@ -1,4 +1,4 @@
-# Q.1 Write a program to implement binary search on a sorted array. The program should take an array of integers and a target value as input, and return the index of the target value in the array. If the target is not present, return -1.
+# Q.1 Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz." For numbers that are multiples of both three and five, print "FizzBuzz."
 ```
 Input: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 Target: 6
