@@ -17,7 +17,7 @@ Output: 7
 
 # Q.2 Write a program to find area of trapezium. First find height of trapezium and then calculate the area.
 ```
-![area-of-tapezium-formula-1620038922](https://github.com/RapidCoders/Coding-Practice/assets/101892435/daf11519-e916-4d84-8355-ab0392078a1d)
+![area-of-tapezium-formula-1620038922](https://github.com/RapidCoders/Coding-Practice/assets/101892435/d717c49e-18d6-45ca-b2d8-37b89b44b825)
 Input  : a=3, b=4, c=6, d=5, h=6
 Output : Area of Trapezium is: 21
 
