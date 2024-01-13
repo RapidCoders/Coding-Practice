@@ -21,11 +21,27 @@ using std::cin;
 using std::cout;
 using std::endl;
 
+void fizz_buzz()
+{
+    int i;
+
+    for (i = 1; i <= 100; i++)
+    {
+        if (i % 3 == 0 && i % 5 == 0)
+            cout << "\nFizzBuzz\n";
+        else if (i % 3 == 0)
+            cout << "\nFizz\n";
+        else if (i % 5 == 0)
+            cout << "\nBuzz\n";
+        else
+            cout << endl
+                 << i << endl;
+    }
+}
 
 int main(void)
 {
-
-    fizz_buzz(num);
+    fizz_buzz();
 
     return 0;
 }
