@@ -15,13 +15,11 @@ Output: 7
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to find the quotient and remainder of given number.
+# Q.2 Write a program to find area of trapezium. First find height of trapezium and then calculate the area.
 ```
-Input: Enter the numbers: 34  3
-
-Output:
-Quotient when 34/3 is: 11
-Remainder when 34 is divided by 3 is: 1
+![area-of-tapezium-formula-1620038922](https://github.com/RapidCoders/Coding-Practice/assets/101892435/daf11519-e916-4d84-8355-ab0392078a1d)
+Input  : a=3, b=4, c=6, d=5, h=6
+Output : Area of Trapezium is: 21
 
 ```
 **Author: Suyash**
