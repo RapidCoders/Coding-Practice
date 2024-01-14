@@ -1,3 +1,13 @@
+
+// Q.2 Write a program to find area of trapezium. First find height of trapezium and then calculate the area.
+// Trapezium
+
+// Input  : a=3, b=4, c=6, d=5, h=6
+// Output : Area of Trapezium is: 21
+
+// Author: Suyash
+
+
 #include<iostream>
 using namespace std;
 
