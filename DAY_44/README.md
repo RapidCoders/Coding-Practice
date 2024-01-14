@@ -20,7 +20,7 @@ Output : Area of Trapezium is: 21
 ```
 **Author: Suyash**
 
-# Q.3 write Recursive program to Calculate Factorial of given number.
+# Q.3 write Recursive program to print fibonacci series.
 ```
 Input: n = 15
 Output: 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377
