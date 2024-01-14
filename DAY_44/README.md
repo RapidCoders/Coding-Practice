@@ -22,11 +22,7 @@ Output : Area of Trapezium is: 21
 
 # Q.3 write Recursive program to Calculate Factorial of given number.
 ```
-Input: n = 5
-Output: 120
-
-Input: n = 7
-Output: 5040
-
+Input: n = 15
+Output: 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377
 ```
 **Author: Shreyash**
