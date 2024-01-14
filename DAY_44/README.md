@@ -1,7 +1,7 @@
 # Q.1 Write a program to accepts the number as input from the user and check whether the number is positive or not.
 ```
-Input: 3
-Output: Fizz
+Input: 10
+Output: Postive
 
 Input: 5
 Output: Buzz
