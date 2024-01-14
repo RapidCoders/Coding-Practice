@@ -6,8 +6,8 @@ Output: Positive
 Input: -15
 Output: Negative
 
-Input: 15
-Output: FizzBuzz
+Input: 0
+Output: Neutral
 
 Input: 7
 Output: 7
