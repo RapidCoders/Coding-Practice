@@ -1,3 +1,15 @@
+// Q.1 Write a program to accepts the number as input from the user and check whether the number is positive or not.
+// Input: 10
+// Output: Positive
+
+// Input: -15
+// Output: Negative
+
+// Input: 0
+// Output: Neutral
+// Author: Vaibhav
+
+
 #include<iostream>
 using namespace std;
 
