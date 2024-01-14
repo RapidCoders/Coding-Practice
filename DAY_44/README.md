@@ -8,10 +8,6 @@ Output: Negative
 
 Input: 0
 Output: Neutral
-
-Input: 7
-Output: 7
-
 ```
 **Author: Vaibhav**
 
