@@ -1,4 +1,4 @@
-# Q.1 Write a program to accepts the number as input from the user and check whether the number is positive or not.
+# Q.1 Write a program to find the largest prime palindrome less than or equal to a given number n. The program should take the input n and output the largest prime palindrome found.
 ```
 Input: 10
 Output: Positive
