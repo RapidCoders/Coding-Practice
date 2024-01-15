@@ -6,8 +6,9 @@ Output: 11
 Input: 500
 Output: 101
 
-Input: 0
-Output: Neutral
+Input: 1000
+Output: 929
+
 ```
 **Author: Vaibhav**
 
