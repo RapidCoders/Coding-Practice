@@ -3,6 +3,8 @@ Q.2 Write a program to find area of trapezium. First find height of trapezium an
 
 Input  : a=3, b=4, c=6, d=5, h=6
 Output : Area of Trapezium is: 21
+
+Author: Suyash
 */
 
 #include <iostream>
