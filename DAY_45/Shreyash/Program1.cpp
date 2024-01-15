@@ -12,6 +12,15 @@
 #include<iostream>
 using namespace std;
 
+bool primeornot(int temp){
+    for(int i = 2;i<=temp/2;i++){
+        if(temp%i == 0){
+            return false;
+        }
+    }
+    return true;
+}
+
 int palindromNum(int num)
 {
     int largest_pal_num = 0;
@@ -22,16 +31,16 @@ int palindromNum(int num)
     else
     {
         for(int i = 10;i<=num;i++){
-            string str = "";
-            if(i%1==0 && i%i == 0 && i%2 != 0&&num%i !=0)
+            int temp = i;
+            int rev_num = 0;
+            if(primeornot(temp))
             {
-                int temp = i;
+                
                 while(temp > 0){
-                int mod = temp%10;
-                str = str + to_string(mod);
+                rev_num = (rev_num * 10) + (temp % 10);
                 temp = temp/10;
               }
-              if(stoi(str) == i){
+              if(rev_num == i){
                 largest_pal_num = i;
               }
             }
