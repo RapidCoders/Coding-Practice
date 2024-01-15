@@ -16,7 +16,6 @@ Output: 929
 Input  : Enter number of Hours : 2
 Output : Number of Minutes : 120
          Number of Seconds : 7200
-
 ```
 **Author: Suyash**
 
