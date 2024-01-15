@@ -1,7 +1,7 @@
 # Q.1 Write a program to find the largest prime palindrome less than or equal to a given number n. The program should take the input n and output the largest prime palindrome found.
 ```
-Input: 10
-Output: Positive
+Input: 50
+Output: 11
 
 Input: -15
 Output: Negative
