@@ -1,3 +1,12 @@
+
+
+// Q.2 Write a program to convert hours into minutes and seconds.
+// Input  : Enter number of Hours : 2
+// Output : Number of Minutes : 120
+//          Number of Seconds : 7200
+// Author: Suyash
+
+
 #include<iostream>
 using namespace std;
 
