@@ -3,8 +3,8 @@
 Input: 50
 Output: 11
 
-Input: -15
-Output: Negative
+Input: 500
+Output: 101
 
 Input: 0
 Output: Neutral
