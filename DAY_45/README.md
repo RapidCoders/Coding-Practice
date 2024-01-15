@@ -8,7 +8,6 @@ Output: 101
 
 Input: 1000
 Output: 929
-
 ```
 **Author: Vaibhav**
 
