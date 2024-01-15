@@ -19,7 +19,7 @@ int count_digits(int num)
 {
     if (num == 0)
         return 0;
-    return 1 + count_digits(num / 10);
+    return count_digits(num / 10) + 1;
 }
 
 int main(void)
