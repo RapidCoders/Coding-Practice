@@ -4,7 +4,7 @@ Input: 50
 Output: 11
 
 Input: 500
-Output: 101
+Output: 383
 
 Input: 1000
 Output: 929
