@@ -1,4 +1,4 @@
-# Q.1 Write a program to find the largest prime palindrome less than or equal to a given number n. The program should take the input n and output the largest prime palindrome found.
+# Q.1 Write a function that determines if a given positive integer is a power of four.
 ```
 Input: 50
 Output: 11
