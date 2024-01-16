@@ -26,12 +26,17 @@ Output : Area : 157
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to count the digits of a given number using recursion.
+# Q.3 Write an algorithm to determine if a number n is happy Return true if n is a happy number, and false if not.
 ```
-Input: n = 15
-Output: 2
+Input: n = 19
+Output: true
+Explanation:
+12 + 92 = 82
+82 + 22 = 68
+62 + 82 = 100
+12 + 02 + 02 = 1
 
-Input: n = 3773
-Output: 4
+Input: n = 2
+Output: false
 ```
 **Author: Shreyash**
