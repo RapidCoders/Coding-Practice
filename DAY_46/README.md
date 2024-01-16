@@ -4,8 +4,9 @@ Input: 16
 Output: true
 Explanation: 16 is 4^2.
 
-Input: 500
-Output: 383
+Input: 64
+Output: true
+Explanation: 64 is 4^3.
 
 Input: 1000
 Output: 929
