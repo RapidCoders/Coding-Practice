@@ -38,6 +38,9 @@ bool check_power_of_four(int num)
 {
     int i = 0, result = 0;
 
+    if (num % 4 != 0)
+        return false;
+
     while (result < num)
     {
         result = power(4, i++);
