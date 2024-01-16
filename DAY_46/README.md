@@ -11,6 +11,10 @@ Explanation: 64 is 4^3.
 Input: 5
 Output: false
 Explanation: 5 is not a power of four.
+
+Input: 1
+Output: true
+Explanation: 1 is 4^0.
 ```
 **Author: Vaibhav**
 
