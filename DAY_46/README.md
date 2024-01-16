@@ -8,8 +8,9 @@ Input: 64
 Output: true
 Explanation: 64 is 4^3.
 
-Input: 1000
-Output: 929
+Input: 5
+Output: false
+Explanation: 5 is not a power of four.
 ```
 **Author: Vaibhav**
 
