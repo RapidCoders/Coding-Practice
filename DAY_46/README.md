@@ -1,7 +1,8 @@
 # Q.1 Write a function that determines if a given positive integer is a power of four.
 ```
-Input: 50
-Output: 11
+Input: 16
+Output: true
+Explanation: 16 is 4^2.
 
 Input: 500
 Output: 383
