@@ -9,9 +9,8 @@ Expected Output: 2  # (Only one unique number)
 Input: [1, 2, 3, 2, 4, 5, 5, 6]
 Expected Output: 21  # (1 + 2 + 3 + 4 + 5 + 6)
 
-Input: 1
-Output: true
-Explanation: 1 is 4^0.
+Input: [-1, -2, 3, -2, 4, 5, -5, 6]
+Expected Output: 5  # (-1 + -2 + 3 + 4 + 5 + 6)
 ```
 **Author: Vaibhav**
 
