@@ -6,9 +6,8 @@ Expected Output: 15  # (1 + 2 + 3 + 4 + 5)
 Input: [2, 2, 2, 2, 2]
 Expected Output: 2  # (Only one unique number)
 
-Input: 5
-Output: false
-Explanation: 5 is not a power of four.
+Input: [1, 2, 3, 2, 4, 5, 5, 6]
+Expected Output: 21  # (1 + 2 + 3 + 4 + 5 + 6)
 
 Input: 1
 Output: true
