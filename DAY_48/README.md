@@ -24,11 +24,20 @@ Output : 2500
 ```
 **Author: Suyash**
 
-# Q.3 Write  a program which accept n numbers in array and gives difference between maximum and minimum.
+# Q.3 Write a Program to print given star pattern.
 ```
-Input: n =5
-       32 332 -23 -154 65
-Output: 486
+Input: n = 10
+Output:
+*                 * 
+* *             * * 
+* * *         * * * 
+* * * *     * * * * 
+* * * * * * * * * * 
+* * * * * * * * * * 
+* * * *     * * * * 
+* * *         * * * 
+* *             * * 
+*                 *
 ```
 **Author: Shreyash**
 
