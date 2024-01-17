@@ -1,8 +1,7 @@
 # Q.1 Write a function that takes a list of integers as input and returns the sum of all unique numbers in the list. If a number appears more than once, it should only be counted once in the sum.
 ```
-Input: 16
-Output: true
-Explanation: 16 is 4^2.
+Input: [1, 2, 3, 4, 5]
+Expected Output: 15  # (1 + 2 + 3 + 4 + 5)
 
 Input: 64
 Output: true
