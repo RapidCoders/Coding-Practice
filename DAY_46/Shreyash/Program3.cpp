@@ -1,3 +1,17 @@
+
+// Q.3 Write an algorithm to determine if a number n is happy Return true if n is a happy number, and false if not.
+// Input: n = 19
+// Output: true
+// Explanation:
+// 1^2 + 9^2 = 82
+// 8^2 + 2^2 = 68
+// 6^2 + 8^2 = 100
+// 1^2 + 0^2 + 0^2 = 1
+
+// Input: n = 2
+// Output: false
+// Author: Shreyash
+
 #include<iostream>
 #include<cmath>
 using namespace std;
