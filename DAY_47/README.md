@@ -16,7 +16,7 @@ Expected Output: 5  # (-1 + -2 + 3 + 4 + 5 + 6)
 
 # Q.2 Write a program to calculate simple interest.
 ```
-Input  : P = 1000
+Input  : P = 10000
          R = 5
          T = 5
 Output : 2500
