@@ -26,17 +26,11 @@ Output : Area : 157
 ```
 **Author: Suyash**
 
-# Q.3 Write an algorithm to determine if a number n is happy Return true if n is a happy number, and false if not.
+# Q.3 Write  a program which accept n numbers in array and gives difference between maximum and minimum.
 ```
-Input: n = 19
-Output: true
-Explanation:
-1^2 + 9^2 = 82
-8^2 + 2^2 = 68
-6^2 + 8^2 = 100
-1^2 + 0^2 + 0^2 = 1
+Input: n =5
+       32 332 -23 -154 65
+Output: 486
 
-Input: n = 2
-Output: false
 ```
 **Author: Shreyash**
