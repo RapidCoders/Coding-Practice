@@ -27,6 +27,5 @@ Output : Area : 157
 Input: n =5
        32 332 -23 -154 65
 Output: 486
-
 ```
 **Author: Shreyash**
