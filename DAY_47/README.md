@@ -20,7 +20,6 @@ Input  : P = 1000
          R = 5
          T = 5
 Output : 2500
-
 ```
 **Author: Suyash**
 
