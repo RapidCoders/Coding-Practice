@@ -14,11 +14,13 @@ Expected Output: 5  # (-1 + -2 + 3 + 4 + 5 + 6)
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to find the area and perimeter of the semicircle.
+# Q.2 Write a program to calculate simple interest.
 ```
-Input  : 10
-Output : Area : 157
-         Perimeter : 51.4
+Input  : P = 1000
+         R = 5
+         T = 5
+Output : 2500
+
 ```
 **Author: Suyash**
 
