@@ -1,4 +1,4 @@
-# Q.1 Write a function that determines if a given positive integer is a power of four.
+# Q.1 Write a function that takes a list of integers as input and returns the sum of all unique numbers in the list. If a number appears more than once, it should only be counted once in the sum.
 ```
 Input: 16
 Output: true
