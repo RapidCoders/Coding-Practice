@@ -3,8 +3,8 @@
 Input: [1, 2, 3, 4, 5]
 Expected Output: True
 
-Input: [2, 2, 2, 2, 2]
-Expected Output: 2  # (Only one unique number)
+Input: [10, 12, 14, 16, 18]
+Expected Output: True
 
 Input: [1, 2, 3, 2, 4, 5, 5, 6]
 Expected Output: 21  # (1 + 2 + 3 + 4 + 5 + 6)
