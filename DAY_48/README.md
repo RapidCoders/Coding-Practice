@@ -14,6 +14,9 @@ Expected Output: True
 
 Input: [-3, -2, -1, 0, 1]
 Expected Output: True
+
+Input: [4, 5, 6, 8, 9]
+Expected Output: False
 ```
 **Author: Vaibhav**
 
