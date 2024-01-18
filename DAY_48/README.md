@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a list of integers as input and returns the sum of all unique numbers in the list. If a number appears more than once, it should only be counted once in the sum.
+# Q.1 Write a program that takes a list of integers as input and returns True if the numbers form a consecutive sequence (in ascending order) and False otherwise.
 ```
 Input: [1, 2, 3, 4, 5]
 Expected Output: 15  # (1 + 2 + 3 + 4 + 5)
