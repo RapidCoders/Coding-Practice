@@ -20,12 +20,13 @@ Expected Output: False
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to calculate simple interest.
+# Q.2 Write a program to find 3rd largest element in an array.
 ```
-Input  : P = 1000
-         R = 5
-         T = 5
-Output : 2500
+Input  : [1,2,5,6,3,2]
+Output : 3rd largest element is : 3
+
+Input  : [44,66,99,77,33,22,55]
+Output : 3rd largest element is : 66
 
 ```
 **Author: Suyash**
