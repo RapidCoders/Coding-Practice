@@ -32,7 +32,7 @@ Output : 3rd largest element is : 66
 
 # Q.3 Write a Program to print given star pattern.
 ```
-Input: n = 5
+Input: n = 10
 Output:
 *                 * 
 * *             * * 
