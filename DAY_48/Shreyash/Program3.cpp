@@ -1,3 +1,19 @@
+
+// Q.3 Write a Program to print given star pattern.
+// Input: n = 5
+// Output:
+// *                 * 
+// * *             * * 
+// * * *         * * * 
+// * * * *     * * * * 
+// * * * * * * * * * * 
+// * * * * * * * * * * 
+// * * * *     * * * * 
+// * * *         * * * 
+// * *             * * 
+// *                 *
+// Author: Shreyash
+
 #include<iostream>
 #include<vector>
 using namespace std;
