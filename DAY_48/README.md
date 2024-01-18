@@ -9,8 +9,8 @@ Expected Output: True
 Input: []
 Expected Output: False
 
-Input: [-1, -2, 3, -2, 4, 5, -5, 6]
-Expected Output: 5  # (-1 + -2 + 3 + 4 + 5 + 6)
+Input: [7]
+Expected Output: True
 ```
 **Author: Vaibhav**
 
