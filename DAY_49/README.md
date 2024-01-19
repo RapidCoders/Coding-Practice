@@ -9,8 +9,8 @@ Expected Output: 8
 Input: ""
 Expected Output: 0
 
-Input: [7]
-Expected Output: True
+Input: "Coding is fun! Coding is creative, and coding is rewarding."
+Expected Output: 6
 
 Input: [-3, -2, -1, 0, 1]
 Expected Output: True
