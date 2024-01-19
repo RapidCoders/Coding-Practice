@@ -6,8 +6,8 @@ Expected Output: 7
 Input: "The quick brown Fox jumps over the Lazy Dog."
 Expected Output: 8
 
-Input: []
-Expected Output: False
+Input: ""
+Expected Output: 0
 
 Input: [7]
 Expected Output: True
