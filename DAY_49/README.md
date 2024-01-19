@@ -3,8 +3,8 @@
 Input: "The cat in the hat, the hat on the mat."
 Expected Output: 7
 
-Input: [10, 12, 14, 16, 18]
-Expected Output: True
+Input: "The quick brown Fox jumps over the Lazy Dog."
+Expected Output: 8
 
 Input: []
 Expected Output: False
