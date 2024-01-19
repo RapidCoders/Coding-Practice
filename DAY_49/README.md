@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a sentence as input and returns the count of unique words in the sentence. Ignore case and punctuation when counting words.
 ```
-Input: [1, 2, 3, 4, 5]
-Expected Output: True
+Input: "The cat in the hat, the hat on the mat."
+Expected Output: 7
 
 Input: [10, 12, 14, 16, 18]
 Expected Output: True
