@@ -12,8 +12,8 @@ Expected Output: 0
 Input: "Coding is fun! Coding is creative, and coding is rewarding."
 Expected Output: 6
 
-Input: [-3, -2, -1, 0, 1]
-Expected Output: True
+Input: "The cat in the hat is the cat on the mat."
+Expected Output: 7
 
 Input: [4, 5, 6, 8, 9]
 Expected Output: False
