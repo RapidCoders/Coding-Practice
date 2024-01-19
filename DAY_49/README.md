@@ -1,4 +1,5 @@
 # Q.1 Write a function that takes a sentence as input and returns the count of unique words in the sentence. Ignore case and punctuation when counting words.
+Explanation: If words occurs more than once in sentence count that word once as unique.
 ```
 Input: "The cat in the hat, the hat on the mat."
 Expected Output: 7
