@@ -18,4 +18,45 @@
 // Expected Output: 15
 // Author: Vaibhav
 
+#include<iostream>
+#include<set>
+#include<sstream>
+#include<algorithm>
+using namespace std;
+
+int uniquecount(string str){
+    string new_str;
+    set<string>uni;
+    for(char i: str){
+        if(i == ','||i == '.'||i == '!'||i == '?'){
+            char sp = ' ';
+            new_str.push_back(sp);
+        }else{
+            new_str.push_back(i);
+        }
+    }
+    string s;
+    stringstream ss(new_str);
+    while (getline(ss, s, ' ')) {
+ 
+        uni.insert(s);
+    }
+    if(uni.size() == 1){
+        return 0;
+    }
+    
+    return uni.size();
+
+}
+
+int main(){
+    string str;
+    getline(cin,str);
+    transform(str.begin(), str.end(), str.begin(), ::tolower);
+    cout<<uniquecount(str);
+
+    return 0;
+}
+
+
 
