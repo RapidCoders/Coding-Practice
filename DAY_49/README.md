@@ -1,4 +1,4 @@
-# Q.1 Write a program that takes a list of integers as input and returns True if the numbers form a consecutive sequence (in ascending order) and False otherwise.
+# Q.1 Write a function that takes a sentence as input and returns the count of unique words in the sentence. Ignore case and punctuation when counting words.
 ```
 Input: [1, 2, 3, 4, 5]
 Expected Output: True
