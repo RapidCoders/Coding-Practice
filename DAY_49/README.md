@@ -15,8 +15,8 @@ Expected Output: 6
 Input: "The cat in the hat is the cat on the mat."
 Expected Output: 7
 
-Input: [4, 5, 6, 8, 9]
-Expected Output: False
+Input: "There are 10 types of people in the world: those who understand binary and those who don't."
+Expected Output: 15
 ```
 **Author: Vaibhav**
 
