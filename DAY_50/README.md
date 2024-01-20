@@ -20,7 +20,6 @@ Output : Total number of characters in a string: 19
 
 Input  : "Twinkle twinkle little star, how I wonder what you are!"
 Output : Total number of characters in a string: 44
-
 ```
 **Author: Suyash**
 
