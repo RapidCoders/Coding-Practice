@@ -23,14 +23,11 @@ Output : Total number of characters in a string: 44
 ```
 **Author: Suyash**
 
-# Q.3 Write a Program to check whether given input number is Emirp Number or not.
-**Explanation:A number is called an emirp number if we get another prime number on reversing the number itself. In other words, an emirp number is a number that is prime forwards or backward. It is also known as twisted prime numbers.**
+# Q.3 Write a Program to convert string into upper_lower case character by character.
 ```
-Input: n = 46
-Output:False
+Input: Str = "Twinkle twinkle little star, how I wonder what you are!"
+Output:"TwInKlE TwInKlE LiTtLe StAr, hOw i wOnDeR WhAt yOu aRe!"
 
-Input: n = 1201
-Output:True
 ```
 **Author: Shreyash**
 
