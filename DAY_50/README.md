@@ -13,7 +13,7 @@ Output:
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to count tota number of characters in a string Do no include any sapces or punctuations.
+# Q.2 Write a program to count total number of characters in a string. Do not consider any sapces or punctuations.
 ```
 Input  : "The best of both worlds"  
 Output : Total number of characters in a string: 19
