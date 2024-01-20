@@ -1,6 +1,7 @@
 # Q.1 Write a program that takes an integer n as input and prints a pattern based on the following rules:
 **a) The pattern contains n rows.**
 **b) In each row, print the numbers from 1 to the row number.**
+**c) Repeat the numbers in reverse order after reaching the row number.**
 ```
 Input: "The cat in the hat the hat on the mat."
 Expected Output: 6
