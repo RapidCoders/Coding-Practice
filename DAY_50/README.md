@@ -13,13 +13,14 @@ Output:
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to convert USD to INR
+# Q.2 Write a program to count tota number of characters in a string Do no include any sapces or punctuations.
 ```
-Input  : 10
-Output : 831.06
+Input  : "The best of both worlds"  
+Output : Total number of characters in a string: 19
 
-Input  : 750
-Output : 62329.31
+Input  : "Twinkle twinkle little star, how I wonder what you are!"
+Output : Total number of characters in a string: 44
+
 ```
 **Author: Suyash**
 
