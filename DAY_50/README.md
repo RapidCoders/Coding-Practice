@@ -1,4 +1,5 @@
-# Write a program that takes an integer n as input and prints a pattern based on the following rules:
+# Q.1 Write a program that takes an integer n as input and prints a pattern based on the following rules:
+**a) The pattern contains n rows.**
 ```
 Input: "The cat in the hat the hat on the mat."
 Expected Output: 6
