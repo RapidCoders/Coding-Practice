@@ -3,23 +3,13 @@
 **b) In each row, print the numbers from 1 to the row number.<br>**
 **c) Repeat the numbers in reverse order after reaching the row number.**
 ```
-Input: "The cat in the hat the hat on the mat."
-Expected Output: 6
+Input: 4
 
-Input: "The quick brown Fox jumps over the Lazy Dog."
-Expected Output: 8
-
-Input: ""
-Expected Output: 0
-
-Input: "Coding is fun! Coding is creative, and coding is rewarding."
-Expected Output: 6
-
-Input: "The cat in the hat is the cat on the mat."
-Expected Output: 7
-
-Input: "There are 10 types of people in the world: those who understand binary and those who don't."
-Expected Output: 15
+Output:
+1
+1 2 1
+1 2 3 2 1
+1 2 3 4 3 2 1
 ```
 **Author: Vaibhav**
 
