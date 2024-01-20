@@ -23,9 +23,13 @@ Output : Total number of characters in a string: 44
 ```
 **Author: Suyash**
 
-# Q.3 Write a Program to convert string into upper_lower case character by character.
+# Q.3 Write a program that takes an integer n as input and prints a pattern.
 ```
-Input: Str = "Twinkle twinkle little star, how I wonder what you are!"
-Output:"TwInKlE TwInKlE LiTtLe StAr, hOw i wOnDeR WhAt yOu aRe!"
+Input: n = 4
+Output:
+1
+4*5*6
+2*3
+7*8*9*10
 ```
 **Author: Shreyash**
