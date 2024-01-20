@@ -27,7 +27,5 @@ Output : Total number of characters in a string: 44
 ```
 Input: Str = "Twinkle twinkle little star, how I wonder what you are!"
 Output:"TwInKlE TwInKlE LiTtLe StAr, hOw i wOnDeR WhAt yOu aRe!"
-
 ```
 **Author: Shreyash**
-
