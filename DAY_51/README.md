@@ -24,7 +24,6 @@ Output :  F, U, N, FU, UN, FUN
 
 Input  :"ABC"
 Output : A, AB ,ABC, B, BC, C
-
 ```
 **Author: Suyash**
 
