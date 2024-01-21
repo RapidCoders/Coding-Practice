@@ -1,7 +1,4 @@
-# Q.1 Write a program that takes an integer n as input and prints a pattern based on the following rules:
-**a) The pattern contains n rows.<br>**
-**b) In each row, print the numbers from 1 to the row number.<br>**
-**c) Repeat the numbers in reverse order after reaching the row number.**
+# Q.1 Write a function that takes three strings as input and checks whether the third string is formed by interleaving the characters of the first two strings while maintaining the order of characters.
 ```
 Input: 4
 
