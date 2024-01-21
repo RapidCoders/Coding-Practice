@@ -1,3 +1,13 @@
+
+// Q.3 Write a program that takes an integer n as input and prints a pattern.
+// Input: n = 4
+// Output:
+// 1
+// 4*5*6
+// 2*3
+// 7*8*9*10
+// Author: Shreyash
+
 #include<iostream>
 using namespace std;
 
