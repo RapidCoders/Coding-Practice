@@ -9,6 +9,9 @@ Expected Output: False
 str1 = "abc", str2 = "def", interleaved = "adbecf"
 Expected Output: True
 
+str1 = "abc", str2 = "def", interleaved = "acdbef"
+Expected Output: False
+
 ```
 **Author: Vaibhav**
 
