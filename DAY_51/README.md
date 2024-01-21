@@ -1,18 +1,18 @@
 # Q.1 Write a function that takes three strings as input and checks whether the third string is formed by interleaving the characters of the first two strings while maintaining the order of characters.
 ```
-str1 = "abc", str2 = "def", interleaved = "adbcef"
+Input: str1 = "abc", str2 = "def", interleaved = "adbcef"
 Expected Output: True
 
-str1 = "abc", str2 = "def", interleaved = "abcde"
+Input: str1 = "abc", str2 = "def", interleaved = "abcde"
 Expected Output: False
 
-str1 = "abc", str2 = "def", interleaved = "adbecf"
+Input: str1 = "abc", str2 = "def", interleaved = "adbecf"
 Expected Output: True
 
-str1 = "abc", str2 = "def", interleaved = "acdbef"
+Input: str1 = "abc", str2 = "def", interleaved = "acdbef"
 Expected Output: False
 
-str1 = "", str2 = "", interleaved = ""
+Input: str1 = "", str2 = "", interleaved = ""
 Expected Output: True
 ```
 **Author: Vaibhav**
