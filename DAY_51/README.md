@@ -17,13 +17,14 @@ Expected Output: True
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to count total number of characters in a string. Do not consider any sapces or punctuations.
+# Q.2 Write a program to find all possible subsets of a string.
 ```
-Input  : "The best of both worlds"  
-Output : Total number of characters in a string: 19
+Input  : "FUN"  
+Output :  F, U, N, FU, UN, FUN
 
-Input  : "Twinkle twinkle little star, how I wonder what you are!"
-Output : Total number of characters in a string: 44
+Input  :"ABC"
+Output : A, AB ,ABC, B, BC, C
+
 ```
 **Author: Suyash**
 
