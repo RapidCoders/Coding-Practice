@@ -1,12 +1,8 @@
 # Q.1 Write a function that takes three strings as input and checks whether the third string is formed by interleaving the characters of the first two strings while maintaining the order of characters.
 ```
-Input: 4
+str1 = "abc", str2 = "def", interleaved = "adbcef"
+Expected Output: True
 
-Output:
-1
-1 2 1
-1 2 3 2 1
-1 2 3 4 3 2 1
 ```
 **Author: Vaibhav**
 
