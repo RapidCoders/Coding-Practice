@@ -1,19 +1,7 @@
 # Q.1 Write a function that takes a character as input and prints a below pattern.
 ```
-Input: str1 = "abc", str2 = "def", interleaved = "adbcef"
-Expected Output: True
+Input: A, 5
 
-Input: str1 = "abc", str2 = "def", interleaved = "abcde"
-Expected Output: False
-
-Input: str1 = "abc", str2 = "def", interleaved = "adbecf"
-Expected Output: True
-
-Input: str1 = "abc", str2 = "def", interleaved = "acdbef"
-Expected Output: False
-
-Input: str1 = "", str2 = "", interleaved = ""
-Expected Output: True
 ```
 **Author: Vaibhav**
 
