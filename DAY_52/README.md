@@ -10,13 +10,15 @@ A A A A A
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to find all possible subsets of a string.
+# Q.2 Write a program to print following pattern.
 ```
-Input  : "FUN"  
-Output :  F, U, N, FU, UN, FUN
-
-Input  :"ABC"
-Output : A, AB ,ABC, B, BC, C
+Input : 5
+Output :
+1 1 1 1 1
+1       1
+1       1
+1       1
+1 1 1 1 1
 ```
 **Author: Suyash**
 
