@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes three strings as input and checks whether the third string is formed by interleaving the characters of the first two strings while maintaining the order of characters.
+# Q.1 Write a function that takes a character as input and prints a below pattern.
 ```
 Input: str1 = "abc", str2 = "def", interleaved = "adbcef"
 Expected Output: True
