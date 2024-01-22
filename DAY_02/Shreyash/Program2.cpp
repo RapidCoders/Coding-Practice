@@ -1,3 +1,12 @@
+
+// Q2. Write a program to print given pattern
+// *
+// *  *
+// *  *  *
+// *  *  *  *
+// *  *  *  *  *
+// Author: Suyash
+
 #include<iostream>
 using namespace std;
 
