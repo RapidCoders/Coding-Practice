@@ -1,46 +1,58 @@
 /*
-Q.2 Write a program to find all possible subsets of a string.
+Q.3 Write a program that takes an integer n as input and prints a pattern.
 
-Input  : "FUN"
-Output :  F, FU, FUN, U, UN, N
+Input: n = 4
+Output:
+1
+4*5*6
+2*3
+7*8*9*10
 
-Input  :"ABC"
-Output : A, AB ,ABC, B, BC, C
-
-Author: Suyash
+Author: Shreyash
 */
 
 #include <iostream>
-#include <string>
 using std::cin;
 using std::cout;
 using std::endl;
-using std::string;
 
-void print_subsets(string str)
+void print_pattern(int num)
 {
-    int i, j;
+    int i, j, k, count1 = 1, count2 = 3;
 
-    for (i = 0; i < str.length(); i++)
+    for (i = 1; i <= num/2; i++)
     {
-        j = i;
-        while (j < str.length())
+        for (j = 1; j <= i; j++)
         {
-            cout << str.substr(i, j - i + 1) << " ";
-            j++;
+            if (j == i)
+                cout << count1;
+            else  
+                cout << count1 <<"*";
+            count1++;
         }
+
+        cout << endl;
+
+        for (k = 1; k <= i+2; k++)
+        {
+            if (k == i+2)
+                cout << count2;
+            else    
+                cout << count2 << "*";
+            count2++;
+        }
+        cout << endl;
     }
-    cout << endl;
 }
 
 int main(void)
 {
-    string str;
+    int num;
 
-    cout << "\nEnter the string: ";
-    getline(cin, str);
+    cout << "\nEnter the number: ";
+    cin >> num;
 
-    print_subsets(str);
+    print_pattern(num);
 
     return 0;
 }
