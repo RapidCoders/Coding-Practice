@@ -1,7 +1,12 @@
 # Q.1 Write a function that takes a character as input and prints a below pattern.
 ```
 Input: A, 5
-
+Output:
+    A
+   A A
+  A A A
+ A A A A
+A A A A A
 ```
 **Author: Vaibhav**
 
