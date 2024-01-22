@@ -27,13 +27,13 @@ Output : A, AB ,ABC, B, BC, C
 ```
 **Author: Suyash**
 
-# Q.3 Write a program that takes an integer n as input and prints a pattern.
+# Q.3 Write a program that takes an integer n as input and prints a Number Star Square Pattern.
 ```
 Input: n = 4
 Output:
-1
-4*5*6
-2*3
-7*8*9*10
+1*2*3*4
+9*10*11*12
+5*6*7*8
+13*14*15*16
 ```
 **Author: Shreyash**
