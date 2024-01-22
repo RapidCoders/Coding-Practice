@@ -1,9 +1,11 @@
-// Q.2 Write a program to find all possible subsets of a string.
-// Input  : "FUN"  
-// Output :  F, U, N, FU, UN, FUN
-
-// Input  :"ABC"
-// Output : A, AB ,ABC, B, BC, C
+// Q.2 Write a program to print following pattern.
+// Input : 5
+// Output :
+// 1 1 1 1 1
+// 1       1
+// 1       1
+// 1       1
+// 1 1 1 1 1
 // Author: Suyash
 
 #include<iostream>
