@@ -41,7 +41,7 @@ bool check_xylem(int num)
     int extream_sum = num % 10, mean_sum = 0;
     num /= 10;
 
-    while (num)
+    while (1)
     {
         mean_sum += (num % 10);
         num /= 10;
