@@ -22,7 +22,8 @@ Output :
 **Author: Suyash**
 
 # Q.3 Write a program to Find GCD of Two Numbers.
-**Explaination: 
+```
+Explaination: 
 Factors of 12: 1, 2, 3, 4, 6, 12
 
 Factors of 8: 1, 2, 4, 8
@@ -31,8 +32,8 @@ Common Factors: 1, 2, 4
 
 Greatest Common Factor: 4
 
-Hence, the GCF of 12 and 8 is 4.**
-```
+Hence, the GCF of 12 and 8 is 4.
+
 Input: 
 Output:
 
