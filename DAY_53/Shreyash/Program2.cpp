@@ -1,3 +1,14 @@
+
+// Q.2 Write a program to print following pattern.
+// Input : 5
+// Output :
+// 1 1 1 1 1
+// 1       1
+// 1   1   1
+// 1       1
+// 1 1 1 1 1
+// Author: Suyash
+
 #include<iostream>
 using namespace std;
 
