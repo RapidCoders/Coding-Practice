@@ -22,7 +22,7 @@ Output :
 **Author: Suyash**
 
 # Q.3 Write a program to check whether given number is Xylem or Phloem Number.
-**Explaination: <br>a) Extream number means first and last digits.<br>b) Mean means other than extream digits.**
+**Explaination: <br>a) Extream digits means first and last digits.<br>b) Mean digits means other than extream digits.**
 ```
 Input: Enter a number: 825122
 Output:
