@@ -34,11 +34,13 @@ Greatest Common Factor: 4
 
 Hence, the GCF of 12 and 8 is 4.
 
-Input: 
-Output:
+Input: num1 = 55
+       num2 = 70
+Output: the GCF of 55 and 70 is 5.
 
-Input: 
-Output:
+Input: num1 = 34
+       num2 = 76
+Output: the GCF of 34 and 76 is 2.
 ```
 **Author: Shreyash**
 
