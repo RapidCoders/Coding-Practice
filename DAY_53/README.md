@@ -34,6 +34,6 @@ Input: Enter a number: 761312
 Output:
 The sum of extreme digits: 9
 The sum of mean digits: 11
-825122 is a phloem number.
+761312 is a phloem number.
 ```
 **Author: Shreyash**
