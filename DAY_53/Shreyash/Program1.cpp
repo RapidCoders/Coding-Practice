@@ -1,3 +1,13 @@
+// Q.1 Write a function that takes a character as input and prints a below pattern.
+// Input: 4
+// Output:
+//       4
+//     4 3
+//   4 3 2
+// 4 3 2 1
+// Author: Vaibhav
+
+
 #include<iostream>
 using namespace std;
 
