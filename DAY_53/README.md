@@ -21,13 +21,18 @@ Output :
 ```
 **Author: Suyash**
 
-# Q.3 Write a program that takes an integer n as input and prints a Number Star Square Pattern.
+# Q.3 Write a program to check whether given number is Xylem or Phloem Number.
 ```
-Input: n = 4
+Input: Enter a number: 825122
 Output:
-1*2*3*4
-9*10*11*12
-5*6*7*8
-13*14*15*16
+The sum of extreme digits: 10
+The sum of mean digits: 10
+825122 is a xylem number.
+
+Input: Enter a number: 761312
+Output:
+The sum of extreme digits: 9
+The sum of mean digits: 11
+825122 is a phloem number.
 ```
 **Author: Shreyash**
