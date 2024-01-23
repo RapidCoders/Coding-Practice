@@ -1,12 +1,11 @@
 # Q.1 Write a function that takes a character as input and prints a below pattern.
 ```
-Input: 5
+Input: 4
 Output:
-    A
-   A A
-  A A A
- A A A A
-A A A A A
+      4
+    4 3
+  4 3 2
+4 3 2 1
 ```
 **Author: Vaibhav**
 
