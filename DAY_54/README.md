@@ -2,6 +2,9 @@
 ```
 Input: "Hello", shift = 3
 Expected Output: "Khoor"
+
+Input: "World", shift = -2
+Expected Output: "Umpjb"
 ```
 **Author: Vaibhav**
 
