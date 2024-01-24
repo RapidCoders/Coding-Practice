@@ -12,6 +12,8 @@ Input: "Shift", shift = 26
 Expected Output: "Shift"
 Input: "AbCdEf", shift = 1
 Expected Output: "BcDeFg"
+Input: "", shift = 5
+Expected Output: ""
 ```
 **Author: Vaibhav**
 
