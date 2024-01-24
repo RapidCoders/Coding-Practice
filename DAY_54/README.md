@@ -1,11 +1,7 @@
-# Q.1 Write a function that takes a character as input and prints a below pattern.
+# Q.1 Write a function that takes a string as input and returns a new string where each character is shifted by a fixed number of positions in the English alphabet. For example, if the shift is 3, 'A' becomes 'D', 'B' becomes 'E', and so on.
 ```
-Input: 4
-Output:
-      4
-    4 3
-  4 3 2
-4 3 2 1
+Input: "Hello", shift = 3
+Expected Output: "Khoor"
 ```
 **Author: Vaibhav**
 
