@@ -5,6 +5,9 @@ Expected Output: "Khoor"
 
 Input: "World", shift = -2
 Expected Output: "Umpjb"
+
+Input: "Coding", shift = 0
+Expected Output: "Coding"
 ```
 **Author: Vaibhav**
 
