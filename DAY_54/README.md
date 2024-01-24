@@ -8,6 +8,8 @@ Expected Output: "Umpjb"
 
 Input: "Coding", shift = 0
 Expected Output: "Coding"
+Input: "Shift", shift = 26
+Expected Output: "Shift"
 ```
 **Author: Vaibhav**
 
