@@ -20,15 +20,15 @@ Expected Output: ""
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to print following pattern.
+# Q.2 Program to print the elements of an array present on even position
 ```
-Input : 5
-Output :
-1 1 1 1 1
-1       1
-1   1   1
-1       1
-1 1 1 1 1
+Input:
+arr = [1, 2, 3, 4, 5]  
+
+Output:
+Elements of given array present on even position:
+2
+4
 ```
 **Author: Suyash**
 
