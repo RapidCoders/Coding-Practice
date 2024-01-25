@@ -6,8 +6,8 @@ Expected Output: 0  # Binary representation: 1111, no gap.
 Input: 20
 Expected Output: 1  # Binary representation: 10100, one gap between the 1s.
 
-Input: "Coding", shift = 0
-Expected Output: "Coding"
+Input: 1048577
+Expected Output: 19  # Binary representation: 100000000000000000001, longest gap between the 1s.
 
 Input: "Shift", shift = 26
 Expected Output: "Shift"
