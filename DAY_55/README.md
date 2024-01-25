@@ -26,7 +26,7 @@ For example, the number 21 with its proper divisors (1, 3 and 7) has sum (11) le
 Input  : Enter the number : 21
 Output : The number is deficient.
 
-Input  : Enter the number : 22
+Input  : Enter the number : 12
 Output : The number is not deficient.
 
 Input  : Enter the number : 23
