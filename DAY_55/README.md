@@ -9,8 +9,8 @@ Expected Output: 1  # Binary representation: 10100, one gap between the 1s.
 Input: 1048577
 Expected Output: 19  # Binary representation: 100000000000000000001, longest gap between the 1s.
 
-Input: "Shift", shift = 26
-Expected Output: "Shift"
+Input: 77
+Expected Output: 2  # Binary representation: 1001101, two gaps between the 1s.
 
 Input: "AbCdEf", shift = 1
 Expected Output: "BcDeFg"
