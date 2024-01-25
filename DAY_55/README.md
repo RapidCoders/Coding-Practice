@@ -30,7 +30,6 @@ Output : The number is not deficient.
 
 Input  : Enter the number : 23
 Output :The number is deficient.
-
 ```
 **Author: Suyash**
 
