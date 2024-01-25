@@ -17,15 +17,21 @@ Expected Output: 0  # Binary representation: 0, no gap.
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to print the elements of an array present on even position
+# Q.2 Program to determine whether a given number is a Deficient number
 ```
-Input:
-arr = [1, 2, 3, 4, 5]  
+Explanation :
+The deficient number can be defined as the number for which the sum of the proper divisors is lesser than the number itself.
+For example, the number 21 with its proper divisors (1, 3 and 7) has sum (11) lesser than itself.
 
-Output:
-Elements of given array present on even position:
-2
-4
+Input  : Enter the number : 21
+Output : The number is deficient.
+
+Input  : Enter the number : 22
+Output : The number is not deficient.
+
+Input  : Enter the number : 23
+Output :The number is deficient.
+
 ```
 **Author: Suyash**
 
