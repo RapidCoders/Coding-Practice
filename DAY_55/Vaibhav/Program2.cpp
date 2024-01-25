@@ -1,6 +1,5 @@
 /*
 Q.2 Program to determine whether a given number is a Deficient number.
-
 Explanation: The deficient number can be defined as the number for which the sum of the proper divisors is lesser than the number itself. For example, the number 21 with its proper divisors (1, 3 and 7) has sum (11) lesser than itself.
 
 Input: Enter the number : 21
