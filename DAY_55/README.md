@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns a new string where each character is shifted by a fixed number of positions in the English alphabet. For example, if the shift is 3, 'A' becomes 'D', 'B' becomes 'E', and so on.
+# Q.1 Write a function that takes a positive integer as input and returns the length of the longest binary gap. A binary gap is the longest sequence of consecutive zeros in the binary representation of the number.
 ```
 Input: "Hello", shift = 3
 Expected Output: "Khoor"
