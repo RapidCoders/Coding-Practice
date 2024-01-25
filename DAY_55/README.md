@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a positive integer as input and returns the length of the longest binary gap. A binary gap is the longest sequence of consecutive zeros in the binary representation of the number.
 ```
-Input: "Hello", shift = 3
-Expected Output: "Khoor"
+Input: 15
+Expected Output: 0  # Binary representation: 1111, no gap.
 
 Input: "World", shift = -2
 Expected Output: "Umpjb"
