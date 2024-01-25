@@ -33,9 +33,8 @@ Elements of given array present on even position:
 **Author: Suyash**
 
 # Q.3 Write a program to check whether given number is Neon number or not.
+**Explaination: A positive integer whose sum of digits of its square is equal to the number itself is called a neon number.**
 ```
-Explaination: A positive integer whose sum of digits of its square is equal to the number itself is called a neon number.
-
 Input: num = 9
 Output: True.
 
