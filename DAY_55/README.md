@@ -3,8 +3,8 @@
 Input: 15
 Expected Output: 0  # Binary representation: 1111, no gap.
 
-Input: "World", shift = -2
-Expected Output: "Umpjb"
+Input: 20
+Expected Output: 1  # Binary representation: 10100, one gap between the 1s.
 
 Input: "Coding", shift = 0
 Expected Output: "Coding"
