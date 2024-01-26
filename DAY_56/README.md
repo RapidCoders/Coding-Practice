@@ -23,23 +23,18 @@ Expected Output: False
 ```
 **Author: Vaibhav**
 
-# Q.2 Program to determine whether a given number is a Deficient number
-**Explanation :
-The deficient number can be defined as the number for which the sum of the proper divisors is lesser than the number itself.
-For example, the number 21 with its proper divisors (1, 3 and 7) has sum (11) lesser than itself.**
+# Q.3 Write a program to print  given Pattern.
 ```
-Input  : Enter the number : 21
-Output : The number is deficient.
-
-Input  : Enter the number : 12
-Output : The number is not deficient.
-
-Input  : Enter the number : 23
-Output :The number is deficient.
+Input: num = 4
+Output:
+7*8*9*10
+4*5*6
+2*3
+1  
 ```
 **Author: Suyash**
 
-# Q.3 Write a program for given Pattern.
+# Q.3 Write a program to given given Pattern.
 ```
 Input: num = 4
 Output:
