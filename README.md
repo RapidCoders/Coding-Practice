@@ -1,4 +1,4 @@
-# [Day 1](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_01) <p>02/12/23<p>
+# [Day 1](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_01) <p>02/12/2023<p>
 # [Day 2](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_02) <p>03/12/23<p>
 # [Day 3](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_03) <p>04/12/23<p>
 # [Day 4](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_04) <p>05/12/23<p>
