@@ -1,7 +1,7 @@
 # Q.1 Write a program that takes two strings, s1 and s2, as input and returns True if s2 is a rotation of s1, and False otherwise. A rotation means shifting all characters of one string to the right by any number of positions.
 ```
-Input: 15
-Expected Output: 0  # Binary representation: 1111, no gap.
+Input: s1 = "hello", s2 = "ohell"
+Expected Output: True
 
 Input: 20
 Expected Output: 1  # Binary representation: 10100, one gap between the 1s.
