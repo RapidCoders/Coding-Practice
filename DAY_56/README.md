@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a positive integer as input and returns the length of the longest binary gap. A binary gap is the longest sequence of consecutive zeros in the binary representation of the number.
+# Q.1 Write a program that takes two strings, s1 and s2, as input and returns True if s2 is a rotation of s1, and False otherwise. A rotation means shifting all characters of one string to the right by any number of positions.
 ```
 Input: 15
 Expected Output: 0  # Binary representation: 1111, no gap.
