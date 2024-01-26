@@ -1,7 +1,4 @@
 #include<iostream>
-#include<set>
-#include<sstream>
-#include<algorithm>
 using namespace std;
 
 string removeduplistr(string str)
