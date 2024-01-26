@@ -23,7 +23,7 @@ Expected Output: False
 ```
 **Author: Vaibhav**
 
-# Q.3 Write a program to print  given Pattern.
+# Q.3 Write a program to print given Pattern.
 ```
 Input: num = 4
 Output:
@@ -34,7 +34,7 @@ Output:
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to given given Pattern.
+# Q.3 Write a program to print given Pattern.
 ```
 Input: num = 4
 Output:
