@@ -17,6 +17,9 @@ Expected Output: True
 
 Input: s1 = "abc", s2 = "bcd"
 Expected Output: False
+
+Input: s1 = "programming", s2 = "program"
+Expected Output: False
 ```
 **Author: Vaibhav**
 
