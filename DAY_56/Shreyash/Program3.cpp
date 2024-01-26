@@ -1,3 +1,12 @@
+// Q.3 Write a program to print given Pattern.
+// Input: num = 4
+// Output:
+//  *  *  *  *  *  *  *
+//     *           *
+//        *     *
+//           *
+// Author: Shreyash
+
 #include <iostream>
 using namespace std;
 
