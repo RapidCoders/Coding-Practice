@@ -9,8 +9,8 @@ Expected Output: True
 Input: s1 = "apple", s2 = "apple"
 Expected Output: True
 
-Input: 77
-Expected Output: 2  # Binary representation: 1001101, two gaps between the 1s.
+Input: s1 = "cat", s2 = "tacocat"
+Expected Output: False
 
 Input: 0
 Expected Output: 0  # Binary representation: 0, no gap.
