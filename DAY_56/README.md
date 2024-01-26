@@ -3,8 +3,8 @@
 Input: s1 = "hello", s2 = "ohell"
 Expected Output: True
 
-Input: 20
-Expected Output: 1  # Binary representation: 10100, one gap between the 1s.
+Input: s1 = "python", s2 = "onpyth"
+Expected Output: True
 
 Input: 1048577
 Expected Output: 19  # Binary representation: 100000000000000000001, longest gap between the 1s.
