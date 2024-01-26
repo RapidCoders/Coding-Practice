@@ -39,14 +39,14 @@ Output :The number is deficient.
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to check whether given number is Neon number or not.
-**Explaination: A positive integer whose sum of digits of its square is equal to the number itself is called a neon number.**
+# Q.3 Write a program for given Pattern.
 ```
-Input: num = 9
-Output: True.
-
-Input: num = 45
-Output: False.
+Input: num = 4
+Output:
+ *  *  *  *  *  *  *
+    *           *
+       *     *
+          *
 ```
 **Author: Shreyash**
 
