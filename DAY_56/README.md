@@ -12,8 +12,8 @@ Expected Output: True
 Input: s1 = "cat", s2 = "tacocat"
 Expected Output: False
 
-Input: 0
-Expected Output: 0  # Binary representation: 0, no gap.
+Input: s1 = "", s2 = ""
+Expected Output: True
 ```
 **Author: Vaibhav**
 
