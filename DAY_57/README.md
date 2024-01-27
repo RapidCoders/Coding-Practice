@@ -1,4 +1,4 @@
-# Q.1 Write a program that takes two strings, s1 and s2, as input and returns True if s2 is a rotation of s1, and False otherwise. A rotation means shifting all characters of one string to the right by any number of positions.
+# Q.1 Write a program that takes a string as input and replaces all consonants with a specified character, while keeping vowels unchanged.
 ```
 Input: s1 = "hello", s2 = "ohell"
 Expected Output: True
