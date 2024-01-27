@@ -1,7 +1,7 @@
 # Q.1 Write a program that takes a string as input and replaces all consonants with a specified character, while keeping vowels unchanged.
 ```
-Input: s1 = "hello", s2 = "ohell"
-Expected Output: True
+Input: "Hello, World!", replacement = '@'
+Expected Output: "@e@@o, @o@@@!"
 
 Input: s1 = "python", s2 = "onpyth"
 Expected Output: True
