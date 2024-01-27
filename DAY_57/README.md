@@ -9,8 +9,8 @@ Expected Output: "---------------------"
 Input: "aeiou", replacement = '*'
 Expected Output: "aeiou"
 
-Input: s1 = "cat", s2 = "tacocat"
-Expected Output: False
+Input: "", replacement = '*'
+Expected Output: ""
 
 Input: s1 = "", s2 = ""
 Expected Output: True
