@@ -3,8 +3,8 @@
 Input: "Hello, World!", replacement = '@'
 Expected Output: "@e@@o, @o@@@!"
 
-Input: s1 = "python", s2 = "onpyth"
-Expected Output: True
+Input: "BCDFGHJKLMNPQRSTVWXYZ", replacement = '-'
+Expected Output: "---------------------"
 
 Input: s1 = "apple", s2 = "apple"
 Expected Output: True
