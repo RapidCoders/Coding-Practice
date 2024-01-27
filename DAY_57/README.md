@@ -6,8 +6,8 @@ Expected Output: "@e@@o, @o@@@!"
 Input: "BCDFGHJKLMNPQRSTVWXYZ", replacement = '-'
 Expected Output: "---------------------"
 
-Input: s1 = "apple", s2 = "apple"
-Expected Output: True
+Input: "aeiou", replacement = '*'
+Expected Output: "aeiou"
 
 Input: s1 = "cat", s2 = "tacocat"
 Expected Output: False
