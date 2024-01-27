@@ -1,3 +1,17 @@
+// Q.1 Write a program that takes a string as input and replaces all consonants with a specified character, while keeping vowels unchanged.
+// Input: "Hello, World!", replacement = '@'
+// Expected Output: "@e@@o, @o@@@!"
+
+// Input: "BCDFGHJKLMNPQRSTVWXYZ", replacement = '-'
+// Expected Output: "---------------------"
+
+// Input: "aeiou", replacement = '*'
+// Expected Output: "aeiou"
+
+// Input: "", replacement = '*'
+// Expected Output: ""
+// Author: Vaibhav
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
