@@ -45,9 +45,9 @@ bool check_ISBN(llint num)
         num /= 10;
     }
 
-    if (!(sum % 11))
-        return true;
-    return false;
+    if (sum % 11)
+        return false;
+    return true;
 }
 
 int main(void)
