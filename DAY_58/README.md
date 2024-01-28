@@ -1,4 +1,4 @@
-# Q.1 Write a program that takes a string as input and replaces all consonants with a specified character, while keeping vowels unchanged.
+# Q.1 Write a program that takes an array of integers as input and partitions it into two subarrays, where the first subarray contains all the even numbers and the second subarray contains all the odd numbers. The order of elements within each subarray should remain the same as in the original array.
 ```
 Input: "Hello, World!", replacement = '@'
 Expected Output: "@e@@o, @o@@@!"
