@@ -3,8 +3,8 @@
 Input: [3, 6, 8, 2, 5, 7]
 Expected Output: [[6, 8, 2], [3, 5, 7]]
 
-Input: "BCDFGHJKLMNPQRSTVWXYZ", replacement = '-'
-Expected Output: "---------------------"
+Input: [2, 4, 6, 8]
+Expected Output: [[2, 4, 6, 8], []]
 
 Input: "aeiou", replacement = '*'
 Expected Output: "aeiou"
