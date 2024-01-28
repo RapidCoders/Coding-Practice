@@ -41,7 +41,7 @@ bool check_ISBN(llint num)
 
     while (num)
     {
-        sum += ((num % 10) * exponent++);
+        sum += ((num % 10) * (exponent++));
         num /= 10;
     }
 
