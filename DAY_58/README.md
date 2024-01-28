@@ -9,8 +9,8 @@ Expected Output: [[2, 4, 6, 8], []]
 Input: [1, 3, 5, 7, 9]
 Expected Output: [[], [1, 3, 5, 7, 9]]
 
-Input: "", replacement = '*'
-Expected Output: ""
+Input: [-3, 6, -8, 2, 5, -7]
+Expected Output: [[6, -8, 2], [-3, 5, -7]]
 ```
 **Author: Vaibhav**
 
