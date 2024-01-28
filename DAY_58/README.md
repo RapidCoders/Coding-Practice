@@ -6,8 +6,8 @@ Expected Output: [[6, 8, 2], [3, 5, 7]]
 Input: [2, 4, 6, 8]
 Expected Output: [[2, 4, 6, 8], []]
 
-Input: "aeiou", replacement = '*'
-Expected Output: "aeiou"
+Input: [1, 3, 5, 7, 9]
+Expected Output: [[], [1, 3, 5, 7, 9]]
 
 Input: "", replacement = '*'
 Expected Output: ""
