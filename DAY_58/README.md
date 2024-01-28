@@ -58,6 +58,6 @@ Now, we divide the sum with 11 and check whether the remainder is 0 or not.
 rem = 209 % 11
 
 rem = 0
-
+Number 1259060977 is a legal ISBN because the remainder is equal to 0.
 ```
 **Author: Shreyash**
