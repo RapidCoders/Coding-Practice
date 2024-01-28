@@ -11,6 +11,9 @@ Expected Output: [[], [1, 3, 5, 7, 9]]
 
 Input: [-3, 6, -8, 2, 5, -7]
 Expected Output: [[6, -8, 2], [-3, 5, -7]]
+
+Input: []
+Expected Output: [[], []]
 ```
 **Author: Vaibhav**
 
