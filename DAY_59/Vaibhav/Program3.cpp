@@ -30,9 +30,7 @@ bool check_strontio(int num)
     num /= 10;
     hundredth_place = num % 10;
 
-    if (tenth_place == hundredth_place)
-        return true;
-    return false;
+    return (tenth_place == hundredth_place) ? true : false;
 }
 
 int main(void)
