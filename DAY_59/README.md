@@ -21,7 +21,7 @@ Expected Output: "hello!world$"
 **Explanation: A number is said to be the Disarium number when the sum of its digit raised to the power of their respective positions is equal to the number itself.**
 ```
 For example, 175 is a Disarium number as follows
-11 + 72 + 53 = 1 + 49 + 125 = 175
+1^1 + 7^2 + 5^3 = 1 + 49 + 125 = 175
 
 Output :
 Disarium numbers between 1 and 100 are
