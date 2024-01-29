@@ -24,10 +24,8 @@ Expected Output: "hello!world$"
 **Author: Suyash**
 
 # Q.3 Write a program to check the number is Strontio Number or not.
+**Explanation: Strontio numbers are those four digits numbers when multiplied by 2 give the same digit at the hundreds and tens place. Remember that the input number must be a four-digit number.**
 ```
-Explanation :
-Strontio numbers are those four digits numbers when multiplied by 2 give the same digit at the hundreds and tens place. Remember that the input number must be a four-digit number.
-
 1386*2=2772, we observe that at tens and hundreds place digits are the same. Hence, 1386 is a strontio number.
 1221*2=2442, digits at tens and hundreds place are the same. Hence, 1221 is a strontio number.
 
