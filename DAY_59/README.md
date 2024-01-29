@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a string and two characters as input and swaps all occurrences of the first character with the second character and vice versa.
 ```
-Input: [3, 6, 8, 2, 5, 7]
-Expected Output: [[6, 8, 2], [3, 5, 7]]
+Input: "hello world", 'l', 'o'
+Expected Output: "heool wlrod"
 
 Input: [2, 4, 6, 8]
 Expected Output: [[2, 4, 6, 8], []]
