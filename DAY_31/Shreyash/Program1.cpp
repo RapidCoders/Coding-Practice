@@ -15,39 +15,56 @@ using namespace std;
 
 void patt(int num) 
 {
-    for(int i = 1;i<=num/2;i++){
-      for(int j =1;j<=num/2+1;j++){
-        if(j==1||j==num/2+1){
+    for(int i = 1;i<=num/2;i++)
+    {
+      for(int j =1;j<=num/2+1;j++)
+      {
+        if(j==1||j==num/2+1)
+	{
           cout<<" *";
         }else{
           cout<<"  ";
         }
       }
-	  for(int j =1;j<=num/2;j++){
-        if(i==1){
+	  for(int j =1;j<=num/2;j++)
+	  {
+        if(i==1)
+	{
           cout<<" *";
-        }else{
+        }
+	else
+	{
           cout<<"  ";
         }
       }
 	  cout<<endl;
     }
-	for(int i = 1;i<=num;i++){
+	for(int i = 1;i<=num;i++)
+	{
 		cout<<" *";
 	}
 	cout<<endl;
-	for(int i = 1;i<=num/2;i++){
-		for(int j =1;j<=num/2;j++){
-        if(i==num/2){
+	for(int i = 1;i<=num/2;i++)
+	{
+		for(int j =1;j<=num/2;j++)
+		{
+        if(i==num/2)
+	{
           cout<<" *";
-        }else{
+        }
+	else
+	{
           cout<<"  ";
         }
       }
-	  for(int j =1;j<=num/2+1;j++){
-        if(j==num/2+1||j==1){
+	  for(int j =1;j<=num/2+1;j++)
+	  {
+        if(j==num/2+1||j==1)
+	{
           cout<<" *";
-        }else{
+        }
+	else
+	{
           cout<<"  ";
         }
       }
