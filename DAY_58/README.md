@@ -17,14 +17,9 @@ Expected Output: [[], []]
 ```
 **Author: Vaibhav**
 
-# Q.2 Write a program to print given Pattern.
+# Q.2 
 ```
-Input: num = 4
-Output:
-7*8*9*10
-4*5*6
-2*3
-1  
+
 ```
 **Author: Suyash**
 
