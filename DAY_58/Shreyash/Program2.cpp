@@ -10,7 +10,7 @@
 #include<iostream>
 using namespace std;
 
-void identity_ornot(int mat1[3][3], const int row, const int col)
+void sparse_or_not(int mat1[3][3], const int row, const int col)
 {
     int zero_counter = 0;
     int num_counter = 0;
@@ -51,7 +51,7 @@ int main()
             cin>>mat1[i][j];
         }
     }
-    identity_ornot(mat1, row, col);
+    sparse_or_not(mat1, row, col);
     
 
     return 0;
