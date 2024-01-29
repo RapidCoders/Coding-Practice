@@ -12,8 +12,8 @@ Expected Output: ""
 Input: "banana", 'a', 'a'
 Expected Output: "banana"
 
-Input: []
-Expected Output: [[], []]
+Input: "hello$world!", '$', '!'
+Expected Output: "hello!world$"
 ```
 **Author: Vaibhav**
 
