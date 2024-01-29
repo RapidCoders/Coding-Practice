@@ -6,8 +6,8 @@ Expected Output: "heool wlrod"
 Input: "python", 'a', 'b'
 Expected Output: "python"
 
-Input: [1, 3, 5, 7, 9]
-Expected Output: [[], [1, 3, 5, 7, 9]]
+Input: "", 'a', 'b'
+Expected Output: ""
 
 Input: [-3, 6, -8, 2, 5, -7]
 Expected Output: [[6, -8, 2], [-3, 5, -7]]
