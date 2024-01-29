@@ -17,9 +17,14 @@ Expected Output: [[], []]
 ```
 **Author: Vaibhav**
 
-# Q.2 
+# Q.2 Program to determine whether a given matrix is a sparse matrix
 ```
-
+Input:
+Matrix a = [4, 0, 0]  
+           [0, 5, 0]  
+           [0, 0, 6]  
+Output:
+Given matrix is a sparse matrix
 ```
 **Author: Suyash**
 
