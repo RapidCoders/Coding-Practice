@@ -9,8 +9,8 @@ Expected Output: "python"
 Input: "", 'a', 'b'
 Expected Output: ""
 
-Input: [-3, 6, -8, 2, 5, -7]
-Expected Output: [[6, -8, 2], [-3, 5, -7]]
+Input: "banana", 'a', 'a'
+Expected Output: "banana"
 
 Input: []
 Expected Output: [[], []]
