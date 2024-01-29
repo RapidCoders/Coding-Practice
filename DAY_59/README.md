@@ -3,8 +3,8 @@
 Input: "hello world", 'l', 'o'
 Expected Output: "heool wlrod"
 
-Input: [2, 4, 6, 8]
-Expected Output: [[2, 4, 6, 8], []]
+Input: "python", 'a', 'b'
+Expected Output: "python"
 
 Input: [1, 3, 5, 7, 9]
 Expected Output: [[], [1, 3, 5, 7, 9]]
