@@ -1,4 +1,4 @@
-# Q.1 Write a program that takes an array of integers as input and partitions it into two subarrays, where the first subarray contains all the even numbers and the second subarray contains all the odd numbers. The order of elements within each subarray should remain the same as in the original array.
+# Q.1 Write a function that takes a string and two characters as input and swaps all occurrences of the first character with the second character and vice versa.
 ```
 Input: [3, 6, 8, 2, 5, 7]
 Expected Output: [[6, 8, 2], [3, 5, 7]]
