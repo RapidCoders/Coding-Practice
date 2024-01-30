@@ -30,10 +30,10 @@ Disarium numbers between 1 and 100 are
 # Q.3 Write a program to check the number is Armstrong Number or not.
 **Explanation:An Armstrong number is a positive m-digit number that is equal to the sum of the mth powers of their digits. It is also known as pluperfect, or Plus Perfect, or Narcissistic number. It is an OEIS sequence A005188. Let’s understand it through an example.**
 ```
-153: 13 + 53 + 33 = 1 + 125+ 27 = 153
+153: 1^3 + 5^3 + 3^3 = 1 + 125+ 27 = 153
 
-125: 13 + 23 + 53 = 1 + 8 + 125 = 134 (Not an Armstrong Number)
+125: 1^3 + 2^3 + 5^3 = 1 + 8 + 125 = 134 (Not an Armstrong Number)
 
-1634: 14 + 64 + 34 + 44 = 1 + 1296 + 81 + 256 = 1643
+1634: 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1643
 ```
 **Author: Shreyash**
