@@ -27,12 +27,13 @@ Disarium numbers between 1 and 100 are
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to check the number is Strontio Number or not.
-**Explanation: Strontio numbers are those four digits numbers when multiplied by 2 give the same digit at the hundreds and tens place. Remember that the input number must be a four-digit number.**
+# Q.3 Write a program to check the number is Armstrong Number or not.
+**Explanation:An Armstrong number is a positive m-digit number that is equal to the sum of the mth powers of their digits. It is also known as pluperfect, or Plus Perfect, or Narcissistic number. It is an OEIS sequence A005188. Let’s understand it through an example.**
 ```
-1386*2=2772, we observe that at tens and hundreds place digits are the same. Hence, 1386 is a strontio number.
-1221*2=2442, digits at tens and hundreds place are the same. Hence, 1221 is a strontio number.
+153: 13 + 53 + 33 = 1 + 125+ 27 = 153
 
-Some other strontio numbers are 1111, 2222, 3333, 4444, 5555, 6666, 7777, 8888, 9999, 1001, 2002, 3003, etc.
+125: 13 + 23 + 53 = 1 + 8 + 125 = 134 (Not an Armstrong Number)
+
+1634: 14 + 64 + 34 + 44 = 1 + 1296 + 81 + 256 = 1643
 ```
 **Author: Shreyash**
