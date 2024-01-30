@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string and two characters as input and swaps all occurrences of the first character with the second character and vice versa.
+# Q.1 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise). You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
 ```
 Input: "hello world", 'l', 'o'
 Expected Output: "heool wlrod"
