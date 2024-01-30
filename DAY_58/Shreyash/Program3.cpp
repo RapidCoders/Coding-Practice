@@ -37,10 +37,10 @@ bool isbn_or_not(string num)
 {
     int sum = 0;
     int k = 1;
+    char c;
     for (int i = num.length()-1;i >= 0;i--)
     {
-        char c = num[i];
-        sum = sum + (k  * atoi(&c));
+        sum = sum + (k  * (num[i]-48));
         k++;
 
     }
