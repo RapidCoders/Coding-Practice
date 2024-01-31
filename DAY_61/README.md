@@ -11,6 +11,9 @@ Expected Output: 3
 
 Input: "", ""
 Expected Output: 0
+
+Input: "apple", "apricot"
+Expected Output: 3
 ```
 **Author: Vaibhav**
 
