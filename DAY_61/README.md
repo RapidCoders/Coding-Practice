@@ -3,6 +3,9 @@
 Input: "abcde", "abcde"
 Expected Output: 0
 
+Input: "hello", "hallo"
+Expected Output: 1
+
 
 ```
 **Author: Vaibhav**
