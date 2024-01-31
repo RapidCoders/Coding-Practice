@@ -6,6 +6,9 @@ Expected Output: 0
 Input: "hello", "hallo"
 Expected Output: 1
 
+Input: "abc", "def"
+Expected Output: 3
+
 
 ```
 **Author: Vaibhav**
