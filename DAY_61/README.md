@@ -9,7 +9,8 @@ Expected Output: 1
 Input: "abc", "def"
 Expected Output: 3
 
-
+Input: "", ""
+Expected Output: 0
 ```
 **Author: Vaibhav**
 
