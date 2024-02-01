@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes two strings as input and returns the count of differing characters at each position.
+# Q.1 Write a function that takes a string and a number as input and repeats each letter in the string by the specified number of times.
 ```
 Input: "abcde", "abcde"
 Expected Output: 0
