@@ -13,7 +13,7 @@ Input: "", ""
 Expected Output: 0
 
 Input: "apple", "apricot"
-Expected Output: 3
+Expected Output: 2
 
 Input: "python", "java"
 Expected Output: 6
