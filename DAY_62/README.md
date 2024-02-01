@@ -14,9 +14,6 @@ Expected Output: "aaaaaaaaaabbbbbbbbbbcccccccccc"
 
 Input: "!@#", 2
 Expected Output: "!!@@##"
-
-Input: "python", "java"
-Expected Output: 6
 ```
 **Author: Vaibhav**
 
