@@ -12,8 +12,8 @@ Expected Output: "aaaa"
 Input: "abc", 10
 Expected Output: "aaaaaaaaaabbbbbbbbbbcccccccccc"
 
-Input: "apple", "apricot"
-Expected Output: 2
+Input: "!@#", 2
+Expected Output: "!!@@##"
 
 Input: "python", "java"
 Expected Output: 6
