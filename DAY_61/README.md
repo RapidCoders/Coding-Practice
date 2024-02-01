@@ -14,6 +14,9 @@ Expected Output: 0
 
 Input: "apple", "apricot"
 Expected Output: 3
+
+Input: "python", "java"
+Expected Output: 6
 ```
 **Author: Vaibhav**
 
