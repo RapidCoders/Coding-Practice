@@ -1,3 +1,9 @@
+
+// Q.3 Find the Armstrong Numbers in a given Interval.
+// Input: low = 100, high = 400
+// Output: 153 370 371 
+// Author: Shreyash
+
 #include<iostream>
 #include<cmath>
 using namespace std;
