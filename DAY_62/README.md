@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a string and a number as input and repeats each letter in the string by the specified number of times.
 ```
-Input: "abcde", "abcde"
-Expected Output: 0
+Input: "hello", 3
+Expected Output: "hhheeellllllooo"
 
 Input: "hello", "hallo"
 Expected Output: 1
