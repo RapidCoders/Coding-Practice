@@ -1,3 +1,24 @@
+// Q.1 Write a function that takes two strings as input and returns the count of differing characters at each position.
+// Input: "abcde", "abcde"
+// Expected Output: 0
+
+// Input: "hello", "hallo"
+// Expected Output: 1
+
+// Input: "abc", "def"
+// Expected Output: 3
+
+// Input: "", ""
+// Expected Output: 0
+
+// Input: "apple", "apricot"
+// Expected Output: 2
+
+// Input: "python", "java"
+// Expected Output: 6
+// Author: Vaibhav
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
