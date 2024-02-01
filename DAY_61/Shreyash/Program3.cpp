@@ -1,3 +1,8 @@
+
+// Q.3 Write a program to Sort First half in Ascending and Second half of array in descending order.
+// Input: arr[] = {3, 2, 4, 1, 10, 30, 40, 20};
+// Output: 1 2 3 4 40 30 20 10 
+// Author: Shreyash
 #include<iostream>
 #include<vector>
 using namespace std;
