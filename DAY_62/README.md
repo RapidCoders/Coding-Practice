@@ -9,8 +9,8 @@ Expected Output: ""
 Input: "a", 4
 Expected Output: "aaaa"
 
-Input: "", ""
-Expected Output: 0
+Input: "abc", 10
+Expected Output: "aaaaaaaaaabbbbbbbbbbcccccccccc"
 
 Input: "apple", "apricot"
 Expected Output: 2
