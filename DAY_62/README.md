@@ -29,10 +29,10 @@ Disarium numbers between 1 and 100 are
 ```
 **Author: Suyash**
 
-# Q.3 Write a program to Sort  First half in Ascending and Second half of array in descending order.
+# Q.3 Find the Armstrong Numbers in a given Interval.
 ```
-Input: arr[] = {3, 2, 4, 1, 10, 30, 40, 20};
-Output: 1 2 3 4 40 30 20 10 
+Input: low = 100, high = 400
+Output: 153 370 371 
 ```
 **Author: Shreyash**
 
