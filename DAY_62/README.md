@@ -3,8 +3,8 @@
 Input: "hello", 3
 Expected Output: "hhheeellllllooo"
 
-Input: "hello", "hallo"
-Expected Output: 1
+Input: "", 5
+Expected Output: ""
 
 Input: "abc", "def"
 Expected Output: 3
