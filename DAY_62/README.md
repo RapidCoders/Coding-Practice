@@ -6,8 +6,8 @@ Expected Output: "hhheeellllllooo"
 Input: "", 5
 Expected Output: ""
 
-Input: "abc", "def"
-Expected Output: 3
+Input: "a", 4
+Expected Output: "aaaa"
 
 Input: "", ""
 Expected Output: 0
