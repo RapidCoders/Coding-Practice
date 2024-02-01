@@ -1,3 +1,20 @@
+// Q.1 Write a function that takes a string and a number as input and repeats each letter in the string by the specified number of times.
+// Input: "hello", 3
+// Expected Output: "hhheeellllllooo"
+
+// Input: "", 5
+// Expected Output: ""
+
+// Input: "a", 4
+// Expected Output: "aaaa"
+
+// Input: "abc", 10
+// Expected Output: "aaaaaaaaaabbbbbbbbbbcccccccccc"
+
+// Input: "!@#", 2
+// Expected Output: "!!@@##"
+// Author: Vaibhav
+
 #include<iostream>
 #include<cmath>
 using namespace std;
