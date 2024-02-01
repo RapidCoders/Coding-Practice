@@ -28,13 +28,16 @@ void sort(int *array, int size, char type = 'I')
         {
             if (type == 'I' || type == 'i')
             {
-                if (array[j] > array[j + 1])
+                if ((array[j] > array[j + 1]))
                     swap(&array[j], &array[j + 1]);
-                continue;
             }
-
-            if (array[j] < array[j + 1])
-                swap(&array[j], &array[j + 1]);
+            else if (type == 'D' || type == 'd')
+            {
+                if (array[j] < array[j + 1])
+                    swap(&array[j], &array[j + 1]);
+            }
+            else
+                cout << "\nPlease enter the valid type!\n";
         }
     }
 }
