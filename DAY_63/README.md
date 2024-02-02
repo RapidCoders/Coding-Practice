@@ -42,6 +42,10 @@ Sequence = 131
 Possible decoding (1, 3, 1,)    = ACA
 Possible decoding (13, 1)   = MA
 So, the total possible decoding’s of sequence 131 is 2.
+
+Input: Enter the sequence : 141
+Expected Output: Possible count of decoding of the sequence : 2.
+
 ```
 **Author: Shreyash**
 
