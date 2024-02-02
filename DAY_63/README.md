@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string and a number as input and repeats each letter in the string by the specified number of times.
+# Q.1 Write a function that takes a string as input and returns a list of all the words in the string, separated by spaces.
 ```
 Input: "hello", 3
 Expected Output: "hhheeellllllooo"
