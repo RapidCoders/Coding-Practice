@@ -43,6 +43,7 @@ vector<string> tokenize(const string &str, const char delimeter = ' ')
 {
     string token;
     vector<string> tokens;
+    
     int i, j = -1, count_of_delimeters = count_delimeters(str, delimeter);
 
     for (i = 0; i <= count_of_delimeters; i++)
