@@ -12,8 +12,8 @@ Expected Output: ['This', 'is', 'a', 'test']
 Input: "Hello, World!"
 Expected Output: ['Hello,', 'World!']
 
-Input: "!@#", 2
-Expected Output: "!!@@##"
+Input: "123 456 789"
+Expected Output: ['123', '456', '789']
 ```
 **Author: Vaibhav**
 
