@@ -3,8 +3,8 @@
 Input: "Hello World"
 Expected Output: ['Hello', 'World']
 
-Input: "", 5
-Expected Output: ""
+Input: ""
+Expected Output: []
 
 Input: "a", 4
 Expected Output: "aaaa"
