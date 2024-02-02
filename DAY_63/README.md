@@ -9,8 +9,8 @@ Expected Output: []
 Input: "  This  is   a    test  "
 Expected Output: ['This', 'is', 'a', 'test']
 
-Input: "abc", 10
-Expected Output: "aaaaaaaaaabbbbbbbbbbcccccccccc"
+Input: "Hello, World!"
+Expected Output: ['Hello,', 'World!']
 
 Input: "!@#", 2
 Expected Output: "!!@@##"
