@@ -29,10 +29,19 @@ Disarium numbers between 1 and 100 are
 ```
 **Author: Suyash**
 
-# Q.3 Find the Armstrong Numbers in a given Interval.
+# Q.3 write a program to count possible decoding of a given digit sequence.
 ```
-Input: low = 100, high = 400
-Output: 153 370 371 
+1 = A, 2 = B, 3 = C, . . . . , 26 = Z.
+The decoding programs are the most possible questions asked and are largely practiced in C  programming. The program counts the number of possible decoding’s of the entered digit by the user of the given sequence.
+For example :- if the digit sequence is “12” then there are two possible decoding’s for this – One of them is ‘AB’ when we decode 1 as ‘A’ and 2 as ‘B’. Now we can also decode this digit sequence “12” as ‘L’ when we decode digits 1 and 2 taken together as an integer 12.
+
+Now let’s take another example for reference,
+
+Sequence = 131
+
+Possible decoding (1, 3, 1,)    = ACA
+Possible decoding (13, 1)   = MA
+So, the total possible decoding’s of sequence 131 is 2.
 ```
 **Author: Shreyash**
 
