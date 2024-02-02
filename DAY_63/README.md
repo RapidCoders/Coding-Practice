@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a string as input and returns a list of all the words in the string, separated by spaces.
 ```
-Input: "hello", 3
-Expected Output: "hhheeellllllooo"
+Input: "Hello World"
+Expected Output: ['Hello', 'World']
 
 Input: "", 5
 Expected Output: ""
