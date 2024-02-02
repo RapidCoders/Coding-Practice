@@ -6,8 +6,8 @@ Expected Output: ['Hello', 'World']
 Input: ""
 Expected Output: []
 
-Input: "a", 4
-Expected Output: "aaaa"
+Input: "  This  is   a    test  "
+Expected Output: ['This', 'is', 'a', 'test']
 
 Input: "abc", 10
 Expected Output: "aaaaaaaaaabbbbbbbbbbcccccccccc"
