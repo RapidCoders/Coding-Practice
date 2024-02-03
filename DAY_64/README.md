@@ -9,9 +9,9 @@ Expected Output: "HEllo WorlD"
 Input: "a b c"
 Expected Output: "A B C"
 
+Input: ""
+Expected Output: ""
 
-Input: "Hello, World!"
-Expected Output: ['Hello,', 'World!']
 
 Input: "123 456 789"
 Expected Output: ['123', '456', '789']
