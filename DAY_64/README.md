@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns a list of all the words in the string, separated by spaces.
+# Q.1 Write a function that takes a string as input and returns the string with the first letter of each word capitalized.
 ```
 Input: "Hello World"
 Expected Output: ['Hello', 'World']
