@@ -12,9 +12,8 @@ Expected Output: "A B C"
 Input: ""
 Expected Output: ""
 
-
-Input: "123 456 789"
-Expected Output: ['123', '456', '789']
+Input: "hello 123 world!"
+Expected Output: "Hello 123 World!"
 ```
 **Author: Vaibhav**
 
