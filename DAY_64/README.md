@@ -3,9 +3,9 @@
 Input: "HELLO WORLD"
 Expected Output: "HELLO WORLD"
 
+Input: "hEllo WorlD"
+Expected Output: "HEllo WorlD"
 
-Input: ""
-Expected Output: []
 
 Input: "  This  is   a    test  "
 Expected Output: ['This', 'is', 'a', 'test']
