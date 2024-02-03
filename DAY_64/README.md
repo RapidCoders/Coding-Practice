@@ -6,9 +6,9 @@ Expected Output: "HELLO WORLD"
 Input: "hEllo WorlD"
 Expected Output: "HEllo WorlD"
 
+Input: "a b c"
+Expected Output: "A B C"
 
-Input: "  This  is   a    test  "
-Expected Output: ['This', 'is', 'a', 'test']
 
 Input: "Hello, World!"
 Expected Output: ['Hello,', 'World!']
