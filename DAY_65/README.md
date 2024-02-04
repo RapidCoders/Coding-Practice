@@ -3,10 +3,9 @@
 Input: "", ""
 Expected Output: ""
 
+Input: "Hello!", "World?"
+Expected Output: "Hello! World?"
 
-
-Input: "hEllo WorlD"
-Expected Output: "HEllo WorlD"
 
 Input: "a b c"
 Expected Output: "A B C"
