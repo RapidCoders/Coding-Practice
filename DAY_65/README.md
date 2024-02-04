@@ -12,9 +12,9 @@ Expected Output: "   Hello World   "
 Input: "This is a", "test"
 Expected Output: "This is a test"
 
+Input: "123", "456"
+Expected Output: "123 456"
 
-Input: "hello 123 world!"
-Expected Output: "Hello 123 World!"
 ```
 **Author: Vaibhav**
 
