@@ -1,7 +1,9 @@
 # Q.1 Write a function that takes two strings as input and concatenates them together, separating them by a space.
 ```
-Input: "HELLO WORLD"
-Expected Output: "HELLO WORLD"
+Input: "", ""
+Expected Output: ""
+
+
 
 Input: "hEllo WorlD"
 Expected Output: "HEllo WorlD"
