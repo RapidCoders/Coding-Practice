@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns the string with the first letter of each word capitalized.
+# Q.1 Write a function that takes two strings as input and concatenates them together, separating them by a space.
 ```
 Input: "HELLO WORLD"
 Expected Output: "HELLO WORLD"
