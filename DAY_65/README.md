@@ -14,7 +14,6 @@ Expected Output: "This is a test"
 
 Input: "123", "456"
 Expected Output: "123 456"
-
 ```
 **Author: Vaibhav**
 
