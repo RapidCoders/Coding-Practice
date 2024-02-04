@@ -24,7 +24,7 @@ Expected Output: "Hello 123 World!"
 ```
 **Author: Suyash**
 
-# Q.3 write a program which takes input number and gives sum of all odd numbers upto that number.
+# Q.3 write a program which takes input number and gives sum of all odd numbers upto that number(Note : Solve using Recursion).
 ```
 Input: 10
 Output: 26
