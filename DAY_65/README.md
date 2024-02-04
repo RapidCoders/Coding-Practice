@@ -6,9 +6,9 @@ Expected Output: ""
 Input: "Hello!", "World?"
 Expected Output: "Hello! World?"
 
+Input: "   Hello", "World   "
+Expected Output: "   Hello World   "
 
-Input: "a b c"
-Expected Output: "A B C"
 
 Input: ""
 Expected Output: ""
