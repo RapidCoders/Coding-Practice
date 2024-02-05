@@ -1,3 +1,20 @@
+// Q.1 Write a function that takes two strings as input and concatenates them together, separating them by a space.
+// Input: "", ""
+// Expected Output: ""
+
+// Input: "Hello!", "World?"
+// Expected Output: "Hello! World?"
+
+// Input: "   Hello", "World   "
+// Expected Output: "   Hello World   "
+
+// Input: "This is a", "test"
+// Expected Output: "This is a test"
+
+// Input: "123", "456"
+// Expected Output: "123 456"
+// Author: Vaibhav
+	
 #include<iostream>
 #include<vector>
 #include<algorithm>
