@@ -24,13 +24,21 @@ Expected Output: "123 456"
 ```
 **Author: Suyash**
 
-# Q.3 write a program(EOR Gate) which takes two inputs and gives output based on input.
+# Q.3 write a program Print Right Diamond Number Pattern.
 ```
-Input Should be combination of zero and one.
+Input : First term =  3
 
-Input : 0
-        1
-Output : 1
+Output :
+
+3
+4 4
+5 5 5
+6 6 6 6
+6 6 6 6
+5 5 5
+4 4
+3
+
 ```
 **Author: Shreyash**
 
