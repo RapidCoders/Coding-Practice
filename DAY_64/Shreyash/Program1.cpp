@@ -1,3 +1,19 @@
+// Q.1 Write a function that takes a string as input and returns the string with the first letter of each word capitalized.
+// Input: "HELLO WORLD"
+// Expected Output: "HELLO WORLD"
+
+// Input: "hEllo WorlD"
+// Expected Output: "HEllo WorlD"
+
+// Input: "a b c"
+// Expected Output: "A B C"
+
+// Input: ""
+// Expected Output: ""
+
+// Input: "hello 123 world!"
+// Expected Output: "Hello 123 World!"
+	
 #include<iostream>
 #include<vector>
 #include<algorithm>
