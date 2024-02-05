@@ -25,7 +25,7 @@ using std::cin;
 using std::cout;
 using std::string;
 
-string middle_char(string str)
+string middle_char(const string &str)
 {
     string middle_str;
     int length = str.length();
