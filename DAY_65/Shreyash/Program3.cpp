@@ -1,3 +1,11 @@
+// Q.3 write a program(EOR Gate) which takes two inputs and gives output based on input.
+// Input Should be combination of zero and one.
+
+// Input : 0
+//         1
+// Output : 1
+// Author: Shreyash
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
