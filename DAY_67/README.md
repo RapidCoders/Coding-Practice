@@ -30,7 +30,7 @@ Input : str = "aacbbcaaded"
 Output : ded
 
 Input : str = “aabaabccded”
-Output : e
+Output : ded
 
 ```
 **Author: Shreyash**
