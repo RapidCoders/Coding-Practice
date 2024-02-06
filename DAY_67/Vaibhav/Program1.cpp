@@ -40,11 +40,9 @@ string alternate(const string &str1, const string &str2)
             altered.push_back(str2[i]);
     }
 
-    if (i < length2)
-    {
-        for (; i < length2; i++)
-            altered.push_back(str2[i]);
-    }
+    for (; i < length2; i++)
+        altered.push_back(str2[i]);
+
     return altered;
 }
 
@@ -111,4 +109,3 @@ int main(void)
 
     return 0;
 }
-
