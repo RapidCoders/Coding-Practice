@@ -9,8 +9,8 @@ Expected Output: "123"
 Input: "abc", "!@#"
 Expected Output: "a!b@c#"
 
-Input: ""
-Expected Output: ""
+Input: "hello", "world"
+Expected Output: "hweolrllod"
 
 Input: "hello world"
 Expected Output: " "
