@@ -9,8 +9,8 @@ Expected Output: "cd"
 Input: "x"
 Expected Output: "x"
 
-Input: "This is a", "test"
-Expected Output: "This is a test"
+Input: ""
+Expected Output: ""
 
 Input: "123", "456"
 Expected Output: "123 456"
