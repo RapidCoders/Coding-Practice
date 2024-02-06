@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns the middle character(s) of the string. If the length of the string is odd, return the middle character. If the length is even, return the middle two characters.
+# Q.1 Write a function that takes two strings as input and alternates their characters to form a new string.
 ```
 Input: "abcde"
 Expected Output: "c"
