@@ -12,8 +12,8 @@ Expected Output: "x"
 Input: ""
 Expected Output: ""
 
-Input: "123", "456"
-Expected Output: "123 456"
+Input: "hello world"
+Expected Output: " "
 ```
 **Author: Vaibhav**
 
