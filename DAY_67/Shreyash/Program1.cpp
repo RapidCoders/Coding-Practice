@@ -28,7 +28,7 @@ string mixer(string str0,string str1)
 			str = str+' ';
 
 	}
-	cout<<str;
+	// cout<<str;
 	int i  = 0;
 	for(int j = 0;j < str0.length()*2;j++)
 	{
