@@ -24,14 +24,15 @@ Expected Output: "abab"
 ```
 **Author: Suyash**
 
-# Q.3 write a program Remove all Adjacent Duplicate Characters.
+# Q.3 write a Program for Trapping Rain water problem.
 ```
-Input : str = "aacbbcaaded"
-Output : ded
+Here, in this page we  will discuss one of the famous problem of  Trapping Rain Water in C++ . We are given with n non-negative integers representing an elevation map where the width of each bar is 1, we need to compute how much water it is able to trap after raining.
 
-Input : str = “aabaabccded”
-Output : ded
+Example :
 
+Input : arr[5] = {3, 0, 2, 0, 4}
+Output : 7
+Explanation : We can trap “3 units” of water between 3 and 2, “1 unit” on top of bar 2 and “3 units” between 2 and 4. See below diagram also.
 ```
 **Author: Shreyash**
 
