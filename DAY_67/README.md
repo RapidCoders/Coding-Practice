@@ -12,8 +12,8 @@ Expected Output: "a!b@c#"
 Input: "hello", "world"
 Expected Output: "hweolrllod"
 
-Input: "hello world"
-Expected Output: " "
+Input: "aa", "bb"
+Expected Output: "abab"
 ```
 **Author: Vaibhav**
 
