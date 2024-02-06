@@ -6,8 +6,8 @@ Expected Output: "c"
 Input: "abcdef"
 Expected Output: "cd"
 
-Input: "   Hello", "World   "
-Expected Output: "   Hello World   "
+Input: "x"
+Expected Output: "x"
 
 Input: "This is a", "test"
 Expected Output: "This is a test"
