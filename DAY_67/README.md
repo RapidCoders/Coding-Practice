@@ -3,8 +3,8 @@
 Input: "abcd", "123"
 Expected Output: "a1b2c3d"
 
-Input: "abcdef"
-Expected Output: "cd"
+Input: "", "123"
+Expected Output: "123"
 
 Input: "x"
 Expected Output: "x"
