@@ -3,8 +3,8 @@
 Input: "abcde"
 Expected Output: "c"
 
-Input: "Hello!", "World?"
-Expected Output: "Hello! World?"
+Input: "abcdef"
+Expected Output: "cd"
 
 Input: "   Hello", "World   "
 Expected Output: "   Hello World   "
