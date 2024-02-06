@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes two strings as input and alternates their characters to form a new string.
 ```
-Input: "abcde"
-Expected Output: "c"
+Input: "abcd", "123"
+Expected Output: "a1b2c3d"
 
 Input: "abcdef"
 Expected Output: "cd"
