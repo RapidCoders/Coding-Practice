@@ -24,20 +24,13 @@ Expected Output: "abab"
 ```
 **Author: Suyash**
 
-# Q.3 write a program Print Right Diamond Number Pattern.
+# Q.3 write a program Remove all Adjacent Duplicate Characters.
 ```
-Input : First term =  3
+Input : str = "aacbbcaaded"
+Output : ded
 
-Output :
-
-3
-4 4
-5 5 5
-6 6 6 6
-6 6 6 6
-5 5 5
-4 4
-3
+Input : str = “aabaabccded”
+Output : e
 
 ```
 **Author: Shreyash**
