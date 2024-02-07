@@ -6,8 +6,8 @@ Expected Output: "a3b2c1"
 Input: ""
 Expected Output: ""
 
-Input: "abc", "!@#"
-Expected Output: "a!b@c#"
+Input: "x"
+Expected Output: "x1"
 
 Input: "hello", "world"
 Expected Output: "hweolrllod"
