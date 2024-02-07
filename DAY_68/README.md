@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a string as input and returns a compressed version of the string where consecutive repeated characters are replaced by the character followed by the count of repetitions.
 ```
-Input: "abcd", "123"
-Expected Output: "a1b2c3d"
+Input: "aaabbc"
+Expected Output: "a3b2c1"
 
 Input: "", "123"
 Expected Output: "123"
