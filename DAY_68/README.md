@@ -32,9 +32,9 @@ Example :
 Input : arr[5] = {3, 0, 2, 0, 4}
 Output : 7
 Explanation : We can trap “3 units” of water between 3 and 2, “1 unit” on top of bar 2 and “3 units” between 2 and 4. See below diagram also.
-
+```
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20200429012307/Untitled-Diagram811.png)
-
+```
 Input : arr[7] = {1, 0, 3, 0, 4, 0, 2}
 Output : 6
 ```
