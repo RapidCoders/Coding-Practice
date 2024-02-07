@@ -16,10 +16,11 @@ using std::cin;
 using std::cout;
 using std::string;
 
-string remove_adjacent_pairs(string str)
+string &remove_adjacent_pairs(string &str)
 {
     int i;
-    
+    string adjacent_removed_str;
+
     for (i = 1; i < str.length(); i++)
     {
         if (str[i - 1] == str[i])
@@ -28,7 +29,6 @@ string remove_adjacent_pairs(string str)
             i = 0;
         }
     }
-    
     return str;
 }
 
