@@ -9,8 +9,8 @@ Expected Output: ""
 Input: "x"
 Expected Output: "x1"
 
-Input: "hello", "world"
-Expected Output: "hweolrllod"
+Input: "!@##$$"
+Expected Output: "!1@1#2$2"
 
 Input: "aa", "bb"
 Expected Output: "abab"
