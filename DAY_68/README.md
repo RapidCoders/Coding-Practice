@@ -12,8 +12,8 @@ Expected Output: "x1"
 Input: "!@##$$"
 Expected Output: "!1@1#2$2"
 
-Input: "aa", "bb"
-Expected Output: "abab"
+Input: "abcdefg"
+Expected Output: "a1b1c1d1e1f1g1"
 ```
 **Author: Vaibhav**
 
