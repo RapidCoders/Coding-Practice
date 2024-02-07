@@ -19,7 +19,6 @@ using std::string;
 string &remove_adjacent_pairs(string &str)
 {
     int i;
-    string adjacent_removed_str;
 
     for (i = 1; i < str.length(); i++)
     {
