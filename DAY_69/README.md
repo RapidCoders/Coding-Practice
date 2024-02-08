@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns a compressed version of the string where consecutive repeated characters are replaced by the character followed by the count of repetitions.
+# Q.1 Write a program which takes input from the user and print the below pattern.
 ```
 Input: "aaabbc"
 Expected Output: "a3b2c1"
