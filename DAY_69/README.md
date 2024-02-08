@@ -1,19 +1,12 @@
 # Q.1 Write a program which takes input from the user and print the below pattern.
 ```
-Input: "aaabbc"
-Expected Output: "a3b2c1"
-
-Input: ""
-Expected Output: ""
-
-Input: "x"
-Expected Output: "x1"
-
-Input: "!@##$$"
-Expected Output: "!1@1#2$2"
-
-Input: "abcdefg"
-Expected Output: "a1b1c1d1e1f1g1"
+Input: 5
+Output:
+1  2  3  4  5
+16 17 18 19 6
+15 24 25 20 7
+14 23 22 21 8
+13 12 11 10 9
 ```
 **Author: Vaibhav**
 
