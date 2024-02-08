@@ -18,13 +18,13 @@ using std::cout;
 
 void print_pattern(int num)
 {
-    int i, j, k, counter = 1, **matrix = new int *[5];
+    int i, j, k, counter = 1, **matrix = new int *[num];
     if (matrix == nullptr)
         return;
 
     for (i = 0; i < num; i++)
     {
-        matrix[i] = new int[5];
+        matrix[i] = new int[num];
         if (matrix[i] == nullptr)
             return;
     }
