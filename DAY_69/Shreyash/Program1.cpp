@@ -22,20 +22,20 @@ void pattern(int num)
 
     while (row <= rowend && col <= colend)
     {
-
+	// direction ---->
         for (int i = col; i <= colend; i++)
         {
             mat[row][i] = count++;
         }
         row++;
 
-
+	// direction v
         for (int i = row; i <= rowend; i++)
         {
             mat[i][colend] = count++;
         }
         colend--;
-
+	// direction <----
         if (row <= rowend)
         {
             for (int i = colend; i >= col; i--)
@@ -43,7 +43,7 @@ void pattern(int num)
 
             rowend--;
         }
-
+	// direction ^
         if (col <= colend)
         {
             for (int i = rowend; i >= row; i--)
