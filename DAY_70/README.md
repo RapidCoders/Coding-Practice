@@ -11,6 +11,9 @@ Expected Output: 1 (8 is peak)
 
 Input: [10]
 Expected Output: 0 (No peak)
+
+Input: [2, -1, 0, -3, 5]
+Expected Output: 1 (0 is peak)
 ```
 **Author: Vaibhav**
 
