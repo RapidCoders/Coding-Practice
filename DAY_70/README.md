@@ -1,4 +1,4 @@
-# Q.1 Write a program which takes input from the user and print the below pattern.
+# Q.1 Write a function that takes a list of integers as input and returns the count of peak elements in the list. A peak element is defined as an element that is greater than its adjacent neighbors.
 ```
 Input: 5
 Output:
