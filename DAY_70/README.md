@@ -6,6 +6,8 @@ Expected Output: 2  (3, 4 are peaks)
 Input: [1, 2, 3, 4, 5]
 Expected Output: 0 (No peak)
 
+Input: [5, 3, 6, 8, 4]
+Expected Output: 1 (8 is peak)
 ```
 **Author: Vaibhav**
 
