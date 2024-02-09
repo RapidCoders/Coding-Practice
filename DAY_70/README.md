@@ -4,7 +4,7 @@ Input: [1, 3, 2, 4, 1, 5, 6]
 Expected Output: 2  (3, 4 are peaks)
 
 Input: [1, 2, 3, 4, 5]
-Expected Output: 0 (No peaks)
+Expected Output: 0 (No peak)
 
 ```
 **Author: Vaibhav**
