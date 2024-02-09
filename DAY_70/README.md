@@ -25,5 +25,3 @@ Input : arr[] = { 100, 2, 70, 12 , 90};
 Output : 5 1 3 2 4
 ```
 **Author: Shreyash**
-
-
