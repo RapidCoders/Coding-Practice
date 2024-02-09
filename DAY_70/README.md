@@ -1,12 +1,7 @@
 # Q.1 Write a function that takes a list of integers as input and returns the count of peak elements in the list. A peak element is defined as an element that is greater than its adjacent neighbors.
 ```
-Input: 5
-Output:
-1  2  3  4  5
-16 17 18 19 6
-15 24 25 20 7
-14 23 22 21 8
-13 12 11 10 9
+Input: [1, 3, 2, 4, 1, 5, 6]
+Expected Output: 2  (3, 4 are peaks)
 ```
 **Author: Vaibhav**
 
