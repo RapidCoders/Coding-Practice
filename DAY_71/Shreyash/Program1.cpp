@@ -1,46 +1,32 @@
 #include<iostream>
-using namespace std;
+#include<vector>
 
-void sum(int mat[3][3],const int row,const int col)
+int product(std :: vector<int>arr)
 {
-  for ( int i = 0; i < row; i++)
+  int pro = 1;
+  for (int i = 0; i < arr.size(); i++)
   {
-    int sum = 0;
-    for (int j = 0; j < col; j++)
+    if(arr[i] != 0)
     {
-      sum += mat[i][j];
+      pro *= arr[i];
     }
-    cout <<"Sum of "<<i<<" Row :"<< sum << endl;
-    
   }
-  for ( int i = 0; i < row; i++)
-  {
-    int sum = 0;
-    for (int j = 0; j < col; j++)
-    {
-      sum += mat[j][i];
-    }
-    cout <<"Sum of "<<i<<" Column :"<< sum << endl;
-    
-  }
+  return pro;
   
-
-
 }
 
 int main()
 {
-  const int row = 3;
-  const int col = 3;
-  int mat[row][col];
-  for ( int i = 0; i < row; i++)
+  std::vector<int>arr;
+  int num;
+  std :: cin >> num;
+  for(int i = 0;i<num;i++)
   {
-    for (int j = 0; j < col; j++)
-    {
-      cin >> mat[i][j];
-    }
-    
+    int temp;
+    std :: cin >> temp;
+    arr.push_back(temp);
   }
-  sum(mat,row,col);
+
+  std :: cout << "Product of non- zero elements :" << product(arr);
   return 0;
 }
