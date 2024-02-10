@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a list of integers as input and returns the product of all non-zero digits in the list.
 ```
-Input: [1, 3, 2, 4, 1, 5, 6]
-Expected Output: 2  (3, 4 are peaks)
+Input: [0, 2, 3, 0, 4, 5]
+Expected Output: 120
 
 Input: [1, 2, 3, 4, 5]
 Expected Output: 0 (No peak)
