@@ -3,8 +3,8 @@
 Input: [0, 2, 3, 0, 4, 5]
 Expected Output: 120
 
-Input: [1, 2, 3, 4, 5]
-Expected Output: 0 (No peak)
+Input: [0, 0, 0, 0]
+Expected Output: 1
 
 Input: [5, 3, 6, 8, 4]
 Expected Output: 1 (8 is peak)
