@@ -9,8 +9,8 @@ Expected Output: 1
 Input: [0, 0, 0, 5]
 Expected Output: 5
 
-Input: [10]
-Expected Output: 0 (No peak)
+Input: [-2, 0, -3, 0, 4, -5]
+Expected Output: -120
 
 Input: [2, -1, 0, -3, 5]
 Expected Output: 1 (0 is peak)
