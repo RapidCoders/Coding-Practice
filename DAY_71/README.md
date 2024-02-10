@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a list of integers as input and returns the count of peak elements in the list. A peak element is defined as an element that is greater than its adjacent neighbors.
+# Q.1 Write a function that takes a list of integers as input and returns the product of all non-zero digits in the list.
 ```
 Input: [1, 3, 2, 4, 1, 5, 6]
 Expected Output: 2  (3, 4 are peaks)
