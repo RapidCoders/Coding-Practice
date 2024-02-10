@@ -24,10 +24,22 @@ Expected Output: 1 (0 is peak)
 ```
 **Author: Suyash**
 
-# Q.3 write a Program to get number is even or odd(Note You are not allowed to use directly % operator).
+# Q.3 write a Program to find the sum of each row and each column of a matrix.
 ```
-Input : num = 44
-Output : Even
+Input :
+     int a[][] = {       
+                        {1, 2, 3},    
+                        {4, 5, 6},    
+                        {7, 8, 9}    
+                    };   
+Output :
+
+Sum of 1 row: 6
+Sum of 2 row: 15
+Sum of 3 row: 24
+Sum of 1 column: 12
+Sum of 2 column: 15
+Sum of 3 column: 18
 ```
 **Author: Shreyash**
 
