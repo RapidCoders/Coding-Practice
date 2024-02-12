@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a string as input and returns the character that appears consecutively the most number of times, along with the count of consecutive occurrences.
 ```
-Input: [1, 2, 3, 2, 1]
-Expected Output: True
+Input: "hello world"
+Expected Output: 'l', 2
 
 Input: [1, 2, 3, 4, 5]
 Expected Output: False
