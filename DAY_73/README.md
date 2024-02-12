@@ -6,8 +6,8 @@ Expected Output: 'l', 2
 Input: "aabbbccccddddd"
 Expected Output: 'd', 5
 
-Input:  [1, 2, 3, 4, 4, 3, 2, 1]
-Expected Output: True
+Input: ""
+Expected Output: '', 0
 
 Input: []
 Expected Output: False
