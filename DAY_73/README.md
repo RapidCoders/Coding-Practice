@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes an array of integers as input and returns True if the array represents a mountain, and False otherwise. An array is considered a mountain if it consists of elements that are strictly increasing up to a peak, and then strictly decreasing.
+# Q.1 Write a function that takes a string as input and returns the character that appears consecutively the most number of times, along with the count of consecutive occurrences.
 ```
 Input: [1, 2, 3, 2, 1]
 Expected Output: True
