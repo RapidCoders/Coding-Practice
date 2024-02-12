@@ -9,8 +9,8 @@ Expected Output: False
 Input:  [1, 2, 3, 4, 4, 3, 2, 1]
 Expected Output: True
 
-Input: [-2, 0, -3, 0, 4, -5]
-Expected Output: -120
+Input: []
+Expected Output: False
 
 Input: [10, 20, 0, 30, 40]
 Expected Output: 240000
