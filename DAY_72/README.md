@@ -6,8 +6,8 @@ Expected Output: True
 Input: [1, 2, 3, 4, 5]
 Expected Output: False
 
-Input: [0, 0, 0, 5]
-Expected Output: 5
+Input:  [1, 2, 3, 4, 4, 3, 2, 1]
+Expected Output: True
 
 Input: [-2, 0, -3, 0, 4, -5]
 Expected Output: -120
