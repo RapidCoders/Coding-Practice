@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes an array of integers as input and returns True if the array represents a mountain, and False otherwise. An array is considered a mountain if it consists of elements that are strictly increasing up to a peak, and then strictly decreasing.
 ```
-Input: [0, 2, 3, 0, 4, 5]
-Expected Output: 120
+Input: [1, 2, 3, 2, 1]
+Expected Output: True
 
 Input: [0, 0, 0, 0]
 Expected Output: 1
