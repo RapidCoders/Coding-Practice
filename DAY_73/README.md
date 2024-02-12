@@ -3,8 +3,8 @@
 Input: "hello world"
 Expected Output: 'l', 2
 
-Input: [1, 2, 3, 4, 5]
-Expected Output: False
+Input: "aabbbccccddddd"
+Expected Output: 'd', 5
 
 Input:  [1, 2, 3, 4, 4, 3, 2, 1]
 Expected Output: True
