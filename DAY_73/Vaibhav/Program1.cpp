@@ -33,11 +33,8 @@ struct Result
 Result most_consecutive_occ(const string &str)
 {
     char c;
-    Result result;
+    Result result = {str[0], 0};
     int i, j, count = 0, length = str.length();
-
-    result.c = str[0];
-    result.consecutive_count = 0;
 
     for (i = 0; i < length; i++)
     {
