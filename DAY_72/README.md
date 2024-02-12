@@ -12,8 +12,8 @@ Expected Output: True
 Input: []
 Expected Output: False
 
-Input: [10, 20, 0, 30, 40]
-Expected Output: 240000
+Input: [6, 7, 8, 5, 4]
+Expected Output: False
 ```
 **Author: Vaibhav**
 
