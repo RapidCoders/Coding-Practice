@@ -9,14 +9,8 @@ Expected Output: 'd', 5
 Input: ""
 Expected Output: '', 0
 
-Input: []
-Expected Output: False
-
-Input: [6, 7, 8, 5, 4]
-Expected Output: False
-
-Input: [1]
-Expected Output: True
+Input: "aaaaa"
+Expected Output: 'a', 5
 ```
 **Author: Vaibhav**
 
