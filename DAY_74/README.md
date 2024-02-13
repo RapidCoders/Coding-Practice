@@ -11,6 +11,9 @@ Expected Output: True
 
 Input: [1, 2, 3, 4, 5], [1, 2, 3, 4, 6]
 Expected Output: False
+
+Input: [], []
+Expected Output: True
 ```
 **Author: Vaibhav**
 
