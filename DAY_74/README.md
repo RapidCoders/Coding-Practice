@@ -3,8 +3,8 @@
 Input: [1, 2, 3, 4, 5], [1, 2, 3, 4, 5]
 Expected Output: True
 
-Input: "aabbbccccddddd"
-Expected Output: 'd', 5
+Input: [1, 2, 3, 4, 5], [4, 5, 1, 2, 3]
+Expected Output: True
 
 Input: ""
 Expected Output: '', 0
