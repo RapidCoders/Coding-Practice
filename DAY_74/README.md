@@ -6,8 +6,8 @@ Expected Output: True
 Input: [1, 2, 3, 4, 5], [4, 5, 1, 2, 3]
 Expected Output: True
 
-Input: ""
-Expected Output: '', 0
+Input: [1, 2, 3, 4, 5], [3, 4, 5, 1, 2]
+Expected Output: True
 
 Input: "aaaaa"
 Expected Output: 'a', 5
