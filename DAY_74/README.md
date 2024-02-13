@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns the character that appears consecutively the most number of times, along with the count of consecutive occurrences.
+# Q.1 Write a program that takes two arrays of integers as input and returns True if one array is a rotation of the other array, and False otherwise. A rotation occurs when elements are shifted circularly to the left or right.
 ```
 Input: "hello world"
 Expected Output: 'l', 2
