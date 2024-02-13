@@ -9,8 +9,8 @@ Expected Output: True
 Input: [1, 2, 3, 4, 5], [3, 4, 5, 1, 2]
 Expected Output: True
 
-Input: "aaaaa"
-Expected Output: 'a', 5
+Input: [1, 2, 3, 4, 5], [1, 2, 3, 4, 6]
+Expected Output: False
 ```
 **Author: Vaibhav**
 
