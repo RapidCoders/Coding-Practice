@@ -1,3 +1,14 @@
+// Q.3 Write a program to Print given pattern .
+// Input : 5
+// Output :
+//          A B C D E F G H I 
+//            A           G 
+//              A       E 
+//                A   C 
+//                  A 
+
+// Author: Shreyash
+
 #include<iostream>
 // using namespace std;
 
