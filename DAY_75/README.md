@@ -12,8 +12,8 @@ Expected Output: 2
 Input: "abbxa"
 Expected Output: 3
 
-Input: [], []
-Expected Output: True
+Input: "racecar"
+Expected Output: -1
 ```
 **Author: Vaibhav**
 
