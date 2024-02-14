@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a string as input and returns the index of the character that, if removed, would make the string a palindrome. If the string is already a palindrome, return -1. If no such index exists, return -1.
 ```
-Input: [1, 2, 3, 4, 5], [1, 2, 3, 4, 5]
-Expected Output: True
+Input: "radar"
+Expected Output: -1
 
 Input: [1, 2, 3, 4, 5], [4, 5, 1, 2, 3]
 Expected Output: True
