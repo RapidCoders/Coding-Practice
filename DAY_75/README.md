@@ -6,8 +6,8 @@ Expected Output: -1
 Input: "a"
 Expected Output: -1
 
-Input: [1, 2, 3, 4, 5], [3, 4, 5, 1, 2]
-Expected Output: True
+Input: "abca"
+Expected Output: 2
 
 Input: [1, 2, 3, 4, 5], [1, 2, 3, 4, 6]
 Expected Output: False
