@@ -3,8 +3,8 @@
 Input: "radar"
 Expected Output: -1
 
-Input: [1, 2, 3, 4, 5], [4, 5, 1, 2, 3]
-Expected Output: True
+Input: "a"
+Expected Output: -1
 
 Input: [1, 2, 3, 4, 5], [3, 4, 5, 1, 2]
 Expected Output: True
