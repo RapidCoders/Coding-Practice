@@ -21,10 +21,15 @@ Expected Output: 'a', 5
 ```
 **Author: Suyash**
 
-# Q.3 .
+# Q.3 Write a program to Print given pattern .
 ```
-Input : 
-Output : 
+Input : 5
+Output :
+         A B C D E F G H I 
+           A           G 
+             A       E 
+               A   C 
+                 A 
 
 ```
 **Author: Shreyash**
