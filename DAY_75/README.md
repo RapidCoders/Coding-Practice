@@ -14,6 +14,8 @@ Expected Output: 3
 
 Input: "racecar"
 Expected Output: -1
+Input: ""
+Expected Output: -1
 ```
 **Author: Vaibhav**
 
