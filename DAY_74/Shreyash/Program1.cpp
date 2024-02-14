@@ -15,3 +15,59 @@
 // Expected Output: True
 // Author: Vaibhav
 
+
+#include<iostream>
+#include<vector>
+using namespace std;
+
+bool is_rotationof(vector<int>arr0,vector<int>arr1)
+{
+  int count = 0;
+  for(int i : arr0)
+  {
+    for(int j : arr1)
+    {
+      if(i == j)
+      {
+        count++;
+      }
+    }
+  }
+  if(count == arr1.size())
+  {
+    return true;
+  }
+
+  return false;
+}
+
+int main()
+{
+  vector<int>arr;
+  vector<int>arr1;
+  int num;
+  cin >> num;
+  for(int i = 0;i<num;i++)
+  {
+    int temp;
+    cin >> temp;
+    arr.push_back(temp);
+  }
+  int num1;
+  cin >> num1;
+  for(int i = 0;i<num1;i++)
+  {
+    int temp1;
+    cin >> temp1;
+    arr1.push_back(temp1);
+  }
+  if(is_rotationof(arr,arr1))
+  {
+    cout << "True";
+  }
+  else{
+    cout << "False";
+  }
+  
+  return 0;
+}
