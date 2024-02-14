@@ -9,8 +9,8 @@ Expected Output: -1
 Input: "abca"
 Expected Output: 2
 
-Input: [1, 2, 3, 4, 5], [1, 2, 3, 4, 6]
-Expected Output: False
+Input: "abbxa"
+Expected Output: 3
 
 Input: [], []
 Expected Output: True
