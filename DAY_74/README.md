@@ -24,13 +24,11 @@ Expected Output: True
 ```
 **Author: Suyash**
 
-# Q.3 write a program to capitalize the first and last letter of each word of a string.
+# Q.3 .
 ```
-Input : str = "Prep insta"
-Output : PreP InstA
+Input : 
+Output : 
 
-Input : str = "my name is shreyash gaikwad."
-Output : MY NamE IS ShreyasH GaikwaD.
 ```
 **Author: Shreyash**
 
