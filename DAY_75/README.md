@@ -17,9 +17,6 @@ Expected Output: -1
 
 Input: ""
 Expected Output: -1
-
-Input: "abxyzyxbc"
-Expected Output: 0 or 8
 ```
 **Author: Vaibhav**
 
