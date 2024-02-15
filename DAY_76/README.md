@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a string as input and returns the index of the character that, if removed, would make the string a palindrome. If the string is already a palindrome, return -1. If no such index exists, return -1.
+# Q.1 Write a function that takes a list of integers as input and returns the first duplicate number found in the list. If there are no duplicates, return -1.
 ```
 Input: "radar"
 Expected Output: -1
