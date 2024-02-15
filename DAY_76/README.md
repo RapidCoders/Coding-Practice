@@ -8,8 +8,9 @@ Expected Output: -1
 
 Input: [1, 2, 3, 4, 3, 5, 5, 6]
 Expected Output: 3
-Input: "abbxa"
-Expected Output: 3
+
+Input: [-1, 2, -3, 4, -3, 5]
+Expected Output: -3
 
 Input: "racecar"
 Expected Output: -1
