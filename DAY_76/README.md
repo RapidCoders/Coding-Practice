@@ -12,10 +12,7 @@ Expected Output: 3
 Input: [-1, 2, -3, 4, -3, 5]
 Expected Output: -3
 
-Input: "racecar"
-Expected Output: -1
-
-Input: ""
+Input: []
 Expected Output: -1
 ```
 **Author: Vaibhav**
