@@ -29,16 +29,13 @@ Expected Output: None
 Input:
 N = 4
 A[] = {4, 2, 5, 7}
-Output:
-5
-Explanation:
-Elements on left of 5 are smaller than 5and on right of it are greater than 5.
+Output: 5
+Explanation : Elements on left of 5 are smaller than 5and on right of it are greater than 5.
 
 Input:
 N = 3
 A[] = {11, 9, 12}
-Output:
--1
+Output: -1
 ```
 **Author: Shreyash**
 
