@@ -13,7 +13,7 @@ Input: [-1, -2, -3, -2, -1, -3, -4, -4, -5]
 Expected Output: -5
 
 Input: []
-Expected Output: -1
+Expected Output: None
 ```
 **Author: Vaibhav**
 
