@@ -3,7 +3,7 @@
 Input: [1, 2, 3, 4, 3, 5]
 Expected Output: 3
 
-Input: "a"
+Input: [1, 2, 3, 4, 5]
 Expected Output: -1
 
 Input: "abca"
