@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a list of integers as input and returns the first duplicate number found in the list. If there are no duplicates, return -1.
+# Q.1 Write a function that takes a list of integers as input, where each integer appears an even number of times except for one, which appears an odd number of times. The function should return the integer that appears an odd number of times.
 ```
 Input: [1, 2, 3, 4, 3, 5]
 Expected Output: 3
