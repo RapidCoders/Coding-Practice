@@ -24,21 +24,17 @@ Expected Output: -1
 ```
 **Author: Suyash**
 
-# Q.3 Given two numbers M and N. The task is to find the position of the rightmost different bit in the binary representation of numbers. If both M and N are the same then return -1 in this case.
+# Q.3 Your task is to implement the function strstr. The function takes two strings as arguments (s,x) and  locates the occurrence of the string x in the string s. The function returns an integer denoting the first occurrence of the string x in s (0 based indexing).
 ```
-Input: 
-M = 11, N = 9
-Output: 
-2
-Explanation: 
-Binary representation of the given numbers are: 1011 and 1001, 2nd bit from right is different.
+Input:
+s = GeeksForGeeks, x = Fr
+Output: -1
+Explanation: Fr is not present in the string GeeksForGeeks as substring.
 
-Input: 
-M = 52, N = 4
-Output: 
-5
-Explanation: 
-Binary representation of the given numbers are: 110100 and 0100, 5th-bit from right is different.
+Input:
+s = GeeksForGeeks, x = For
+Output: 5
+Explanation: For is present as substring in GeeksForGeeks from index 5 (0 based indexing).
 ```
 **Author: Shreyash**
 
