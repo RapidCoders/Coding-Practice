@@ -38,7 +38,7 @@ int find_different_bit(int m, int n)
         m = m / 2;
         n = n / 2;
     }
-    
+
     return count_bit;
 }
 
@@ -62,7 +62,6 @@ int main(void)
 
     cout << '\n'
          << result;
-
     if (result == 1)
         cout << "st ";
     else if (result == 2)
