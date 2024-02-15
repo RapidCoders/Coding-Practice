@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a list of integers as input and returns the first duplicate number found in the list. If there are no duplicates, return -1.
 ```
-Input: "radar"
-Expected Output: -1
+Input: [1, 2, 3, 4, 3, 5]
+Expected Output: 3
 
 Input: "a"
 Expected Output: -1
