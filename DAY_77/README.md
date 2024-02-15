@@ -24,21 +24,21 @@ Expected Output: None
 ```
 **Author: Suyash**
 
-# Q.3 Given two numbers M and N. The task is to find the position of the rightmost different bit in the binary representation of numbers. If both M and N are the same then return -1 in this case.
+# Q.3 Given an unsorted array of size N. Find the first element in array such that all of its left elements are smaller and all right elements to it are greater than it.
 ```
-Input: 
-M = 11, N = 9
-Output: 
-2
-Explanation: 
-Binary representation of the given numbers are: 1011 and 1001, 2nd bit from right is different.
-
-Input: 
-M = 52, N = 4
-Output: 
+Input:
+N = 4
+A[] = {4, 2, 5, 7}
+Output:
 5
-Explanation: 
-Binary representation of the given numbers are: 110100 and 0100, 5th-bit from right is different.
+Explanation:
+Elements on left of 5 are smaller than 5and on right of it are greater than 5.
+
+Input:
+N = 3
+A[] = {11, 9, 12}
+Output:
+-1
 ```
 **Author: Shreyash**
 
