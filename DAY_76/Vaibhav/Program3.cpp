@@ -34,7 +34,7 @@ int strstr(char *s, char *x)
             while ((s[i] != '\0') && (x[j] != '\0'))
             {
                 if (s[i] != x[j])
-                    return -1;
+                    break;
                 i++;
                 j++;
             }
