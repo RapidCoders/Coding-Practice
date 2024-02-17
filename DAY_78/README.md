@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a list of integers as input, where each integer appears an even number of times except for one, which appears an odd number of times. The function should return the integer that appears an odd number of times.
+# Q.1 Write a function that takes a positive integer n as input and returns the sum of the squares of all positive integers up to n.
 ```
 Input: [1, 2, 3, 2, 1, 3, 4, 4, 5]
 Expected Output: 5
