@@ -35,8 +35,14 @@ int main()
     std :: cin >> num;
     int *ptr = &num;
 
-    std :: cout << sqr_sum(ptr);
-
+    if(*ptr > 0)
+    {
+        std :: cout << sqr_sum(ptr);
+    }
+    else
+    {
+        std :: cout << "Invalid input. ";
+    }
     return 0;
 }
 
