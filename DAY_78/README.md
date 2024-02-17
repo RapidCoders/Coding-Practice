@@ -6,8 +6,8 @@ Output: 55  # 1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 1 + 4 + 9 + 16 + 25 = 55
 Input: 10
 Expected Output: 385
 
-Input: [1000000, 2, 3, 2, 1000000, 3, 4, 4, 999999]
-Expected Output: 999999
+Input: 1
+Expected Output: 1
 
 Input: [-1, -2, -3, -2, -1, -3, -4, -4, -5]
 Expected Output: -5
