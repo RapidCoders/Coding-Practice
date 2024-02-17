@@ -12,8 +12,8 @@ Expected Output: 1
 Input: 0
 Expected Output: 0
 
-Input: []
-Expected Output: None
+Input: -5
+Expected Output: None (or any indication that input is invalid)
 ```
 **Author: Vaibhav**
 
