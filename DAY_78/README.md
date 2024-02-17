@@ -1,7 +1,7 @@
 # Q.1 Write a function that takes a positive integer n as input and returns the sum of the squares of all positive integers up to n.
 ```
-Input: [1, 2, 3, 2, 1, 3, 4, 4, 5]
-Expected Output: 5
+Input: 5
+Output: 55  # 1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 1 + 4 + 9 + 16 + 25 = 55
 
 Input: [-1, 2, 3, 2, -1, 3, 4, 4, 5]
 Expected Output: 5
