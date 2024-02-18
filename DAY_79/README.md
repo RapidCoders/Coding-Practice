@@ -11,7 +11,6 @@ Expected Output: 4
 
 Input: ""
 Expected Output: 0
-
 ```
 **Author: Vaibhav**
 
