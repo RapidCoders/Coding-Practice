@@ -1,6 +1,8 @@
 # Q.1 Write a function that takes a sentence as input and returns the count of words whose reversed form is also present in the sentence.
 ```
-Write a function that takes a sentence as input and returns the count of words whose reversed form is also present in the sentence.
+Input: "wow! mom and dad are always the best"
+Output: 3  # Words "wow", "mom", and "dad" have their reversed forms present in the sentence
+
 
 Input: 10
 Expected Output: 385
