@@ -6,9 +6,9 @@ Output: 3  # Words "wow", "mom", and "dad" have their reversed forms present in 
 Input: "hello world"
 Expected Output: 0
 
+Input: "racecar level kayak civic"
+Expected Output: 4
 
-Input: 1
-Expected Output: 1
 
 Input: 0
 Expected Output: 0
