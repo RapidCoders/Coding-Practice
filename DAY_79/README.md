@@ -3,9 +3,9 @@
 Input: "wow! mom and dad are always the best"
 Output: 3  # Words "wow", "mom", and "dad" have their reversed forms present in the sentence
 
+Input: "hello world"
+Expected Output: 0
 
-Input: 10
-Expected Output: 385
 
 Input: 1
 Expected Output: 1
