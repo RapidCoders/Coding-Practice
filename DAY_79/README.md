@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a positive integer n as input and returns the sum of the squares of all positive integers up to n.
+# Q.1 Write a function that takes a sentence as input and returns the count of words whose reversed form is also present in the sentence.
 ```
 Input: 5
 Output: 55  # 1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 1 + 4 + 9 + 16 + 25 = 55
