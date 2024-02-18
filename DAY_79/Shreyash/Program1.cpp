@@ -1,3 +1,19 @@
+
+// Q.1 Write a function that takes a sentence as input and returns the count of words whose reversed form is also present in the sentence.
+// Input: "wow! mom and dad are always the best"
+// Output: 3  # Words "wow", "mom", and "dad" have their reversed forms present in the sentence
+
+// Input: "hello world"
+// Expected Output: 0
+
+// Input: "racecar level kayak civic"
+// Expected Output: 4
+
+// Input: ""
+// Expected Output: 0
+// Author: Vaibhav
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
