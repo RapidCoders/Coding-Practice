@@ -9,9 +9,6 @@ Expected Output: 0
 Input: "racecar level kayak civic"
 Expected Output: 4
 
-Input: "wow! mom and dad are always the best."
-Expected Output: 3
-
 Input: ""
 Expected Output: 0
 
