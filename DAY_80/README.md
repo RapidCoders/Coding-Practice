@@ -14,7 +14,6 @@ Expected Output: 13
 
 Input: '1' (not a lowercase letter)
 Expected Output: None (or any indication of invalid input handling)
-
 ```
 **Author: Vaibhav**
 
