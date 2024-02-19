@@ -6,9 +6,9 @@ Expected Output: 3
 Input: 'a'
 Expected Output: 1
 
+Input: 'z'
+Expected Output: 26
 
-Input: "racecar level kayak civic"
-Expected Output: 4
 
 Input: ""
 Expected Output: 0
