@@ -9,9 +9,9 @@ Expected Output: 1
 Input: 'z'
 Expected Output: 26
 
+Input: 'm'
+Expected Output: 13
 
-Input: ""
-Expected Output: 0
 ```
 **Author: Vaibhav**
 
