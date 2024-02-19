@@ -1,7 +1,8 @@
 # Q.1 Write a function that takes a lowercase letter (a-z) as input and returns its position in the alphabet. Assume that the input will always be a lowercase letter.
 ```
-Input: "wow! mom and dad are always the best"
-Output: 3  # Words "wow", "mom", and "dad" have their reversed forms present in the sentence
+Input: 'c'
+Expected Output: 3
+
 
 Input: "hello world"
 Expected Output: 0
