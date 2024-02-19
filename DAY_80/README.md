@@ -3,9 +3,9 @@
 Input: 'c'
 Expected Output: 3
 
+Input: 'a'
+Expected Output: 1
 
-Input: "hello world"
-Expected Output: 0
 
 Input: "racecar level kayak civic"
 Expected Output: 4
