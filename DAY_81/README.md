@@ -28,21 +28,19 @@ Expected Output: []
 ```
 **Author: Suyash**
 
-# Q.3 Given an array of strings arr[] of length n representing non-negative integers, arrange them in a manner, such that, after concatanating them in order, it results in the largest possible number. Since the result may be very large, return it as a string.
+# Q.3 Given a string S. The task is to print all unique permutations of the given string that may contain dulplicates in lexicographically sorted order. 
 ```
-Input: 
-n = 5
-arr[] =  {"3", "30", "34", "5", "9"}
-Output: "9534330"
-Explanation: 
-Given numbers are  {"3", "30", "34", "5", "9"}, the arrangement "9534330" gives the largest value.
+Input: ABC
+Output: ABC ACB BAC BCA CAB CBA
+Explanation: Given string ABC has permutations in 6 forms as ABC, ACB, BAC, BCA, CAB and CBA .
 
-Input: 
-n = 4
-arr[] =  {"54", "546", "548", "60"}
-Output: "6054854654"
-Explanation: 
-Given numbers are {"54", "546", "548", "60"}, the arrangement "6054854654" gives the largest value.
+Input: ABSG
+Output:
+ABGS ABSG AGBS AGSB ASBG ASGB BAGS 
+BASG BGAS BGSA BSAG BSGA GABS GASB 
+GBAS GBSA GSAB GSBA SABG SAGB SBAG 
+SBGA SGAB SGBA
+Explanation: Given string ABSG has 24 permutations.
 ```
 **Author: Shreyash**
 
