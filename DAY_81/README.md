@@ -13,8 +13,8 @@ Expected Output: [18, 12, 11, 13, 22]
 Input: [1, 1, 1, 1]
 Expected Output: [0, 0, 0, 0]
 
-Input: 'm'
-Expected Output: 13
+Input: [9]
+Expected Output: [0]
 
 Input: '1' (not a lowercase letter)
 Expected Output: None (or any indication of invalid input handling)
