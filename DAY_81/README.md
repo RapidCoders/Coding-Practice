@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a lowercase letter (a-z) as input and returns its position in the alphabet. Assume that the input will always be a lowercase letter.
+# Q.1 Write a function that takes a list of integers as input and returns another list where each element is the sum of the absolute differences between that element and all other elements in the list.
 ```
 Input: 'c'
 Expected Output: 3
