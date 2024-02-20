@@ -10,8 +10,8 @@ The same process applies to other elements.
 Input: [-3, -1, 0, 2, 5]
 Expected Output: [18, 12, 11, 13, 22]
 
-Input: 'z'
-Expected Output: 26
+Input: [1, 1, 1, 1]
+Expected Output: [0, 0, 0, 0]
 
 Input: 'm'
 Expected Output: 13
