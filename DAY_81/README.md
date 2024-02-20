@@ -2,7 +2,10 @@
 ```
 Input: [2, 4, 6, 8]
 Output: [12, 8, 8, 12]
-
+Explanation:
+For the first element (2), the absolute differences with other elements are |2-4| + |2-6| + |2-8| = 2 + 4 + 6 = 12.
+Similarly, for the second element (4), the absolute differences are |4-2| + |4-6| + |4-8| = 2 + 2 + 4 = 8.
+The same process applies to other elements.
 Input: 'a'
 Expected Output: 1
 
