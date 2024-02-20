@@ -76,4 +76,6 @@
 # [Day 76](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_76) <p>16/02/24<p>
 # [Day 77](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_77) <p>17/02/24<p>
 # [Day 78](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_78) <p>18/02/24<p>
+# [Day 79](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_79) <p>19/02/24<p>
+# [Day 80](https://github.com/RapidCoders/Coding-Practice/tree/main/DAY_80) <p>20/02/24<p>
 
