@@ -16,8 +16,8 @@ Expected Output: [0, 0, 0, 0]
 Input: [9]
 Expected Output: [0]
 
-Input: '1' (not a lowercase letter)
-Expected Output: None (or any indication of invalid input handling)
+Input: []
+Expected Output: []
 ```
 **Author: Vaibhav**
 
