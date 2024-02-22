@@ -18,16 +18,17 @@ Author: Shreyash
 
 #include <iostream>
 #include <algorithm>
-
-using namespace std;
+using std::cin;
+using std::cout;
+using std::string;
 
 void print_permutations(string str)
 {
     sort(str.begin(), str.end());
 
-    cout << str << endl;
+    cout << str << '\n';
     while (next_permutation(str.begin(), str.end()))
-        cout << str << endl;
+        cout << str << '\n';
 }
 
 int main(void)
