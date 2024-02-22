@@ -12,8 +12,8 @@ Expected Output: "a"
 Input: "aeiou"
 Expected Output: "uoiea"
 
-Input: []
-Expected Output: []
+Input: "leetcode"
+Expected Output: "leotcede"
 ```
 **Author: Vaibhav**
 
