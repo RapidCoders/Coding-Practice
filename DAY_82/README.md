@@ -1,4 +1,4 @@
-# Q.1 Write a function that takes a list of integers as input and returns another list where each element is the sum of the absolute differences between that element and all other elements in the list.
+# Q.1 Given a string s, your task is to reverse only the vowels in the string.
 ```
 Input: [2, 4, 6, 8]
 Output: [12, 8, 8, 12]
