@@ -3,8 +3,8 @@
 Input: "hello"
 Expected Output: "holle"
 
-Input: [-3, -1, 0, 2, 5]
-Expected Output: [18, 12, 11, 13, 22]
+Input: "xyz"
+Expected Output: "xyz"
 
 Input: [1, 1, 1, 1]
 Expected Output: [0, 0, 0, 0]
