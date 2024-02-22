@@ -6,8 +6,8 @@ Expected Output: "holle"
 Input: "xyz"
 Expected Output: "xyz"
 
-Input: [1, 1, 1, 1]
-Expected Output: [0, 0, 0, 0]
+Input: "a"
+Expected Output: "a"
 
 Input: [9]
 Expected Output: [0]
