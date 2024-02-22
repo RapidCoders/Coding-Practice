@@ -9,8 +9,8 @@ Expected Output: "xyz"
 Input: "a"
 Expected Output: "a"
 
-Input: [9]
-Expected Output: [0]
+Input: "aeiou"
+Expected Output: "uoiea"
 
 Input: []
 Expected Output: []
