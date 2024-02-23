@@ -1,7 +1,7 @@
 # Q.1 You are given two sorted arrays nums1 and nums2, where nums1 has enough space at the end to hold additional elements from nums2. Merge nums2 into nums1 in sorted order.
 ```
-Input: "hello"
-Expected Output: "holle"
+Input: nums1 = [1, 2, 3, 0, 0, 0], m = 3, nums2 = [2, 5, 6], n = 3
+Expected Output: [1, 2, 2, 3, 5, 6]
 
 Input: "xyz"
 Expected Output: "xyz"
