@@ -36,7 +36,7 @@ the bits from 2nd to 3rd position we get
 (10111)2 = (23)10
 
 Input:
-N = 50 , L = 2 , R = 5
+N = 50 , Left = 2 , Right = 5
 Output:
 44
 Explanation:
