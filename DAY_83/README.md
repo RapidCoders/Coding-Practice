@@ -6,9 +6,9 @@ Expected Output: [1, 2, 2, 3, 5, 6]
 Input: nums1 = [1, 2, 3], m = 3, nums2 = [], n = 0
 Expected Output: [1, 2, 3]
 
+Input: nums1 = [0, 0, 0], m = 0, nums2 = [2, 5, 6], n = 3
+Expected Output: [2, 5, 6]
 
-Input: "a"
-Expected Output: "a"
 
 Input: "aeiou"
 Expected Output: "uoiea"
