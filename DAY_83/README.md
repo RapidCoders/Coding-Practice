@@ -9,9 +9,9 @@ Expected Output: [1, 2, 3]
 Input: nums1 = [0, 0, 0], m = 0, nums2 = [2, 5, 6], n = 3
 Expected Output: [2, 5, 6]
 
+Input: nums1 = [1, 3, 5, 0, 0, 0], m = 3, nums2 = [2, 4, 6], n = 3
+Expected Output: [1, 2, 3, 4, 5, 6]
 
-Input: "aeiou"
-Expected Output: "uoiea"
 
 Input: "leetcode"
 Expected Output: "leotcede"
