@@ -12,9 +12,8 @@ Expected Output: [2, 5, 6]
 Input: nums1 = [1, 3, 5, 0, 0, 0], m = 3, nums2 = [2, 4, 6], n = 3
 Expected Output: [1, 2, 3, 4, 5, 6]
 
-
-Input: "leetcode"
-Expected Output: "leotcede"
+Input: nums1 = [1, 2, 2, 3, 0, 0], m = 4, nums2 = [2, 5, 6], n = 3
+Expected Output: [1, 2, 2, 2, 3, 5]
 ```
 **Author: Vaibhav**
 
