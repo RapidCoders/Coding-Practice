@@ -1,4 +1,4 @@
-# Q.1 Given a string s, your task is to reverse only the vowels in the string.
+# Q.1 You are given two sorted arrays nums1 and nums2, where nums1 has enough space at the end to hold additional elements from nums2. Merge nums2 into nums1 in sorted order.
 ```
 Input: "hello"
 Expected Output: "holle"
