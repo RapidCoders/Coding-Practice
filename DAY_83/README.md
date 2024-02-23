@@ -3,8 +3,9 @@
 Input: nums1 = [1, 2, 3, 0, 0, 0], m = 3, nums2 = [2, 5, 6], n = 3
 Expected Output: [1, 2, 2, 3, 5, 6]
 
-Input: "xyz"
-Expected Output: "xyz"
+Input: nums1 = [1, 2, 3], m = 3, nums2 = [], n = 0
+Expected Output: [1, 2, 3]
+
 
 Input: "a"
 Expected Output: "a"
