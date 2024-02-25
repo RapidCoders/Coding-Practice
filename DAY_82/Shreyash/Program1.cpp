@@ -19,6 +19,14 @@
 #include<vector>
 using namespace std;
 
+void swapp(char &strarr,char &strnarr)
+{
+    char c = strarr;
+    strarr = strnarr;
+    strnarr = c;
+
+}
+
 void re_vowels(string &str)
 {
     vector<int>arr;
@@ -40,7 +48,7 @@ void re_vowels(string &str)
     }
     for(int i = 0;i < arr.size();i++)
     {
-            swap(str[arr[i]], str[narr[i]]);
+            swapp(str[arr[i]], str[narr[i]]);
     }
     cout << str;
     
